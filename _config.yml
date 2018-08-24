@@ -2,6 +2,9 @@
 # Configuration flags
 #
 
+# So you forgot how to write in markdown?
+# https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 # Site name (displayed in the header)
 name: Keiland Cooper
 
@@ -9,7 +12,7 @@ name: Keiland Cooper
 description: Thoughts, memories, hacks, etc. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://avatars3.githubusercontent.com/u/17441478?s=460&v=4
 
 #
 # Flags below are optional
