@@ -3,7 +3,6 @@ layout: post
 title: Test 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 # Headers
 
@@ -40,5 +39,8 @@ print s
 s = "Python syntax highlighting"
 print s
 ```
-
+{% highlight python linenos %}
+def foo(x):
+    return(x)
+{% endhighlight %}
 
