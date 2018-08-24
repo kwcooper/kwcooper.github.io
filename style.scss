@@ -271,6 +271,7 @@ nav {
   }
 }
 
+/*
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
@@ -282,6 +283,16 @@ nav {
 footer {
   position: absolute;
   width: 100%;
+  text-align: center;
+}
+*/
+
+.footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
   text-align: center;
 }
 
