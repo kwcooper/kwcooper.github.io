@@ -40,7 +40,18 @@ s = "Python syntax highlighting"
 print s
 ```
 {% highlight python linenos %}
-def foo(x):
-    return(x)
+ def foo(x):
+     return(x)
 {% endhighlight %}
 
+{% highlight python %}
+def foo(x):
+     return(x)
+{% endhighlight %}
+
+{% highlight matlab %}
+function [out put] = name(x,y)
+    x = out;
+    y = put;
+end
+{% endhighlight %}
