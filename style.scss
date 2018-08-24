@@ -276,11 +276,13 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  position: absolute;
 }
 
 footer {
   position: absolute;
   padding: 20px 0;
+  width: 100%;
   text-align: center;
 }
 
