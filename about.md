@@ -8,8 +8,8 @@ permalink: /about/
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Soon...
 
 ### Contact me
 
-[kc@iu.edu](mailto:kc2@iu.edu)
+[kc42@iu.edu](mailto:kc42@iu.edu)
