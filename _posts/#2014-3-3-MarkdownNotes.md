@@ -1,7 +1,10 @@
 ---
+---
 layout: post
 title: Test 
 ---
+
+
 
 
 # Headers
@@ -55,3 +58,6 @@ function [out put] = name(x,y)
     y = put;
 end
 {% endhighlight %}
+
+# links
+[I'm an inline-style link](https://www.google.com)
