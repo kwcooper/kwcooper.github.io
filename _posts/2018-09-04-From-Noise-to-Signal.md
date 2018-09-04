@@ -9,7 +9,7 @@ One of the first questions that I had when first starting to analyze ephys data 
 
 In my field, where we study specific oscillatory frequencies, it may be a bit obscure how this is accomplished. I wrote a quick Matlab script to demonstrate one method to parse the data from the raw signal, all the way up to more useful parts, that is the phase of the oscillation, as well as the signals amplitude. You can see the change in the wave in the figure below:
 
-![_config.yml]({{ site.baseurl }}/images/phaseAmpExtraction.jpg)
+![_config.yml]({{ site.baseurl }}/images/phaseAmpExtraction.jpg){: .center-image }
 
 The steps are fairly straightforward:
 
