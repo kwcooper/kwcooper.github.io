@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Noise to Signal: Ephys Data Analysis
+title: From Noise to Signal
 ---
 
 
