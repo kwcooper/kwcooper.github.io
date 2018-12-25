@@ -4,10 +4,10 @@ title: Birthday Interest
 ---
 
 ### Back story
-You’re asked what you want for your birthday. You could say an iPhone or a new pair of socks, but you care about your money so instead you ask for something a bit less tangible. What if you could have 1%, that is one percent added to your interest every year on your birthday. How much money would you have?  
+You’re asked what you want for your birthday. You could say an iPhone or a new pair of socks, but you care about your money so instead you ask for something a bit less tangible. What if you could have 1%. That is, what if you could have one percent added to your interest every year on your birthday. How much money would you have?  
 
 
-We thought of this sitting at work, a co-worker and I were talking about interest, and somehow it was brought up about what you happen if the interest was your age. I thought this would be interesting to see, so I coded it up. 
+We thought of this while on break at work, a co-worker and I were talking about interest, and somehow it was brought up about what you happen if the interest was your age. I thought this would be interesting to see, so I coded it up. 
 
 
 ![_config.yml]({{ site.baseurl }}/images/birthdayInterest/1dollar_100years.png){: .center-image }
