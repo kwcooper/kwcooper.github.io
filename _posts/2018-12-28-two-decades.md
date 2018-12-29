@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Birthday Interest
+title: Two decades
 ---
 
-### Two decades
 When I turned twenty I posted a bit of my thoughts onto Facebook. This is a repost of those thoughts:
 
 
