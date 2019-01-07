@@ -14,7 +14,7 @@ name: Quaestio
 
 # Short bio or description (displayed in the header)
 # the header description and the meta discription should be separate...s
-description: Thoughts, hacks, memories, etc. 
+description: The laboratory notebook of my life 
 
 # Photo
 avatar: /images/blackBox.jpg
@@ -45,11 +45,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-75150827-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://kwcooper.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
