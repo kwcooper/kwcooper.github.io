@@ -6,7 +6,7 @@ title: Personal Data
 I’m still figuring out where I land on the open personal data online debate. It’s probably not completely safe yet, but also probably not as bad as everyone thinks. In any case, I thought it best to purge some of my closely identifiable information from various repo’s. This is a running list of those sites. It may be a good yearly habit to run through the sites and check what info is published. 
 
 
-Most sites have a link that makes it easy to remove your data. Alternatively, googling ‘<sitename> opt out’ tends to yield good results to save time searching yourself. 
+Most sites have a link that makes it easy to remove your data. Alternatively, googling ‘_site name_ opt out’ tends to yield good results to save time searching yourself. 
 
 
 These were recommended from brand yourself:
