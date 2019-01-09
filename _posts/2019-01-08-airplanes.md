@@ -35,14 +35,14 @@ As I travel more, I thought it best to learn about how the airline industry work
 ### Airline pricing
 
 * Tuesdays *may* be the cheapest days (due to business travel)
-... Thus, most expensive is probably M, R, and F
+..* Thus, most expensive is probably M, R, and F
 * Airline price matching 
-... Name brand airlines may match the prices of budget airlines
+..* Name brand airlines may match the prices of budget airlines
 * fare buckets
-... increases price as lower priced tickets are sold
-... one way tickets may also be more expensive (minimum stay requirement)
+..* increases price as lower priced tickets are sold
+..* one way tickets may also be more expensive (minimum stay requirement)
 * business pricing may also be more expensive, as normal travelers are more sensitive
-... They also tend to buy their tickets closer to departure
+..* They also tend to buy their tickets closer to departure
 * small airports may be more expensive because lack of competition
 
 Costs for the airline (what goes into each ticket price)
