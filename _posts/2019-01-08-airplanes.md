@@ -29,7 +29,7 @@ As I travel more, I thought it best to learn about how the airline industry work
 * some fares are accidentally really low
     * there are sites that index these
 * bumped flights
-
+* You can sign up for TSA precheck ahead of time, ~$89, but some credit cards cover it. 
 
 
 ### Airline pricing
