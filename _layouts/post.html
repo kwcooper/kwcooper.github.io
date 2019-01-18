@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1> {{ page.date | date: "%B %e, %Y" }}
+  <h1>{{ page.title }}</h1> 
   
 
   <div class="entry">
@@ -11,7 +11,9 @@ layout: default
   </div>
 
   <div class="date">
-    {{ page.date | date: "%B %e, %Y" }}
+    {{ page.date | date: "%B %e, %Y" }} init
+    {{page.updated}}
+    {{ page.updated | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}
