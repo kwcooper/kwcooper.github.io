@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airplanes
-updated: 2019-01-08
+updated: 2019-01-17
 ---
 
 As I travel more, I thought it best to learn about how the airline industry worked and resources to find reasonable flights. 

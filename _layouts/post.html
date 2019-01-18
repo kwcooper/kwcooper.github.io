@@ -11,9 +11,8 @@ layout: default
   </div>
 
   <div class="date">
-    {{ page.date | date: "%B %e, %Y" }} init
-    {{page.updated}}
-    {{ page.updated | date: "%B %e, %Y" }}
+    init: {{ page.date | date: "%B %e, %Y" }} 
+    updated: {{ page.updated | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}
