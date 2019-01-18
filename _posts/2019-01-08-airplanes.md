@@ -73,11 +73,6 @@ Costs for the airline (what goes into each ticket price)
 
 
 
-_Last updated 190108_
-
-
-
-
 
 
 
