@@ -63,3 +63,25 @@ Wiki Ideas
 
 Mainstream companies
 23andMe, fitbit, 
+
+
+
+
+What I’m tracking:
+* Fitbit 
+    * heart rate
+    * sleep
+    * steps, stairs, etc
+    * various activities
+* Tech usage
+    * phone app usage (quality time)
+    * browsing history
+    * search history
+* Medical records
+* runs spreadsheet
+* mood (daylio)
+* email (google API)
+
+
+    
+

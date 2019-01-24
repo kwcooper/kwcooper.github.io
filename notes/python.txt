@@ -1,0 +1,6 @@
+190122
+
+Store passwords with keyring
+[alex chan's blog post on it](https://alexwlchan.net/2016/11/you-should-use-keyring/)
+
+
