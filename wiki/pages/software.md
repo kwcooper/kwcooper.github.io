@@ -9,10 +9,10 @@ I switch computers a lot, and decided that a list to run through to grab all the
 Most file editing 
 ---------
 
-###Google Docs
+#Google Docs
 I like the Google ecosystem, sue me. Having my docs sync on every computer and device I own, is nice. It’s also free, which has a lot going for it. I use this for literally everything. Is there a linux api? No, but this is the few times I’ll make do. Besides I found a nice workaround with fuse. 
 
-###Fuse
+##Fuse
 
 
 
@@ -23,7 +23,7 @@ Programming
 I try out a lot, for the most part I stick with IDLE, mainly because it can run straight to the interpreter without having to switch to the command prompt, as well the clean interface. 
 My custom IDLE theme [here](https://github.com/kwcooper/sysConfig/tree/master/idle3_profile)
 
-I’ve used sublime off and on for a few years, and after switching back to a linux desktop, I didn’t like a few things about IDLE on linux (at least Ubuntu 18.04), so I use the terminal/sublime combo. This is a lot better after learning the python interactive session [trick](pages/python.md)
+I’ve used sublime off and on for a few years, and after switching back to a linux desktop, I didn’t like a few things about IDLE on linux (at least Ubuntu 18.04), so I use the terminal/sublime combo. This is a lot better after learning the python interactive session [trick](python.md)
 
 I’ll use Anaconda occasionally, mostly if I need to take advantage of viewing the variables. 
 
@@ -32,7 +32,7 @@ terminal editing: team nano, sue me again.
 
 ###Matlab
 I use what my PI uses (as well as most of science), so my hands are tied. While I hope some researchers make the switch to open source eventually, as long as the University foots the bill for the license, MATLAB isn’t all that bad, and there are a few things it does that I like better than python… gasp
-MATLAB [notes:](pages/matlab.md)
+[MATLAB notes](matlab.md)
 
 
 ###Brackets
@@ -60,7 +60,7 @@ All the things from docs apply to keep. However, WHERE IS OUR DAMN API? <>. As I
 look at my bash profile here <>
 
 
-###Mac stickies. 
+Mac stickies. 
 My dream is to integrate these with google keep. I think I may know a way but…
 
 
