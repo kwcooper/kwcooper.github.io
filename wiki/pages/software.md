@@ -9,10 +9,9 @@ I switch computers a lot, and decided that a list to run through to grab all the
 Most file editing 
 ---------
 
-#Google Docs
-I like the Google ecosystem, sue me. Having my docs sync on every computer and device I own, is nice. It’s also free, which has a lot going for it. I use this for literally everything. Is there a linux api? No, but this is the few times I’ll make do. Besides I found a nice workaround with fuse. 
+#_Google Docs_ -I like the Google ecosystem, sue me. Having my docs sync on every computer and device I own, is nice. It’s also free, which has a lot going for it. I use this for literally everything. Is there a linux api? No, but this is the few times I’ll make do. Besides I found a nice workaround with fuse. 
 
-Fuse
+##Fuse
 
 
 
