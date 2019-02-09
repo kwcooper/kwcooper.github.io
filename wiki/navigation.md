@@ -1,7 +1,8 @@
 # Notebook
 
 [Tech]()
-
+  * [software I like](pages/software.md)
+  - - - -
   * # programming
   * [python](pages/python.md)
   * [matlab](pages/matlab.md)
