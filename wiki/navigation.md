@@ -26,9 +26,11 @@
 
   
 [other]()
-
+  
+  * # lists
   * [travel notes](pages/travelnotes.md)
   * [airplanes]()
   - - - -
+  * # Finance
 
 [other](directlink.md)
