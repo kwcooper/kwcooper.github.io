@@ -1,8 +1,5 @@
-Heading
+Neuro videos playlist
 =======
-
-Youtube videos
----------
 
 I’ve collected a fair amount of online lectures and seminars on neuroscience related topics with wonderful speakers. Feel free to give this playlist a watch or scan through them for a topic of interest. 
 
