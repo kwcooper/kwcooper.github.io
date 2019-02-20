@@ -1,7 +1,7 @@
 # Notebook
 
 [Tech]()
-
+  # lists
   * [software I like](pages/software.md)
   - - - -
   * # programming
@@ -16,20 +16,21 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
-[Neuro]()
 
-  * [software](pages/software.md)
+[Neuro]()
+  * # lists
+  * [videos](pages/neurovideos.md)
   - - - -
-  * # programming
-  * [python](pages/python.md)
-  * [matlab](pages/matlab.md)
-  * [git](pages/git.md)
-  * [R](pages/r.md)
+  * # datasets
+  * [open datasets](pages/neurodata.md)
   - - - -
   * # SubMenu Heading 2
   * [SubMenu Item 3](subitem3.md)
 
-[Menu Item 2](item2.md)
-- - - -
+[other](item2.md)
+  * # Travel
+  * [travel tips]()
+  * [airplanes]()
+  - - - -
 
 [Menu Item 3](item3.md)
