@@ -27,7 +27,7 @@
   * # SubMenu Heading 2
   * [SubMenu Item 3](subitem3.md)
 
-[other](item2.md)
+[other]()
   * # Travel
   * [travel tips]()
   * [airplanes]()
