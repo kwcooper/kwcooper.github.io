@@ -6,6 +6,6 @@ I’ve collected a fair amount of online lectures and seminars on neuroscience r
 <iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLXoR_9BNEkVCm1oe-h2Ie6OaPRzuVc8Q2" frameborder="0" allowfullscreen>
 
 
-
+init 190219
 
 

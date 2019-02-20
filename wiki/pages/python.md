@@ -1,21 +1,25 @@
 Python
 =======
 
-Section 1
+cool commands
 ---------
 
 The best command known to man
 Will run the file in terminal similar to IDLE
-If I could port this to sublime in some crazy way...
+TODO: port this directly to sublime in some crazy way...
 `exec(open("filename.py").read())`
 
 
+tricks
+---------
 Store passwords with keyring
 [alex chan's blog post on it](https://alexwlchan.net/2016/11/you-should-use-keyring/)
 
-Section 2
+
+useful links
 ---------
 
 [...]
 
-UD: 190122
+init 190122
+ud   190219

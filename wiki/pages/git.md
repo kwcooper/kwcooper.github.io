@@ -13,10 +13,5 @@ Primarily taken from [this](http://rogerdudler.github.io/git-guide/) wonderful s
 1. git push origin master
 
 
-Section 2
----------
-
-[...]
-
-
-UD: 090109
+init 190109
+UD   190109
