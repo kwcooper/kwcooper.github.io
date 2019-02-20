@@ -18,7 +18,7 @@
 
 [Neuro]()
 
-  * [](pages/software.md)
+  * [software](pages/software.md)
   - - - -
   * # programming
   * [python](pages/python.md)

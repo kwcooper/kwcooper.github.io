@@ -13,8 +13,8 @@
 name: Quaestio
 
 # Short bio or description (displayed in the header)
-# the header description and the meta discription should be separate...s
-description: The laboratory notebook of my life 
+# the header description and the meta discription should be separate...
+description: Like a lab notebook but for life
 
 # Photo
 avatar: /images/blackBox.jpg
