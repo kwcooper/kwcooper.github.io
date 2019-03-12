@@ -37,5 +37,8 @@
   * [airplanes]()
   - - - -
   * # Finance
+  _ _ _ _
+  * # Quantified Self
+  * 
 
 [other](directlink.md)

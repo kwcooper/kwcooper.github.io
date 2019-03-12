@@ -37,7 +37,7 @@ _from `man bash`_
 | `~/.bash_logout`  |    The individual login shell cleanup file, executed when a login shell exits |
 | `~/.inputrc`     |     Individual readline initialization file |
 
-
+My bash profiles [here](https://github.com/kwcooper/sysConfig) 
 ...
 ---------
 
