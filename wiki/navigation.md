@@ -15,6 +15,9 @@
   * # networking
   * [apache](pages/tech/apache.md)
   * [ssh](pages/tech/ssh.md)
+  - - - - 
+  * # other
+  * [bash](pages/tech/bash.md)
   - - - -
 
 [Neuro]()

@@ -15,7 +15,7 @@ sudo ethtool -s enp2s0 wol g
 
 # this is also the line I added to both the .bash_profile for ssh
 # as well as the .bashrc for startup. 
-# required password on each startup unfortunatly. 
+# required password on each startup unfortunately. 
 
 # possibly fixable:
  https://serverfault.com/questions/463111/how-to-persist-ethtool-settings-through-reboot

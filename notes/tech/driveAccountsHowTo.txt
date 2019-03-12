@@ -1,6 +1,8 @@
 
 # how to add google drive accounts to linux
 
+There isn't a native google drive desktop app for linux. [Ocamlfuse for google drive](https://github.com/astrada/google-drive-ocamlfuse) allows a sync-able folder (treated as an attached drive)
+
 # repo:
 # https://github.com/astrada/google-drive-ocamlfuse
 
