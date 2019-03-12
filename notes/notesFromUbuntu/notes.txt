@@ -1,0 +1,11 @@
+Changing the ssh port
+https://www.liquidweb.com/kb/changing-the-ssh-port/
+
+vim /etc/ssh/sshd_config -> changed to Port 57 from 22
+
+
+netstat -tuplen  check for processes on server 
+                 https://serverfault.com/questions/309052/check-if-port-is-open-or-closed-on-a-linux-server
+
+
+

@@ -82,6 +82,7 @@ What I’m tracking:
 * mood (daylio)
 * email (google API)
 
+google docs index [here](https://docs.google.com/document/d/1E57MVy4hRnd8fWyfMtLUzUzVXpsU2cTdk05cZIm9B-o/)
 
     
 

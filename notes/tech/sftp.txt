@@ -1,0 +1,8 @@
+init 190307
+
+SFTP 
+
+## Raspberry Pi
+docs [here](http://kamilslab.com/2017/03/11/how-to-setup-a-raspberry-pi-sftp-server/)
+
+`sudo raspi-config` to enter the settings
