@@ -3,17 +3,18 @@
 [Tech]()
  
   * # lists
-  * [software I like](pages/software.md)
-  * [good places](pages/softwarePlaces.md)
+  * [software I like](pages/tech/software.md)
+  * [good places](pages/tech/softwarePlaces.md)
   - - - -
   * # programming notes
-  * [python](pages/python.md)
-  * [matlab](pages/matlab.md)
-  * [git](pages/git.md)
-  * [R](pages/r.md)
+  * [python](pages/tech/python.md)
+  * [matlab](pages/tech/matlab.md)
+  * [git](pages/tech/git.md)
+  * [R](pages/tech/r.md)
   - - - -
   * # networking
-  * [apache](pages/apache.md)
+  * [apache](pages/tech/apache.md)
+  * [ssh](pages/tech/ssh.md)
   - - - -
 
 [Neuro]()
