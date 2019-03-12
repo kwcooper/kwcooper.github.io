@@ -4,6 +4,7 @@
  
   * # lists
   * [software I like](pages/software.md)
+  * [good places](pages/softwarePlaces.md)
   - - - -
   * # programming notes
   * [python](pages/python.md)

@@ -11,7 +11,7 @@ Most file editing
 |||
 |-|-|
 | Google Docs | I like the Google ecosystem, sue me. Having my docs sync on every computer and device I own, is nice. It’s also free, which has a lot going for it. I use this for literally everything. Is there a linux api? No, but this is the few times I’ll make do. Besides I found a nice workaround with fuse. |
-| Fuse        |    speaking of...  |
+| Fuse        |    speaking of...  Grab it [here](https://github.com/astrada/google-drive-ocamlfuse) (and docs) |
 
 
 Programming
