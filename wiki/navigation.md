@@ -18,7 +18,8 @@
   - - - - 
   * # other
   * [bash](pages/tech/bash.md)
-  - - - -
+  * [ocamlfuse](pages/tech/ocamlfuse.md)
+  
 
 [Neuro]()
   
@@ -27,7 +28,6 @@
   - - - -
   * # datasets
   * [open datasets](pages/neurodata.md)
-  - - - -
 
   
 [other]()
