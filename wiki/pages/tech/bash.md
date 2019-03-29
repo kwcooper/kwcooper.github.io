@@ -38,6 +38,12 @@ _from `man bash`_
 | `~/.inputrc`     |     Individual readline initialization file |
 
 My bash profiles [here](https://github.com/kwcooper/sysConfig) 
+
+Useful Commands
+---------
+`cat >> new_filename.txt` use this to create and pipe input to a new file 
+[...]
+
 ...
 ---------
 

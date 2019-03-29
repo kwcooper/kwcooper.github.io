@@ -19,6 +19,8 @@ Store passwords with keyring
 useful links
 ---------
 
+[Guide](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/creation.html) to creating a python package from PyPi
+
 [...]
 
 init 190122

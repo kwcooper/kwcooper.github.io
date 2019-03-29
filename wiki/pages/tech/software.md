@@ -34,6 +34,7 @@ Science software
 |-|-|
 | Mendeley | I’m shocked by how many researchers havn’t heard of Mendeley. It’s like google docs but for science, and keeps papers managed by year, author, ect. but also with custom folders. Syncs to my phone, and can pick up on the same paragraph I left off at the lab |  
 | plotting? |I’m not sold on good plotting software yet. Actively seeking suggestions. _maybe_ R|
+| Aeskulap | Good software for viewing DICOM images on Unix computers [website](http://aeskulap.nongnu.org/features.html) |
 
 
 Jotting 
