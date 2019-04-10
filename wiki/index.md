@@ -1,4 +1,4 @@
-My digital open source notebook
+Keiland's open source notebook
 =======
 
   My notes are scattered across notebooks, post-its, note keeping apps, documents, envelopes, etc. This site comprises my effort to consolidate them in an easy to find place, which others may find useful. 
