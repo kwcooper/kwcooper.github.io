@@ -26,15 +26,15 @@
   * # lists
   * [videos](pages/neuro/neurovideos.md)
   * [open datasets](pages/neuro/neurodata.md)
-  * [wiki's](pages/nero/neurolabwikis.md)
   - - - -
   * # other
+  * [Useful links](pages/neuro/usefullinks.md)
 
 
 [Academia]()
 
   * # lists
-  * [funding](pages/academ/grants.md)
+  * [funding](pages/academ/funds.md)
   - - - -
   * # other
 
