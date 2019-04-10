@@ -12,7 +12,7 @@ List -o- grants
 |||
 |-|-|
 | [GRFP]() | NSF UG/Grad student $ |
-| [Burrough's](http://www.bwfund.org/programs/interfaces/career_awards_background.html) | ...|
+| [Burrough's](http://www.bwfund.org/programs/interfaces/career_awards_background.html) | ... |
 | [NRSA (F32)](http://grants1.nih.gov/grants/guide/pa-files/PA-07-107.html) | NIH $ |
 | [MQRDA (K25)](http://grants.nih.gov/grants/guide/pa-files/PA-06-087.html) | NIH $ |
 
