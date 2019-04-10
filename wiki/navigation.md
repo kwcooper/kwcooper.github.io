@@ -24,10 +24,19 @@
 [Neuro]()
   
   * # lists
-  * [videos](pages/neurovideos.md)
+  * [videos](pages/neuro/neurovideos.md)
+  * [open datasets](pages/neuro/neurodata.md)
+  * [wiki's](pages/nero/neurolabwikis.md)
   - - - -
-  * # datasets
-  * [open datasets](pages/neurodata.md)
+  * # other
+
+
+[Academia]()
+
+  * # lists
+  * [funding](pages/academ/grants.md)
+  - - - -
+  * # other
 
   
 [other]()
