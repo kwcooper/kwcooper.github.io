@@ -10,6 +10,19 @@ TODO: port this directly to sublime in some crazy way...
 `exec(open("filename.py").read())`
 
 
+To find python path information
+`for p in sys.path:
+    print(p)`
+
+To find information on a packages path
+`import os
+import a_module
+print(a_module.__file__)
+path = os.path.dirname(a_module.__file__)
+
+
+
+
 tricks
 ---------
 Store passwords with keyring
