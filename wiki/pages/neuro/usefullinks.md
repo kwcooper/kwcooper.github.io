@@ -16,8 +16,8 @@ Other useful links
 Summer courses 
 |||
 |-|-|
-| [RIKEN CBS Summer Program](https://cbs.riken.jp/en/summer/)| Lecture course|
-|[uOttawa](http://www.neurodynamic.uottawa.ca/summer.html)|Neural data analysis and modeling course|
+| [RIKEN CBS Summer Program](https://cbs.riken.jp/en/summer/) | Lecture course |
+| [uOttawa](http://www.neurodynamic.uottawa.ca/summer.html) | Neural data analysis and modeling course |
 
 
 TUT: [Finding good reviews](https://brodylabwiki.princeton.edu/wiki/index.php?title=Finding_Review_Papers)
