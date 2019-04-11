@@ -20,7 +20,7 @@
   * [bash](pages/tech/bash.md)
   * [ocamlfuse](pages/tech/ocamlfuse.md)
   - - - -
-  * [snips](https://gist.github.com/kwcooper)
+  * [snips](https://gist.github.com/kwcooper){:target="_blank"}
 
 [Neuro]()
   
@@ -29,7 +29,7 @@
   * [open datasets](pages/neuro/neurodata.md)
   - - - -
   * # other
-  * [Useful links](pages/neuro/usefullinks.md){:target="_blank"}
+  * [Useful links](pages/neuro/usefullinks.md)
 
 
 [Academia]()
