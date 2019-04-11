@@ -29,7 +29,7 @@
   * [open datasets](pages/neuro/neurodata.md)
   - - - -
   * # other
-  * [Useful links](pages/neuro/usefullinks.md)
+  * [Useful links](pages/neuro/usefullinks.md){:target="_blank"}
 
 
 [Academia]()
