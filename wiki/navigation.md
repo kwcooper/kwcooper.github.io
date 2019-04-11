@@ -19,7 +19,8 @@
   * # other
   * [bash](pages/tech/bash.md)
   * [ocamlfuse](pages/tech/ocamlfuse.md)
-  
+  - - - -
+  * [snips](https://gist.github.com/kwcooper)
 
 [Neuro]()
   
