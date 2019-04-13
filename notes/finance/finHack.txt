@@ -1,0 +1,11 @@
+
+init 190313
+
+from [here:](https://stackoverflow.com/questions/48157580/how-do-i-programmatically-download-my-bank-transactions-from-chase-without-using)
+
+37765b38-3e65-4a72-ac8f-933a3c626af9 
+
+https://pypi.org/project/ofxtools/
+
+NO DICE
+

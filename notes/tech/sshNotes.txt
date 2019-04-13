@@ -1,0 +1,29 @@
+# to configure the ssh port (due to att block 22)
+/etc/ssh/sshd_config
+
+# restart ssh
+service sshd restart
+
+# this should fix it
+
+
+
+## how to make keygen files
+https://www.howtogeek.com/66776/how-to-remotely-copy-files-over-ssh-without-entering-your-password/
+
+# more in depth
+https://alvinalexander.com/linux-unix/how-use-scp-without-password-backups-copy
+
+# generate keys in ~/.ssh/
+ssh-keygen -t rsa
+
+
+# use defaults, and go passwordless if you dare...
+# Private: id_rsa Public: id_rsa.pub
+
+# send to remote server
+scp -P <port#> .ssh/id_rsa.pub <usr>@<ip>:~/.ssh/authorized_keys2
+
+# append to existing file for subsequent keys
+
+# that simple!
