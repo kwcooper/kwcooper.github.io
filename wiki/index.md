@@ -7,15 +7,4 @@ Keiland's open source notebook
 [//]: # (for images: ![](http://placekitten.com/g/250/250))
 
 
-<script>
-  (function() {
-    var cx = '000667486699153293150:5wlweq1lpbc';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
+
