@@ -5,10 +5,12 @@ Notes on git
 ---------
 Primarily taken from [this](http://rogerdudler.github.io/git-guide/) wonderful site 
 
+
 Add and Commit
 ---------
 1. `git add <filename>` or `git add *`
 2. `git commit -m "Commit message"`
+
 
 Pushing Changes
 ---------
@@ -19,18 +21,22 @@ Call git in a bash function?
 ---------
 Memorizing is hard. Automating is easy. Call multiple git commands at once:
 
-`# Git Add Commit bash function
+```bash
+# Git Add Commit bash function
 gac () {
-   echo "Parameter #1 is $a, $b"
-}`
+   git add *
+   git commit -m "$1"
+}
+```
 
-Call with `gac  
+Call with `gac "ud"`  
 
 
 
 Conflicting process errors?
 ---------
-rm -f .git/index.lock
+`rm -f .git/index.lock`
+
 
 
 

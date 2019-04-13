@@ -1,8 +1,0 @@
-init 190224
-
-https://www.tecmint.com/how-to-monitor-user-activity-with-psacct-or-acct-tools/
-I was looking for software to track useage of my computers. On my Mac I used some logger code from [here](). 
-
-A linux equlivant was sparce, however, from a first pass, it seems that the server admin acct may be able to do the trick. 
-
-
