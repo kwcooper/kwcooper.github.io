@@ -1,0 +1,11 @@
+180119
+
+### Online Privacy
+
+I'm still weighing in on how woried I am about online tracking etc. 
+
+Some good sites to monitor and keep in mind:
+[Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!%2F) - use this to see some of the advertisers tracking you (that are a part of the NAI) as well as send a bult opt-out cookie. I had 84 _after_ deleting my cookies...
+
+[HaveIbeenPWNED](https://haveibeenpwned.com/) - After the recent collection 1 dump, I thought it may be a good idea to do some password monitoring. This site is the go to to check whether your email was included in one of their huge breaches database. 
+
