@@ -10,14 +10,14 @@
 # https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # Site name (displayed in the header)
-name: Quaestio
+name: Posts
 
 # Short bio or description (displayed in the header)
 # the header description and the meta discription should be separate...
-description: Like a lab notebook but for life
+description: 
 
 # Photo
-avatar: /images/blackBox.jpg
+avatar: 
 
 #
 # Flags below are optional

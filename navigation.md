@@ -51,4 +51,4 @@
   * # Quantified Self
   * 
 
-[other](directlink.md)
+[posts](https://kwcooper.github.io/posts/)
