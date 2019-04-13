@@ -1,9 +1,0 @@
-init 190308
-
-Good linux software: motion (`sudo apt-get install motion`)
-motion config: `sudo nano /etc/motion/motion.conf`
-restart: `sudo service motion restart`
-start: `sudo motion`
-
-ffmeg
-

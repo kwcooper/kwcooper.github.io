@@ -39,6 +39,9 @@ Conflicting process errors?
 
 
 
+I set up a few other git alias's [here](github.com)
+
+
 
 init 190109
 UD   190413
