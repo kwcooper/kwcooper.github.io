@@ -7,7 +7,6 @@ Keiland's open source notebook
 [//]: # (for images: ![](http://placekitten.com/g/250/250))
 
 
-<div>
 <script>
   (function() {
     var cx = '000667486699153293150:5wlweq1lpbc';
@@ -20,4 +19,3 @@ Keiland's open source notebook
   })();
 </script>
 <gcse:search></gcse:search>
-</div>
