@@ -51,4 +51,4 @@
   * # Quantified Self
   * 
 
-[posts](https://kwcooper.github.io/posts/)
+[posts](https://kwcooper.github.io/longposts/)
