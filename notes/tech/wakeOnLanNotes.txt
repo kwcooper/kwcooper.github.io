@@ -1,0 +1,23 @@
+# 180708
+#
+# wol with ubuntu 18.04 was a bit tricky. Set up was simple however the problem was that
+# for whatever reason, wol was disabled after each boot. 
+# 
+# I tried to solve this by placing the wol toggle code in the startup file, but it didnt  # exist, so instead I placed it into the bash start up scripts
+
+# command to view if ethernet wol is turned on:
+sudo ethtool <internet adaptor; -> enp2s0> 
+
+# look for 'g' not 'd' at the wake-on line
+
+# if 'd', enable it:
+sudo ethtool -s enp2s0 wol g
+
+# this is also the line I added to both the .bash_profile for ssh
+# as well as the .bashrc for startup. 
+# required password on each startup unfortunately. 
+
+# possibly fixable:
+ https://serverfault.com/questions/463111/how-to-persist-ethtool-settings-through-reboot
+
+
