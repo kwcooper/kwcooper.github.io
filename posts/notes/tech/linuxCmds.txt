@@ -1,6 +1,0 @@
-# to fid your external ip
-curl ipinfo.io/ip
-
-
-
-
