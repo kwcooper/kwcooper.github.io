@@ -44,7 +44,7 @@
   
   * # lists
   * [travel notes](pages/travelnotes.md)
-  * [airplanes]()
+  * [airplanes](pages/other/airplanes.md)
   - - - -
   * # Finance
   _ _ _ _
