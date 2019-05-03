@@ -14,10 +14,19 @@ Other useful links
 ---------
 
 Summer courses 
+
 |||
 |-|-|
 | [RIKEN CBS Summer Program](https://cbs.riken.jp/en/summer/) | Lecture course |
 | [uOttawa](http://www.neurodynamic.uottawa.ca/summer.html) | Neural data analysis and modeling course |
+
+Conferences
+
+|||
+|-|-|
+| SFN | <link> |
+| Indy SFN | |
+
 
 
 TUT: [Finding good reviews](https://brodylabwiki.princeton.edu/wiki/index.php?title=Finding_Review_Papers)
