@@ -1,5 +1,9 @@
-Init 190118
-UD 190522
+Money
+=======
+
+
+
+
 
 TODO: Organize by topic
 
@@ -173,3 +177,7 @@ _Refs_
 
 * Low fee index vs higher fee managed
     * Rare to beat the market
+
+
+init 190118
+ud 190522
