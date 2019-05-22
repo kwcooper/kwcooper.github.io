@@ -53,10 +53,56 @@ Larry Miles, a principal of AdvicePeriod in Los Angeles
 * A Roth IRA can be set up in addition to other retirement accounts
     * Should be used as secondary investment plan to 401k etc. 
 
-
 _Refs_
 [rothira.com](https://www.rothira.com/what-is-a-roth-ira)
 [How stuff works](https://money.howstuffworks.com/personal-finance/retirement-planning/roth-ira4.htm)
+
+
+### Advice from John Oliver Segment on retirement 
+* Start saving now 
+* Low-Cost Index funds, check yearly
+* Ask if your advisor is a fiduciary
+* Move from stocks to bonds as you get older
+* Keep fee's under one percent
+
+
+### Charlie Epstein disagrees with John Oliver's advice
+* Fiduciary vs Broker (Registered Rep)
+    * Depends on who regulated
+    * Fiduciary is regulated by Department of Labor, Broker by FINRA
+    * Broker has suitability standard
+* Argues it's better for fiduciary's to be brokers so they can use more financial tools, such as insurance. 
+* 
+
+
+### Questions for your advisor - Dave Ramsey
+* Are they a teacher?
+* Do they agree with your philosophies?
+* Clean code of conduct?
+* // not the most rigorous advice...
+
+### Dave Ramsey's investing process:
+* "Most advisors make their money off of wealthy people"
+* He invests in Growth Stock Mutual Funds, spread across:
+    * Growth in income, growth, aggressive growth, and international
+    * At least a 10 year track record
+* Growth in income (Blue Chip) -> big companies
+    * The calmest, stable
+* Growth fund (Mid cap) -> growing companies	
+    * Performs about as well as the S&P
+* Aggressive growth (Small cap) -> small companies
+    * Volatile. High high's and low lows
+* International (what the name says)
+    * Worst performing. Global has the US. 
+    * Good to not have all eggs in the US basket
+* Index funds mirrors the market, mutual funds that outperform the market
+* How to pick mutual funds? Look at the longest track record. Low risk.
+* Don't chase returns. Get in and stay in. 
+* Millionaires never talk about the fee's
+
+### Casey Smith - [Seeking alpha](https://seekingalpha.com/article/2847756-why-dave-ramsey-is-wrong), Disagrees a bit with Dave
+* Says that Dave dismisses a fiduciary and fee-only financial advisor
+* "A well-diversified index fund portfolio should cost no more that 0.25% a year, with most of the funds trading at no charge"
 
 
 ### 401(k) or a 403(b)
@@ -64,5 +110,15 @@ _Refs_
 _Refs_
 [How 401k works](https://money.howstuffworks.com/personal-finance/retirement-planning/401k.htm)
 
+
+### Terms and definitions
+
+* Low fee index vs higher fee managed
+    * Rare to beat the market
+
+* Annuity
+* 401(k)
+* IRA
+* Pension
 
 
