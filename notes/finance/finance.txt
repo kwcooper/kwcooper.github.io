@@ -1,5 +1,7 @@
 Init 190118
-UD 190118
+UD 190522
+
+TODO: Organize by topic
 
 ###Financial Advisor
 * Are they a fiduciary?
@@ -72,7 +74,9 @@ _Refs_
     * Fiduciary is regulated by Department of Labor, Broker by FINRA
     * Broker has suitability standard
 * Argues it's better for fiduciary's to be brokers so they can use more financial tools, such as insurance. 
-* 
+* The cheapest solution, such as an index fund with Vanguard, may not be the best option, even if it is cheaper
+    * This is because in the financial crisis, Vanguard wouldn't have paid
+    * An annuity would have paid her, for life. There just would have been a commission. 
 
 
 ### Questions for your advisor - Dave Ramsey
@@ -80,6 +84,10 @@ _Refs_
 * Do they agree with your philosophies?
 * Clean code of conduct?
 * // not the most rigorous advice...
+
+### Financial Advisor Mistakes - Dave Ramsey
+* This is your money!
+* 
 
 ### Dave Ramsey's investing process:
 * "Most advisors make their money off of wealthy people"
@@ -111,14 +119,57 @@ _Refs_
 [How 401k works](https://money.howstuffworks.com/personal-finance/retirement-planning/401k.htm)
 
 
+### 401(k) vs Roth IRA - Graham Stephan
+* Roth
+    * Roth is tax free after 59.5
+    * Can withdraw contributions, not profit
+    * No tax write off
+    * if you withdraw profit, you pay 10% and taxes
+    * limited contributions, 6k
+* 401(k)
+    * Don't pay taxes early, but pay when you take them out
+    * but you'll have more up front
+    * can contribute up to 19k
+    * Employer match!!! (Take this)
+    * Taxes after 59.5
+    * early withdraw is 10% and income taxes
+    * forced withdraw at 70.5
+* Roth is best when young and low tax bracket, and expect to make a lot
+* Roth is worst when in a high tax bracket
+* 401k is best if you're making a lot of money now
+* 401k is best if you expect to retire in a lower tax bracket
+* 401k tax brackets in the future are uncertain
+* Take home message: Probably best to get into a Roth then go to a 401k
+* There is also a Roth 401k... (Higher contributions)
+
+### Roth IRA - Dave Ramsey
+* Work cannot offer a Roth IRA, only a Roth 401(k)
+* He recommends the Roth, and 401(k) up to the match
+* Must have earned income for a Roth
+* If Roth is negative, then get on the phone
+* You pick the fund, understand what you are doing
+* Maybe broke even and then the fee hits you
+    * Check S&P for the year, compare to Roth for rough estimate. Also use 401(k) for comparison
+* Fun fact: Roth named for senator that passed the bill
+* // Idea, contribute to either 401k or to ira depending on the current tax rate? 
+
+
+### Mutual funds vs Market Index funds - Dave Ramsey
+* Do fund fee's outweigh lower index fund gains?
+* Mutual funds try to mirror the market, which are the market index funds, such as S&P
+* Ramsey says the problem isn't ROI's or fee's, but amount of contributions. 
+    * Vanguard research backs this up, people add 6% of their income, instead of over the 10% they should save according to [US News](https://money.usnews.com/money/retirement/401ks/articles/how-much-should-you-contribute-to-a-401-k)
+* All mutual funds have maintenance fee's. 
+    * Vanguard for example, doesn't have commission though. 
+    * Take home: check both commission and maintenance fee's. 
+
+
 ### Terms and definitions
+
+* Annuity
+* 401(k) - Retirement account, employer may match, no taxes now, pay in the future. 
+* Roth IRA - Money put in is taxed, grows tax free. 
+* Pension - 
 
 * Low fee index vs higher fee managed
     * Rare to beat the market
-
-* Annuity
-* 401(k)
-* IRA
-* Pension
-
-
