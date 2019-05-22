@@ -2,9 +2,6 @@ Money
 =======
 
 
-
-
-
 TODO: Organize by topic
 
 ###Financial Advisor
@@ -41,7 +38,8 @@ Larry Miles, a principal of AdvicePeriod in Los Angeles
 
 
 ###Roth IRA
-`As an example, if a 20-year-old puts $5,000 a year into a Roth for 10 years and then stops contributing (because they make more than the phase-out amount or need a tax deduction of future contributions to a Traditional retirement account), the 10 years of Roth contributions and growth—let’s say at 8% interest a year to age 65—could total about $1,070,944 of tax-free dollars,” says [Peter J. Creedon](https://www.investopedia.com/advisor-network/advisors/54627/peter-j-creedon-cfp-chfc-clu-/)`
+```As an example, if a 20-year-old puts $5,000 a year into a Roth for 10 years and then stops contributing (because they make more than the phase-out amount or need a tax deduction of future contributions to a Traditional retirement account), the 10 years of Roth contributions and growth—let’s say at 8% interest a year to age 65—could total about $1,070,944 of tax-free dollars,”```
+says [Peter J. Creedon](https://www.investopedia.com/advisor-network/advisors/54627/peter-j-creedon-cfp-chfc-clu-/)
 
 * Retirement account funded by post-tax income
     * future withdrawals that follow Roth IRA regulations are tax free
@@ -180,4 +178,4 @@ _Refs_
 
 
 init 190118
-ud 190522
+Ud 190522
