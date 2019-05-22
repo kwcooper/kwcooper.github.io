@@ -4,6 +4,22 @@ Money
 
 TODO: Organize by topic
 
+### Terms and definitions
+
+_Retirement accounts_
+
+|||
+|-|-|
+| Annuity | |
+| 401(k) | Retirement account, employer may match, no taxes now, pay in the future |
+| Roth IRA | Money put in is taxed, grows tax free |
+| Pension | | 
+
+_._
+* Low fee index vs higher fee managed
+    * Rare to beat the market
+
+
 ###Financial Advisor
 * Are they a fiduciary?
     * this means they have your best interest in mind, and must avoid conflicts of interest. This is a recent legal requirement. 
@@ -166,16 +182,7 @@ _Refs_
     * Take home: check both commission and maintenance fee's. 
 
 
-### Terms and definitions
-
-* Annuity
-* 401(k) - Retirement account, employer may match, no taxes now, pay in the future. 
-* Roth IRA - Money put in is taxed, grows tax free. 
-* Pension - 
-
-* Low fee index vs higher fee managed
-    * Rare to beat the market
 
 
 init 190118
-Ud 190522
+ud 190522
