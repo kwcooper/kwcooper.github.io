@@ -3,6 +3,7 @@ Money
 
 
 TODO: Organize by topic
+Definitions, tips for advisor, retirement, general advice
 
 ### Terms and definitions
 
@@ -180,6 +181,34 @@ _Refs_
 * All mutual funds have maintenance fee's. 
     * Vanguard for example, doesn't have commission though. 
     * Take home: check both commission and maintenance fee's. 
+
+### Ramit Sethi - Investing advice
+* Vanguard 2060 Fund
+    * Aggressive -> Relaxed
+* Target date and index funds
+* Saves and plans for the big things
+* Saving above 5 years goes into the market at about 8%
+    * doubles about every 7 years
+
+
+In the United States, there were 9,356 mutual funds in 2017, managing assets worth approximately 18.75 trillion U.S. dollars [statista](https://www.statista.com/topics/1441/mutual-funds/)
+
+
+_General Advice_
+### How to invest - Dan Lok
+* Only invest in what you understand
+* Always look for good investments
+    * Be selective 100 -> 10 -> 3 -> 1
+* Always investigate before investments; logic over emotions
+* 
+
+
+_Books_
+
+Fail-Safe Investing - by Harry Browne
+"Its main point is the “Permanent Portfolio” - a beautiful simple idea to have 25% of your savings each in investments that do well during boom (stocks), bust (bonds), inflation (gold), deflation (cash). Then just rebalance when they get too far out of 25% each. No predicting the future. No worrying about the news. Just 25% each and rebalance."
+[Sivers Summary](https://sivers.org/book/FailSafeInvesting)
+
 
 
 

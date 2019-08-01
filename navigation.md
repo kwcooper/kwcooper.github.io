@@ -50,5 +50,8 @@
   _ _ _ _
   * # Quantified Self
   * 
+  _ _ _ _
+  * # Adulting
+  * [digital privacy](pages/other/digitalPrivacy.md)
 
-[posts](https://kwcooper.github.io/longposts/)
+[posts (under construction...)](https://kwcooper.github.io/longposts/)
