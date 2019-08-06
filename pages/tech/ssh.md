@@ -13,6 +13,8 @@ SCP - send files via ssh
 [Useful reference](http://www.hypexr.org/linux_scp_help.php)
 `$ scp -P 2264 foobar.txt your_username@remotehost.edu:/some/remote/directory`
 
+custom sftp port
+`sftp -oPort=<port number> <user>@<ip>`
 
 Private keys
 ---------
@@ -35,8 +37,16 @@ send to remote server
 append to existing file for subsequent keys... that simple!
 
 
+
+
+SSH into Andriod
+---------
+Phones are computers, andriod is linux, grab an app to run an ssh server!
+ssh functinality on andriod is limited, but SFTP works like a charm!
+
+
 init 190312 
-ud   190312
+ud   190806
 
 
 

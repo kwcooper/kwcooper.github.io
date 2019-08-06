@@ -34,8 +34,20 @@ Science software
 |||
 |-|-|
 | Mendeley | I’m shocked by how many researchers havn’t heard of Mendeley. It’s like google docs but for science, and keeps papers managed by year, author, ect. but also with custom folders. Syncs to my phone, and can pick up on the same paragraph I left off at the lab |  
-| plotting? |I’m not sold on good plotting software yet. Actively seeking suggestions. _maybe_ R|
+| plotting? |I’m not sold on good plotting software yet. Actively seeking suggestions. _maybe_ R? MATLAB? Python? Tablu? Simplicity, syntax, and functionality are all |
 | Aeskulap | Good software for viewing DICOM images on Unix computers [website](http://aeskulap.nongnu.org/features.html) |
+
+
+Networking 
+---------
+
+|||
+|-|-|
+| nmap | easily map the network (unix) `sudo apt install nmap` |
+| ifconfig | simple network stats (unix) `sudo apt install ifconfig` |
+| ethtool | to configure network settings (unix) `sudo apt install ethtool` |
+| cyberduck | connect to remote servers via SFTP etc. (OSX) |
+| filezilla | same as above, but there isn't a linux cyberduck... (Unix) | 
 
 
 Jotting 
@@ -73,4 +85,4 @@ Lists like this one:
 1. [gen.co](https://christian.gen.co/things#software)
 
 init 190208
-ud   190219
+ud   190806
