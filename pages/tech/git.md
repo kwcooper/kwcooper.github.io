@@ -38,10 +38,15 @@ Conflicting process errors?
 `rm -f .git/index.lock`
 
 
+Init repo
+---------
+`git init`
+further [reading](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
+
 
 I set up a few other git alias's [here](github.com)
 
 
 
 init 190109
-Ud   190413
+Ud   190805
