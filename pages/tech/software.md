@@ -24,7 +24,7 @@ Programming
 |Matlab|I hope some researchers make the switch to open source eventually, but as long as the University foots the bill for the license, MATLAB isn’t all that bad, and there are a few things it does that I like better than python… gasp [MATLAB notes](matlab.md) |
 |Brackets | clean and simple program packed with power. I’m a big fan of the UI, as well as the live view option similar to Dreamweaver but without all the MB of clutter. |
 |Git and GitHub | Great for keeping everything organized, synced across machines, versioned, and revert-able. [git notes](git.md) |
-|R|Currently learning... I'm excited about this so far|
+|R| I've played with it a bit. There seems to be a lot to like and a great community |
 |Bash| All my alias's are found [here](https://github.com/kwcooper/sysConfig)|
 
 
@@ -48,6 +48,7 @@ Networking
 | ethtool | to configure network settings (unix) `sudo apt install ethtool` |
 | cyberduck | connect to remote servers via SFTP etc. (OSX) |
 | filezilla | same as above, but there isn't a linux cyberduck... (Unix) | 
+| Vnstat | Generate historic reports of your network useage, use -l for a 'live' mode. (unix) `sudo apt install vnstat` | 
 
 
 Jotting 
@@ -78,6 +79,17 @@ Social Media
 | [friend remover Free](https://chrome.google.com/webstore/detail/friend-remover-free-delet/pjpnfokdiejfmghfaejjcfnilfgaoogd) | So useful to help manage facebook friends (Chrome) |
 | [Social Book](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae)| Automate deleting old posts and likes, and pages etc (Chrome)|
 
+File management 
+---------
+|||
+|-|-|
+| Hardinfo | displays system information in detail (linix) `sudo apt install hardinfo` |
+
+MISC 
+---------
+|||
+|-|-|
+| Caffine | super useful app that prevents sleep (OSX, unix)
 
 
 Lists like this one: 
