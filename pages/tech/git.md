@@ -6,9 +6,18 @@ Notes on git
 Primarily taken from [this](http://rogerdudler.github.io/git-guide/) wonderful site 
 
 
+Init git and repo
+---------
+`git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"`
+
+`git init`
+further [reading](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
+
+
 Add and Commit
 ---------
-1. `git add <filename>` or `git add *`
+1. `git add <filename>` or `git add *` or `git add .`
 2. `git commit -m "Commit message"`
 
 
@@ -38,10 +47,6 @@ Conflicting process errors?
 `rm -f .git/index.lock`
 
 
-Init repo
----------
-`git init`
-further [reading](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 
 
 I set up a few other git alias's [here](github.com)
