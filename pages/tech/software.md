@@ -27,6 +27,7 @@ Programming
 |R|Currently learning... I'm excited about this so far|
 |Bash| All my alias's are found [here](https://github.com/kwcooper/sysConfig)|
 
+
 Science software
 ---------
 
@@ -58,13 +59,18 @@ Audio editing
 ---------
 
 
-Section 
+Social Media 
 ---------
+|||
+|-|-|
+| [friend remover Free](https://chrome.google.com/webstore/detail/friend-remover-free-delet/pjpnfokdiejfmghfaejjcfnilfgaoogd) | So useful to help manage facebook friends (Chrome) |
+| [Social Book](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae)| Automate deleting old posts and likes, and pages etc (Chrome)|
+
 
 
 Lists like this one: 
 ---------
-
+1. [gen.co](https://christian.gen.co/things#software)
 
 init 190208
 ud   190219
