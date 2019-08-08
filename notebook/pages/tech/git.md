@@ -47,7 +47,7 @@ Conflicting process errors?
 `rm -f .git/index.lock`
 
 
-Save username and password
+Save username and password (Buggy)
 ---------
 Can save them to a temp file
 `git config credential.helper store` and `git pull`
