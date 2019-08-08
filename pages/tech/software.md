@@ -89,7 +89,7 @@ MISC
 ---------
 |||
 |-|-|
-| Caffine | super useful app that prevents sleep (OSX, unix)
+| Caffine | super useful app that prevents the computer from sleeping (OSX, unix)
 
 
 Lists like this one: 

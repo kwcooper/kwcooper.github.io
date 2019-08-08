@@ -52,4 +52,6 @@
   * 
   _ _ _ _
   * # Adulting
-  * [digital privacy](p
+  * [digital privacy](pages/other/digitalPrivacy.md)
+
+[posts (under construction...)](https://kwcooper.github.io/longposts/)
