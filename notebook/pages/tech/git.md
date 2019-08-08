@@ -47,7 +47,12 @@ Conflicting process errors?
 `rm -f .git/index.lock`
 
 
-
+Save username and password
+---------
+Can save them to a temp file
+`git config credential.helper store` and `git pull`
+to change the timing to an hour:
+`git config --global credential.helper 'cache --timeout=3600'`
 
 I set up a few other git alias's [here](github.com)
 
