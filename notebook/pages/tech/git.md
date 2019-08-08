@@ -29,12 +29,15 @@ Pushing Changes
 Call git in a bash function? 
 ---------
 Memorizing is hard. Automating is easy. Call multiple git commands at once:
+(see my sys profiles [here](https://github.com/kwcooper/sysConfig) )
 
 ```bash
 # Git Add Commit bash function
-gac () {
-   git add *
-   git commit -m "$1"
+gac () { 
+	echo "Adding and commiting..."
+    git add * 
+    git commit -am "$*"
+    #git push origin master
 }
 ```
 
@@ -59,4 +62,4 @@ I set up a few other git alias's [here](github.com)
 
 
 init 190109
-Ud   190805
+Ud   190808
