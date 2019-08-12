@@ -1,4 +1,0 @@
-
-| neofetch | show system stats (third party)| 
-| whereis | grab the path to the package |
-
