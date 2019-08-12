@@ -62,4 +62,4 @@ I set up a few other git alias's [here](github.com)
 
 
 init 190109
-Ud   190808
+ud   190808

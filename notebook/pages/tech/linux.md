@@ -36,11 +36,7 @@ mount a usb disk
 
 from [here](https://askubuntu.com/questions/285539/detect-and-mount-devices)
 `sudo mkdir /media/usbstick`
-
 `sudo mount -t vfat /dev/sdb1 /media/usbstick`
 
 make sure to check the usb name, type etc...
-
-
-
 
