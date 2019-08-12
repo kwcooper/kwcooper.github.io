@@ -27,8 +27,34 @@ Filesystem Overview
 
 useful commands
 ---------
-| neofetch | show system stats (third party)| 
+
+|||
+|-|-|
 | whereis | grab the path to the package |
+| df | show diskspace |
+
+
+profiles info
+---------
+
+good forum [here](https://serverfault.com/questions/261802/what-are-the-functional-differences-between-profile-bash-profile-and-bashrc)
+the man pages also explains further. 
+
+|||
+|-|-|
+|.profile | used for non-bash specific info. i.e. variables, path, etc. This is done once per session. |
+| .bashrc | config for bash useage. i.e. aliases, editor, prompt |
+| .bash_profile | used for login shells, mostly to load .profile and .bashrc.  |
+|.bash_aliases| separate file for aliases, sourced from bashrc |
+ 
+
+motd
+---------
+Info displayed at system login
+great article [here](https://devtidbits.com/2015/11/30/add-to-and-change-ubuntus-motd/)
+
+to run it `sudo run-parts /etc/update-motd.d`
+
 
 
 mount a usb disk
@@ -40,3 +66,21 @@ from [here](https://askubuntu.com/questions/285539/detect-and-mount-devices)
 
 make sure to check the usb name, type etc...
 
+
+Useful Programs
+---------
+
+|||
+|-|-|
+| neofetch | show system stats |
+| oneko | ... |
+
+
+fun
+---------
+for weather info via terminal...
+`curl wttr.in` or `wttr.in/Irvine?format=%t`
+
+
+init 190801
+ud 190812
