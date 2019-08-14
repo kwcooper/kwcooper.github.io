@@ -30,9 +30,8 @@ useful commands
 
 |||
 |-|-|
-| `whereis` | grab the path to the package |
-| `df -l` | show diskspace |
-| `sudo fdisk -l` | list disk devices |
+| whereis | grab the path to the package |
+| df | show diskspace |
 
 
 profiles info
