@@ -26,12 +26,6 @@ Pushing Changes
 1. `git push origin master`
 
 
-Status
----------
-Check for conflicts and what's going on... 
-1. `git status`
-
-
 Call git in a bash function? 
 ---------
 Memorizing is hard. Automating is easy. Call multiple git commands at once:
