@@ -1,0 +1,11 @@
+
+init 190313
+
+temporary sms number
+https://receive-smss.com/
+
+check if your username or password has been leaked in a data dump
+https://haveibeenpwned.com/
+May be useful to set up the automated forwarding
+
+
