@@ -32,6 +32,11 @@ Check for conflicts and what's going on...
 1. `git status`
 
 
+Clone a repo
+---------
+1. `git clone <Repo URL here>`
+	
+
 Call git in a bash function? 
 ---------
 Memorizing is hard. Automating is easy. Call multiple git commands at once:
