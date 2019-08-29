@@ -37,6 +37,7 @@ Check for conflicts and what's going on...
 
 Clone a repo
 ---------
+Add an existing repo to your workspace
 1. `git clone <Repo URL here>`
 
 
