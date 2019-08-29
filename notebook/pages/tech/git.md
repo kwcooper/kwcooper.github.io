@@ -6,6 +6,7 @@ Notes on git
 Primarily taken from [this](http://rogerdudler.github.io/git-guide/) wonderful site 
 
 
+
 Init git and repo
 ---------
 `git config --global user.email "you@example.com"
@@ -15,15 +16,18 @@ Init git and repo
 further [reading](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 
 
+
 Add and Commit
 ---------
 1. `git add <filename>` or `git add *` or `git add .`
 2. `git commit -m "Commit message"`
 
 
+
 Pushing Changes
 ---------
 1. `git push origin master`
+
 
 
 Status
@@ -32,9 +36,11 @@ Check for conflicts and what's going on...
 1. `git status`
 
 
+
 Clone a repo
 ---------
 1. `git clone <Repo URL here>`
+
 
 
 Call git in a bash function? 
@@ -61,9 +67,16 @@ Conflicting process errors?
 `rm -f .git/index.lock`
 
 
+
 Save username and password (Buggy)
 ---------
-Can save them to a temp file
+By default, the password should be stored for 15m
+
+`git config --global credential.helper cache`
+`git config --global credential.helper 'cache --timeout=3600`
+Note that the timeout is in seconds
+
+Another way is to save them to a temp file:
 `git config credential.helper store` and `git pull`
 to change the timing to an hour:
 `git config --global credential.helper 'cache --timeout=3600'`
