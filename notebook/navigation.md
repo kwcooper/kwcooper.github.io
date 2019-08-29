@@ -17,6 +17,7 @@
   * [ssh](pages/tech/ssh.md)
   - - - - 
   * # other
+  * [linux](pages/tech/linux.md)
   * [bash](pages/tech/bash.md)
   * [ocamlfuse](pages/tech/ocamlfuse.md)
   - - - -
@@ -31,14 +32,12 @@
   * # other
   * [Useful links](pages/neuro/usefullinks.md)
 
-
 [Academia]()
 
   * # lists
   * [funding](pages/academ/funds.md)
   - - - -
   * # other
-
   
 [other]()
   
