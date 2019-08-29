@@ -68,7 +68,7 @@ Conflicting process errors?
 
 
 
-Save username and password (Buggy)
+Save username and password 
 ---------
 By default, the password should be stored for 15m
 
@@ -76,7 +76,7 @@ By default, the password should be stored for 15m
 `git config --global credential.helper 'cache --timeout=3600`
 Note that the timeout is in seconds
 
-Another way is to save them to a temp file:
+Another way (buggy for me) is to save them to a temp file:
 `git config credential.helper store` and `git pull`
 to change the timing to an hour:
 `git config --global credential.helper 'cache --timeout=3600'`
