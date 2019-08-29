@@ -35,7 +35,7 @@ Check for conflicts and what's going on...
 Clone a repo
 ---------
 1. `git clone <Repo URL here>`
-	
+
 
 Call git in a bash function? 
 ---------
@@ -73,4 +73,4 @@ I set up a few other git alias's [here](github.com)
 
 
 init 190109
-ud   190808
+ud   190829

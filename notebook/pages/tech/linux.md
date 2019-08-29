@@ -25,14 +25,17 @@ Filesystem Overview
 | var | variable - contains files that could grow in size, i.e logs, databases etc. |
 
 
+
 useful commands
 ---------
 
 |||
 |-|-|
 | `whereis` | grab the path to the package |
-| `df -l` | show diskspace |
+| `df` | show diskspace; `l` and `-h` are useful |
 | `sudo fdisk -l` | list disk devices |
+| `sudo dmidecode -t 2` | get mobo info |
+
 
 
 profiles info
@@ -67,14 +70,18 @@ from [here](https://askubuntu.com/questions/285539/detect-and-mount-devices)
 
 make sure to check the usb name, type etc...
 
+use `lsblk` to check for partitioning... (mount the partition, not the disk)
+
+
 
 Useful Programs
 ---------
 
 |||
 |-|-|
-| neofetch | show system stats |
-| oneko | ... |
+| neofetch | show system stats, `apt neofetch` |
+| oneko | ... :)  |
+| gnome-sushi | OSX style file preview, use spacebar, `apt gnome-sushi`|
 
 
 fun
@@ -82,6 +89,8 @@ fun
 for weather info via terminal...
 `curl wttr.in` or `wttr.in/Irvine?format=%t`
 
+`apt moo`
 
+--
 init 190801
-ud 190812
+ud 190829
