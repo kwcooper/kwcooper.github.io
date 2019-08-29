@@ -1,9 +1,7 @@
 GIT
 =======
 
-Notes on git
----------
-Primarily taken from [this](http://rogerdudler.github.io/git-guide/) wonderful site 
+Notes on git: many from [this](http://rogerdudler.github.io/git-guide/) wonderful site. 
 
 
 
@@ -73,7 +71,7 @@ Save username and password
 By default, the password should be stored for 15m
 
 `git config --global credential.helper cache`
-`git config --global credential.helper 'cache --timeout=3600`
+`git config --global credential.helper 'cache --timeout=3600'`
 Note that the timeout is in seconds
 
 Another way (buggy for me) is to save them to a temp file:
