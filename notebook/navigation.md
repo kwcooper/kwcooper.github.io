@@ -3,47 +3,47 @@
 [Tech]()
  
   * # lists
-  * [software I like](pages/tech/software.md)
-  * [good places](pages/tech/softwarePlaces.md)
+  * [software I like](tech/software.md)
+  * [good places](tech/softwarePlaces.md)
   - - - -
   * # programming notes
-  * [python](pages/tech/python.md)
-  * [matlab](pages/tech/matlab.md)
-  * [git](pages/tech/git.md)
-  * [R](pages/tech/r.md)
+  * [python](tech/python.md)
+  * [matlab](tech/matlab.md)
+  * [git](tech/git.md)
+  * [R](tech/r.md)
   - - - -
   * # networking
-  * [apache](pages/tech/apache.md)
-  * [ssh](pages/tech/ssh.md)
+  * [apache](tech/apache.md)
+  * [ssh](tech/ssh.md)
   - - - - 
   * # other
-  * [linux](pages/tech/linux.md)
-  * [bash](pages/tech/bash.md)
-  * [ocamlfuse](pages/tech/ocamlfuse.md)
+  * [linux](tech/linux.md)
+  * [bash](tech/bash.md)
+  * [ocamlfuse](tech/ocamlfuse.md)
   - - - -
   * [snips](https://gist.github.com/kwcooper)
 
 [Neuro]()
   
   * # lists
-  * [videos](pages/neuro/neurovideos.md)
-  * [open datasets](pages/neuro/neurodata.md)
+  * [videos](neuro/neurovideos.md)
+  * [open datasets](neuro/neurodata.md)
   - - - -
   * # other
-  * [Useful links](pages/neuro/usefullinks.md)
+  * [Useful links](neuro/usefullinks.md)
 
 [Academia]()
 
   * # lists
-  * [funding](pages/academ/funds.md)
+  * [funding](academ/funds.md)
   - - - -
   * # other
   
 [other]()
   
   * # lists
-  * [travel notes](pages/travelnotes.md)
-  * [airplanes](pages/other/airplanes.md)
+  * [travel notes](travelnotes.md)
+  * [airplanes](other/airplanes.md)
   - - - -
   * # Finance
   _ _ _ _
@@ -51,6 +51,6 @@
   * 
   _ _ _ _
   * # Adulting
-  * [digital privacy](pages/other/digitalPrivacy.md)
+  * [digital privacy](other/digitalPrivacy.md)
 
 [posts (under construction...)](https://kwcooper.github.io/longposts/)
