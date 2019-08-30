@@ -30,6 +30,14 @@ A great reference is [this](https://linuxconfig.org/how-to-install-matlab-on-ubu
 4. Can manually create a shortcut to launch it once installed, or can download a ubuntu package from apt that will add functionality as if it was a deb package. 
 
 
+Exporting Preferences
+---------
+Find the preferences directory with `prefdir`
+Save the file and then import it to the new version...
+My preferences are located online at [(add github link)]()
+NOTE: there may be issues across OS's
+
+
 --
 init 190219
 ud   190829
