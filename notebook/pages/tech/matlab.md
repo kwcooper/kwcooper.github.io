@@ -30,14 +30,33 @@ A great reference is [this](https://linuxconfig.org/how-to-install-matlab-on-ubu
 4. Can manually create a shortcut to launch it once installed, or can download a ubuntu package from apt that will add functionality as if it was a deb package. 
 
 
+
+Permission issues
+---------
+use the output from `matlabroot` in matlab as the path
+then in your OS terminal run: 
+`sudo chmod -R o+rw [path-here]` using that path. 
+
+(found [here](https://www.mathworks.com/matlabcentral/answers/334889-can-t-install-any-toolboxes-because-can-t-write-to-usr-local-matlab-r2017))
+
+
+
 Exporting Preferences
 ---------
 Find the preferences directory with `prefdir`
 Save the file and then import it to the new version...
-My preferences are located online at [(add github link)]()
+My preferences are located online at [Github](https://github.com/kwcooper/sysConfig/tree/master/MATLAB_pref)
 NOTE: there may be issues across OS's
+
+
+
+Toolboxes I use
+---------
+I'm not a fan of huge installs, shedding unused toolboxes may help. I  use (ongoing list):
+
+1. Statistics and Machine Learning Toolbox 
 
 
 --
 init 190219
-ud   190829
+ud   190830
