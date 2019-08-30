@@ -46,7 +46,7 @@ Exporting Preferences
 Find the preferences directory with `prefdir`
 Save the file and then import it to the new version...
 My preferences are located online at [Github](https://github.com/kwcooper/sysConfig/tree/master/MATLAB_pref)
-NOTE: there may be issues across OS's
+Note that there may be issues across OS's
 
 
 
