@@ -34,7 +34,8 @@ useful commands
 | `whereis` | grab the path to the package |
 | `df` | show diskspace; `l` and `-h` are useful |
 | `sudo fdisk -l` | list disk devices |
-| `sudo dmidecode -t 2` | get mobo info |
+| `sudo dmidecode -t baseboard` | get mobo info |
+| `sudo lshw -C memory` | get ram info |
 
 
 
