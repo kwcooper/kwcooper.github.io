@@ -36,6 +36,7 @@ useful commands
 | `sudo fdisk -l` | list disk devices |
 | `sudo dmidecode -t baseboard` | get mobo info |
 | `sudo lshw -C memory` | get ram info |
+| `sudo lshw -c video` | get video card info; use `modinfo alias` for more info; where alias is the config \
 
 
 
