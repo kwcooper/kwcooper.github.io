@@ -35,6 +35,7 @@
 [Academia]()
 
   * # lists
+  * [resources](academ/resources.md)
   * [funding](academ/funds.md)
   - - - -
   * # other
@@ -53,4 +54,3 @@
   * # Adulting
   * [digital privacy](other/digitalPrivacy.md)
 
-[posts (under construction...)](https://kwcooper.github.io/longposts/)

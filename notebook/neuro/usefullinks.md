@@ -27,10 +27,22 @@ Conferences
 | SFN | <link> |
 | Indy SFN | |
 
+other
+|||
+|-|-|
+| [EEG glossery and index](https://github.com/neurodsp-tools/neurodsp/blob/master/doc/glossary.rst) | |
+| [EEG tips and resources](https://erpinfo.org/resources) | |
+| [Brain initiative](https://www.braininitiative.nih.gov/strategic-planning/acd-working-group/brain-research-through-advancing-innovative-neurotechnologies) | |
 
 
 TUT: [Finding good reviews](https://brodylabwiki.princeton.edu/wiki/index.php?title=Finding_Review_Papers)
 
+[huge list of open positions](http://psychgradsearch.wikidot.com/)
+
+[Run visual presentation exp's in the browser](https://www.jspsych.org/about/about/)
+
+
+
 
 init 190410
-ud   190502
+ud   190921
