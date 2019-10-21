@@ -346,10 +346,12 @@ header .header-content .header-content-inner p {
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
     }
-
+/* fix the intro text alignment with margin-top hack */
     header .header-content .header-content-inner {
+        
         margin-right: auto;
         margin-left: auto;
+        margin-top: 400px;
         max-width: 1000px;
     }
 
