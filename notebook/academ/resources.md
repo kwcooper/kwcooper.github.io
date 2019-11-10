@@ -23,6 +23,8 @@ Advice for PhD
 | [Dissertation tips from examiner](https://medium.com/asecuritysite-when-bob-met-alice/as-a-phd-examiner-my-top-25-tips-for-phd-students-4ecb76a307e7) | |
 | [How to read papers](https://journals.plos.org/ploscompbiol/article? id=10.1371/journal.pcbi.1006467) | |
 | [How to read papers algorithm](http://jaimejim.github.io/research-tips/) | |
+| [impact challenge](https://blog.ourresearch.org/category/impact-challenge/) | Awesome blog for scientific impact stuff |
+
 
 
 
@@ -47,6 +49,7 @@ Writing
 | [The conversation publication](https://theconversation.com/become-an-author) | |
 | [Cutting words from writing](https://oaktrust.library.tamu.edu/handle/1969.1/177538) | |
 | [How to write a peer review (Nature)](https://www.nature.com/articles/d41586-018-06991-0?sf200023577=1) | |
+| [On tightening writeing blog post](https://medium.com/@deviparikh/shortening-papers-to-fit-page-limits-97601318681d) |  |
 
 
 
@@ -62,6 +65,10 @@ Utils
 | [Grad school wage database](http://www.phdstipends.com/) | |
 | [PhD placement data](http://nglscoalition.org/coalition-data/) | |
 | [Track research impact](https://publons.com/about/home/) | |
+| [unpaywall](http://unpaywall.org/products/extension) | App to get some papers that are pay only. #openscience |
+| [openaccessbutton](https://openaccessbutton.org/) | App to get some papers that are pay only. #openscience |
+| [biorender](https://biorender.com/) | A good site to build images
+(SB Yunq Mula) |
 
 
 
@@ -99,9 +106,10 @@ Other
 | [Make $$$ from speaking](https://www.chronicle.com/article/How-to-Make-Money-From/241365) | |
 | [Building a personal brand](https://www.drsamlynch.co.uk/blog/building-your-personal-brand-in-academia) | |
 | [Academic journals make a lot of money](https://t.co/1qoRIsdkgu?amp=1) | |
+| [No fee at a conference?](https://changeacademia.wordpress.com/2019/07/06/how-to-get-into-an-academic-conference-without-paying-the-registration-fee/) | |
 
 
 
 
 init 190921
-ud   190921
+ud   191109
