@@ -23,7 +23,10 @@ CRCNS
 
 [Open Brain science index](http://www.mrc-cbu.cam.ac.uk/openscience/resources/)
 
+|||
+|-|-|
+| [Open Narratives dataset](https://openneuro.org/datasets/ds002245/versions/1.0.2) | |
 
 
 init 190410
-ud   190410
+ud   191109
