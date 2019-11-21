@@ -14,6 +14,10 @@ Init git and repo
 further [reading](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 
 
+To add the new remote repo
+`git remote add origin https://github.com/<url to your repo here>`
+
+
 
 Add and Commit
 ---------
