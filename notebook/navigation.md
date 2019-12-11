@@ -47,6 +47,7 @@
   * [airplanes](other/airplanes.md)
   - - - -
   * # Finance
+  * [Finance](other/finance.md)
   _ _ _ _
   * # Quantified Self
   * 
