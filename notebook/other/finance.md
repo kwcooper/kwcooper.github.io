@@ -1,8 +1,19 @@
 Finance notes
 =======
 
+Being an adult in America means learning some basic economics and finance. Here's some of my notes from trying to navigate it all. 
 
-TODO: Organize by topic
+Terms and definitions
+---------
+
+* Annuity - 
+* 401(k) - Retirement account, employer may match, no taxes now, pay in the future. 
+* Roth IRA - Money put in is taxed, grows tax free. 
+* Pension - 
+
+* Low fee index vs higher fee managed
+    * Rare to beat the market at 8% ROI
+
 
 Choosing A Financial Advisor
 ---------
@@ -39,9 +50,20 @@ Andy Raub, founder and president of Raub Capital Management
 Larry Miles, a principal of AdvicePeriod in Los Angeles
 
 
+Questions for your advisor 
+---------
+
+Remember: This is YOUR money
+* Are they a teacher?
+* Do they agree with your philosophies?
+* Clean code of conduct?
+* // not the most rigorous advice...
+- From Dave Ramsey
+
+
 Roth IRA
 ---------
-`As an example, if a 20-year-old puts $5,000 a year into a Roth for 10 years and then stops contributing (because they make more than the phase-out amount or need a tax deduction of future contributions to a Traditional retirement account), the 10 years of Roth contributions and growth—let’s say at 8% interest a year to age 65—could total about $1,070,944 of tax-free dollars,” says [Peter J. Creedon](https://www.investopedia.com/advisor-network/advisors/54627/peter-j-creedon-cfp-chfc-clu-/)`
+"As an example, if a 20-year-old puts $5,000 a year into a Roth for 10 years and then stops contributing (because they make more than the phase-out amount or need a tax deduction of future contributions to a Traditional retirement account), the 10 years of Roth contributions and growth—let’s say at 8% interest a year to age 65—could total about $1,070,944 of tax-free dollars,” says [Peter J. Creedon](https://www.investopedia.com/advisor-network/advisors/54627/peter-j-creedon-cfp-chfc-clu-/)
 
 * Retirement account funded by post-tax income
     * future withdrawals that follow Roth IRA regulations are tax free
@@ -59,67 +81,20 @@ Roth IRA
 * A Roth IRA can be set up in addition to other retirement accounts
     * Should be used as secondary investment plan to 401k etc. 
 
+From Dave Ramsey
+* Work cannot offer a Roth IRA, only a Roth 401(k)
+* He recommends the Roth, and 401(k) up to the match
+* Must have earned income for a Roth
+* If Roth is negative, then get on the phone
+* You pick the fund, understand what you are doing
+* Maybe broke even and then the fee hits you
+    * Check S&P for the year, compare to Roth for rough estimate. Also use 401(k) for comparison
+* Fun fact: Roth named for senator that passed the bill
+* // Idea, choose to contribute to either 401k or to ira depending on the current tax rate? 
+
 _Refs_
 [rothira.com](https://www.rothira.com/what-is-a-roth-ira)
 [How stuff works](https://money.howstuffworks.com/personal-finance/retirement-planning/roth-ira4.htm)
-
-
-Advice from John Oliver Segment on retirement 
----------
-
-* Start saving now 
-* Low-Cost Index funds, check yearly
-* Ask if your advisor is a fiduciary
-* Move from stocks to bonds as you get older
-* Keep fee's under one percent
-
-
-### Charlie Epstein disagrees with John Oliver's advice
-* Fiduciary vs Broker (Registered Rep)
-    * Depends on who regulated
-    * Fiduciary is regulated by Department of Labor, Broker by FINRA
-    * Broker has suitability standard
-* Argues it's better for fiduciary's to be brokers so they can use more financial tools, such as insurance. 
-* The cheapest solution, such as an index fund with Vanguard, may not be the best option, even if it is cheaper
-    * This is because in the financial crisis, Vanguard wouldn't have paid
-    * An annuity would have paid her, for life. There just would have been a commission. 
-
-
-Questions for your advisor 
----------
-
-Remember: This is YOUR money
-* Are they a teacher?
-* Do they agree with your philosophies?
-* Clean code of conduct?
-* // not the most rigorous advice...
-- From Dave Ramsey
-
-
-Dave Ramsey's investing process:
----------
-
-* "Most advisors make their money off of wealthy people"
-* He invests in Growth Stock Mutual Funds, spread across:
-    * Growth in income, growth, aggressive growth, and international
-    * At least a 10 year track record
-* Growth in income (Blue Chip) -> big companies
-    * The calmest, stable
-* Growth fund (Mid cap) -> growing companies	
-    * Performs about as well as the S&P
-* Aggressive growth (Small cap) -> small companies
-    * Volatile. High high's and low lows
-* International (what the name says)
-    * Worst performing. Global has the US. 
-    * Good to not have all eggs in the US basket
-* Index funds mirrors the market, mutual funds that outperform the market
-* How to pick mutual funds? Look at the longest track record. Low risk.
-* Don't chase returns. Get in and stay in. 
-* Millionaires never talk about the fee's
-
-From Casey Smith - [Seeking alpha](https://seekingalpha.com/article/2847756-why-dave-ramsey-is-wrong), Disagrees a bit with Dave
-* Says that Dave dismisses a fiduciary and fee-only financial advisor
-* "A well-diversified index fund portfolio should cost no more that 0.25% a year, with most of the funds trading at no charge"
 
 
 401(k) or a 403(b)
@@ -155,19 +130,52 @@ _Refs_
 * There is also a Roth 401k... (Higher contributions)
 from Graham Stephan
 
-Roth IRA 
+
+Advice from John Oliver Segment on retirement 
 ---------
 
-* Work cannot offer a Roth IRA, only a Roth 401(k)
-* He recommends the Roth, and 401(k) up to the match
-* Must have earned income for a Roth
-* If Roth is negative, then get on the phone
-* You pick the fund, understand what you are doing
-* Maybe broke even and then the fee hits you
-    * Check S&P for the year, compare to Roth for rough estimate. Also use 401(k) for comparison
-* Fun fact: Roth named for senator that passed the bill
-* // Idea, contribute to either 401k or to ira depending on the current tax rate? 
-From Dave Ramsey
+* Start saving now 
+* Low-Cost Index funds, check yearly
+* Ask if your advisor is a fiduciary
+* Move from stocks to bonds as you get older
+* Keep fee's under one percent
+
+Charlie Epstein disagrees with John Oliver's advice
+* Fiduciary vs Broker (Registered Rep)
+    * Depends on who regulated
+    * Fiduciary is regulated by Department of Labor, Broker by FINRA
+    * Broker has suitability standard
+* Argues it's better for fiduciary's to be brokers so they can use more financial tools, such as insurance. 
+* The cheapest solution, such as an index fund with Vanguard, may not be the best option, even if it is cheaper
+    * This is because in the financial crisis, Vanguard wouldn't have paid
+    * An annuity would have paid her, for life. There just would have been a commission. 
+
+
+Dave Ramsey's investing process:
+---------
+
+* "Most advisors make their money off of wealthy people"
+* He invests in Growth Stock Mutual Funds, spread across:
+    * Growth in income, growth, aggressive growth, and international
+    * At least a 10 year track record
+* Growth in income (Blue Chip) -> big companies
+    * The calmest, stable
+* Growth fund (Mid cap) -> growing companies	
+    * Performs about as well as the S&P
+* Aggressive growth (Small cap) -> small companies
+    * Volatile. High high's and low lows
+* International (what the name says)
+    * Worst performing. Global has the US. 
+    * Good to not have all eggs in the US basket
+* Index funds mirrors the market, mutual funds that outperform the market
+* How to pick mutual funds? Look at the longest track record. Low risk.
+* Don't chase returns. Get in and stay in. 
+* Millionaires never talk about the fee's
+
+From Casey Smith - [Seeking alpha](https://seekingalpha.com/article/2847756-why-dave-ramsey-is-wrong), Disagrees a bit with Dave
+* Says that Dave dismisses a fiduciary and fee-only financial advisor
+* "A well-diversified index fund portfolio should cost no more that 0.25% a year, with most of the funds trading at no charge"
+
 
 
 Mutual funds vs Market Index funds
@@ -183,16 +191,8 @@ Mutual funds vs Market Index funds
 From Dave Ramsey
 
 
-Terms and definitions
----------
 
-* Annuity
-* 401(k) - Retirement account, employer may match, no taxes now, pay in the future. 
-* Roth IRA - Money put in is taxed, grows tax free. 
-* Pension - 
-
-* Low fee index vs higher fee managed
-    * Rare to beat the market
+TODO: Organize more; Add investing notes; Add economic notes
 
 init 190118
 ud 191210
