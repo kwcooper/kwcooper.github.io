@@ -54,10 +54,12 @@ Questions for your advisor
 ---------
 
 Remember: This is YOUR money
+
 * Are they a teacher?
 * Do they agree with your philosophies?
 * Clean code of conduct?
 * // not the most rigorous advice...
+
 - From Dave Ramsey
 
 
