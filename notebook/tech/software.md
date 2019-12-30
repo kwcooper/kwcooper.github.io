@@ -4,13 +4,18 @@ Software I like
 
 I switch computers a lot, and decided that a list to run through to grab all the software I like would save some time. So without further ado, here is the software that I like. 
 
+Web browsing 
+---------
+|||
+|-|-|
+| Chrome | Nuff said. Kills memory, but is the best browser. Grab prioatab or google earth new tab plug-in's |
 
 
 Most file editing 
 ---------
 |||
 |-|-|
-| Google Docs | I like the Google ecosystem, sue me. Having my docs sync on every computer and device I own, is nice. It’s also free, which has a lot going for it. I use this for literally everything. Is there a linux api? No, but this is the few times I’ll make do. Besides I found a nice workaround with fuse. |
+| Google Docs | Syncs with most things... Grab the desktop and phone app, and with linux use fuse. |
 | Fuse        |    speaking of...  Grab it [here](https://github.com/astrada/google-drive-ocamlfuse) (and docs) |
 
 
@@ -19,9 +24,11 @@ Programming
 
 |||
 |-|-|
-|Python IDLE, Sublime, Anaconda Spyder|For the most part I stick with IDLE. My custom theme for it is [here](https://github.com/kwcooper/sysConfig/tree/master/idle3_profile). I’ve used I've used sublime off and on for a few years. After switching back to a linux desktop, I didn’t like a few things about IDLE on linux (at least Ubuntu 18.04), so I use the terminal/sublime combo. This is a lot better after learning the python interactive session [trick](python.md) I’ll use Anaconda occasionally. |
+| Sublime | Multi platform, minimal, powerful, and free | 
+|IDLE | Lightweight and minimal. My custom theme for it is [here](https://github.com/kwcooper/sysConfig/tree/master/idle3_profile). |
+| Anaconda | use the conda virtual envirements. |
 |terminal editing| team nano | 
-|Matlab|I hope some researchers make the switch to open source eventually, but as long as the University foots the bill for the license, MATLAB isn’t all that bad, and there are a few things it does that I like better than python… gasp [MATLAB notes](matlab.md) |
+|Matlab | MATLAB isn’t all that bad, and there are a few things it does that I like better than python… [MATLAB notes](matlab.md) |
 |Brackets | clean and simple program packed with power. I’m a big fan of the UI, as well as the live view option similar to Dreamweaver but without all the MB of clutter. |
 |Git and GitHub | Great for keeping everything organized, synced across machines, versioned, and revert-able. [git notes](git.md) |
 |R| I've played with it a bit. There seems to be a lot to like and a great community |
@@ -71,6 +78,11 @@ Video editing
 Audio editing
 ---------
 
+|||
+|-|-|
+| Audacity |  |
+
+
 
 Social Media 
 ---------
@@ -78,6 +90,8 @@ Social Media
 |-|-|
 | [friend remover Free](https://chrome.google.com/webstore/detail/friend-remover-free-delet/pjpnfokdiejfmghfaejjcfnilfgaoogd) | So useful to help manage facebook friends (Chrome) |
 | [Social Book](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae)| Automate deleting old posts and likes, and pages etc (Chrome)|
+| Slack | for work, but also pretty social |
+
 
 File management 
 ---------
@@ -85,16 +99,32 @@ File management
 |-|-|
 | Hardinfo | displays system information in detail (linix) `sudo apt install hardinfo` |
 
+
+
 MISC 
 ---------
 |||
 |-|-|
-| Caffine | super useful app that prevents the computer from sleeping (OSX, unix)
+| Caffine | super useful app that prevents the computer from sleeping (OSX, unix) |
+| Amphetamine | Similar to above but more options |
+| Useage | Used for tracking on my mac |
+| Teamviewer | Remote into desktops | 
+
 
 
 Lists like this one: 
 ---------
 1. [gen.co](https://christian.gen.co/things#software)
 
+
+Commands to generate software lists
+---------
+
+MacOS 
+`ls -la /Applications/ > macAppFiles.txt`
+or
+`sudo find / -iname '*.app' > allAppFilepaths.txt`
+
+
 init 190208
-ud   190806
+ud   191230
