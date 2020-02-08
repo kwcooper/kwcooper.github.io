@@ -8,6 +8,8 @@ The best command
 Will run the file in terminal similar to IDLE
 TODO: port this directly to sublime in some crazy way...
 `exec(open("filename.py").read())`
+Similarly, you can run python in an interactive shell, simply by calling:
+`python -i filename.py`
 
 
 To find python path information
