@@ -80,15 +80,12 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Research</h2>
                     <hr class="primary">
-                    <div class="list-inline">
-                        <li> Heads up! This page is outdated! Check back for updates soon!</li>
-                    </div>
-                    <div class="list-inline">
+                    <!--div class="list-inline">
                         <li> <a href="#memlab">Memory Circuits</a></li>
                         <li> <a href="#compCog">Semantic Modeling</a></li>
                         <li> <a href="#philoMind">Philosophy of Mind</a></li>
                         <li> <a href="#pubs">Publications</a></li>
-                    </div>
+                    </div-->
                 </div>
             </div>
         <br>
@@ -96,111 +93,23 @@
 
         <section class="bg-dark" id="memlab">
             <div class="container">
-            <div class="col-lg-12" align="center">
-                <h3>investigating the neural correlates of learning and memory</h3>
-                <hr align="center">
-            </div>
-            <div class="col-lg-12" align="center">
-                <div class="col-lg-7 col-md-7" align="left" style="text-indent: 50px;">
-                    <p> Learning and memory are major cognitive functions whose effects have puzzled humanity for hundreds of years (Squire 2004). How is it that the brain achieves such a rich and cognitively demanding task of such vivid memories of all aspects of our life? We may recall the comical scene of our first kiss or where we were standing on September 11th, and parents among us have the smile on their child's face etched into their minds forever as they recall her taking her first steps. These memories and learned experiences are what define us, as well as what remain as shadows in cognitive diseases such as Alzheimer's. </p>
-                    <p>The remarkable findings from patients with neuro-anatomical lesions were the first step to decipher the regional specificity of localized regions whose dysfunction results in specific behavioral deficits to learning and memory. From this work, as well as countless interspecies models, regions known as the entorhinal cortex and hippocampus have been found to largely be associated with learning and memory (Squire 2002). These regions form a culmination of the brain’s processing, integrating preprocessed information from external sensory cortices, with cortical projections being sent to the entorhinal cortex, through the hippocampus, and back to the cortex through the entorhinal region (Eichenbaum, 2000). Despite the attention these areas have received, the specific computations this information undergoes remain largely unknown. </p>
-                    <p> For example, within the hippocampus and entorhinal cortex, it is well documented that fluctuations of activity from large numbers of neurons, especially in the 6-10Hz range known as Theta, can be used as a biomarker to track the processing that these areas are performing (Buzsaki, 2002). In the hippocampus, theta activity is not synchronous throughout, but rather the peak of each wave is offset 180 degrees down the long axis of the structure. (Lubenov and Siapas, 2009; Patel, 2012). Whether similar dynamics exist in the entorhinal cortex however, is unknown. If these dynamics do not exist, it would add evidence that the theta offset in the hippocampus is intrinsic to the structure. However, if found, then the Hippocampal offset waves may be a product of the afferent projections from the Entorhinal cortex to the Hippocampus.</p>
+                <div class="col-lg-11 col-md-11" align="left" style="text-indent: 50px;">
+                    <p> At the most fundamental level, I am drawn to understanding the complex systems around us. Nothing stands in isolation. Whether it be congressional voting patterns, an animal foraging for food, the ebbs and flows of the stock market, or the communication between brain regions, like most scientists, I wish to define the key parts of systems, the underpinnings of their dynamism, and the outcomes of their interactions. </p>
+                    <p>I’m chiefly concerned with a system which may be the most complex, yet personal of the lot: the brain. Sitting on your shoulders is not only what allows you to even read and comprehend this paragraph, but also defines ‘you’ in the first place. From your favorite song, the fact you like ketchup but not tomatoes, or your fear of spiders, to your hopes, dreams, and aspirations, all of what you consider to be you are defined within the patterns of electrical activity of billions of cells. </p>
+                    <p> The brain is what has allowed humanity's greatest achievements: curing diseases, putting a man on the moon, and, dare I say, the internet, to name only a few. Moreover, it is the brain that allows us to even understand and build these complex systems in the first place. Yet, importantly, our abilities to do all of this doesn’t exist at birth, but rather are learned over days, years, and lifetimes. </p>
+                    <p><b>My research aims to understand the systems of the brain that allow this lifelong, continual learning and remembrance to occur. </b></p>
                 </div>
 
-                <div class="col-lg-5 col-md-5 col-sm-5" align="center">
+                <!--div class="col-lg-5 col-md-5 col-sm-5" align="center">
                     <img src="img/research/6wkGCaMP_R4xDapi.jpg" class="img-circle img-responsive" alt="">
                     <br>
                     <br>
                     <br>
                     <img src="img/research/romoEphys.png" class="img-circle img-responsive" alt="">
-                </div>
-            </div>
-            </div>
-        </section>
-
-        <br>
-        <br>
-        <br>
-
-        <section class="bg-dark" id="compCog">
-            <div class="container">
-            <div class="col-lg-12" align="center">
-                <h3> catastrophic semantic forgetting </h3>
-                <hr align="center">
-            </div>
-            <div class="col-lg-12" align="center">
-                <div class="col-lg-4 col-md-4 col-sm-4" align="center">
-                    <br>
-                    <br>
-                    <img src="img/research/Skip-gram.png" class="img-rounded img-responsive" alt="">
-                </div>
-                <div class="col-lg-8 col-md-8" align="left" style="text-indent: 50px;">
-                    <p> </p>
-                    <p> There has been an increased prominence of predictive neural network models that use principles of reinforcement learning to build representations of word meaning when trained on a language corpus. These “neural embedding” models have taken the field by storm, partially due to the resurgence of connectionist architectures, but also due to their remarkable success at fitting human data. However, no attention has been paid to the consequences that catastrophic forgetting (CF), an inherent problem with connectionist models, has on the neural embeddings learned by these models. CF is a natural consequence of continuous learning in a connectionist architecture, and can affect the network’s ability to represent multiple meanings of words when learned sequentially. We explore the effect of CF on a modern neural embedding model of semantic representation (word2vec) by using homonyms as an index of bias when varying the order in which a corpus is learned. If the corpus is learned in random order, the final representation tended towards the dominant sense of the word (bank → money) as opposed to the subordinate sense (bank → river). However, if the subordinate sense was more recently presented to the network, the new learning erased the previously learned representation of the dominant sense. We demonstrate the impact of CF and sequence of learning on the final neural embeddings learned by word2vec in both an artificial language and in an English corpus, and explore recently suggested methods to insulate against CF in deep learning architectures.  </p>
-                </div>
-            </div>
+                </div-->
             </div>
         </section>
-
-        <br>
-        <br>
-        <br>
-
-        <section class="bg-dark" id="philoMind">
-            <div class="container">
-                <div class="col-lg-12" align="center">
-                    <h3> philosophy of mind </h3>
-                    <hr align="center">
-                </div>
-
-                <div class="col-lg-12" align="center">
-                    <p> Check for updates soon! </p>
-                    <!--
-                    <div class="col-lg-4 col-md-4 col-sm-4" align="center">
-                        <br>
-                        <br>
-                        <img src="img/research/Skip-gram.png" class="img-rounded img-responsive" alt="">
-                    </div>
-                    <div class="col-lg-8 col-md-8" align="left" style="text-indent: 50px;">
-                        <p> </p>
-                        <p> </p>
-                    </div>
-                    -->
-                </div>
-            </div>
-        </section>
-
-        <br>
-        <br>
-        <br>
-
-        <section class="bg-dark" id="pubs">
-                <div class="container">
-                    <div class="col-lg-12" align="center">
-                        <h3> publications </h3>
-                        <hr align="center">
-                    </div>
-
-                    <div class="col-lg-12" align="center">
-                        <p> Will update soon! </p>
-                        <!--
-                        <div class="col-lg-4 col-md-4 col-sm-4" align="center">
-                            <br>
-                            <br>
-                            <img src="img/research/Skip-gram.png" class="img-rounded img-responsive" alt="">
-                        </div>
-                        <div class="col-lg-8 col-md-8" align="left" style="text-indent: 50px;">
-                            <p> </p>
-                            <p> </p>
-                        </div>
-                        -->
-                    </div>
-                </div>
-            </section>
-
         </div>
-    <br>
-
     </section>
 
 <!-- Use a container to prevent the hoz scroll bug -->
