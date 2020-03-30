@@ -39,11 +39,13 @@ From a lifework [article](https://www.lifewire.com/remove-personal-information-f
 
 Zabasearch was annoying, and required a fax of your ID, my info wasn’t on any of the other sites. 
 
+A few more have popped up since:
 
+* [apollo.io](https://www.apollo.io/privacy/) - email them to remove... stay tuned
 
 
 init 190107
-ud   190731
+ud   200326
 
 
 
