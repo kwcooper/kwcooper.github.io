@@ -106,9 +106,10 @@ MISC
 |||
 |-|-|
 | Caffine | super useful app that prevents the computer from sleeping (OSX, unix) |
-| Amphetamine | Similar to above but more options |
-| Useage | Used for tracking on my mac |
-| Teamviewer | Remote into desktops | 
+| Amphetamine | Similar to above but more options, currently using on (OSX) |
+| Useage | Used for tracking useage history on my mac (OSX) |
+| Teamviewer | Remote into desktops (cross-platform) | 
+| [Mounty](https://mounty.app/) | Awesome free software to mount NTFS drives on macOS (donate to them:) ) | 
 
 
 
