@@ -1,0 +1,40 @@
+
+init 190328
+
+
+
+[PsychoPy](http://www.psychopy.org): pretty snazzy program for running a wide variety of psychology experiments
+
+[Survey Monkey](https://www.surveymonkey.com): Designed to run surveys but you might be able to get it to do fancier things
+
+[Collector](http://www.cogfog.com/Collector/Documentation/StartingUp.html) Psychology experiment running software developed at UCLA.  Specialized for memory experiments but can be used for many other experiments too.
+
+[Opensesame](https://computingforpsychologists.wordpress.com/tag/opensesame/) Developed in the Netherlands
+
+[Affect 4.0](https://ppw.kuleuven.be/apps/clep/affect4/)  As described in: Affect 4.0: A free software package for implementing psychological and psychophysiological experiments. Experimental Psychology, 57, 36-45.
+
+[PEBL](http://pebl.sourceforge.net) Psychology Experiment Building Language 
+
+[Millisecond](http://www.millisecond.com)
+
+[ScriptingRT](https://reactiontimes.wordpress.com/scriptingrt/)  Described at Schubert, T.W., Murteira, C., Collins, E.C., Lopes, D. (2013). ScriptingRT: A software library for collecting response latencies in online studies of cognition. PLoS ONE 8: e67769. 
+
+[jsPsych](http://www.jspsych.org Requires some knowledge of Javascript)  Described at de Leeuw, J. R. (2015). jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior Research Methods, 47(1), 1-12. IU’s own!
+
+[MWERT](https://github.com/hawkrobe/MWERT) This is a Javascript package programmed by Robert Hawkins for his final project in Q370 a couple of years ago.  It was designed for real-time time collective behavior experiments.  The paper describing the system is at: https://rxdhawkins.files.wordpress.com/2014/10/hawkins14_realtimewebexperiments.pdf 
+
+[NodeGame](https://link.springer.com/article/10.3758/s13428-016-0824-z) An alternative Javascript package for conducting collective behavior experiments online, developed by Stefano Balietti.  
+
+[tatool](http://www.tatool-web.com/#/)
+
+[Lime survey](https://www.limesurvey.org) Another tool mostly intended for surveys.
+
+[JATOS](http://www.jatos.org) (Just Another Tool for Online Studies):
+
+[Qualtrics](https://www.qualtrics.com) the slickest system for doing surveys of many different types. (I helped run a case competition for them as well :) )
+
+[stato.de](http://statode-lab.herokuapp.com/account/31/#/) Online experiments of 6 different types.  Data is shown on the screen afterwards.
+
+
+
+Contributors: Rob Goldstone
