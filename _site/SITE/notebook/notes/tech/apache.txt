@@ -1,0 +1,24 @@
+190218
+ud 190219
+
+Easily download the apache server
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04-quickstart
+https://www.tecmint.com/install-apache-web-server-on-ubuntu-18-04/
+
+
+
+Test if it works with the local ip. Should get the landing page. 
+
+
+Find the HTML at `/var/www/html` 
+
+Make sure that php is installed, else, go [here](https://thishosting.rocks/install-php-on-ubuntu/)
+
+`<?php
+phpinfo();
+?>`
+
+save the code as a php file and try to run it. 
+
+
+
