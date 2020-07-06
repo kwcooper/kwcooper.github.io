@@ -1,0 +1,12 @@
+# Site settings
+title: "Keiland Cooper"
+email: "kwcooper@uci.edu"
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: "@kwc_tweets"
+github_username: "kwcooper"
+
+# Build settings
+markdown: kramdown

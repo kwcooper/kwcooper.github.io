@@ -1,0 +1,31 @@
+
+init 190313
+ud 190522 
+
+from [here:](https://stackoverflow.com/questions/48157580/how-do-i-programmatically-download-my-bank-transactions-from-chase-without-using)
+
+q37765b38-3e65-4a72-ac8f-933a3c626af9 
+
+https://pypi.org/project/ofxtools/
+
+NO DICE
+
+
+### Automate your finances - Ramit Sethi
+* Switch your bills on the first of the month
+    * ask credit card, also assume you're paid on the first of the month
+* From your paycheck, send a percentage to your 401(k) 
+* The rest goes to your checking, with more automated savings
+    * Then send money to your Roth IRA
+    * Then to your saving's account, and sub savings accounts
+* Then, use your checking to pay off your credit card
+* Then, pay of misc bills (Rent) -> Can automate! Look up bill pay
+* Then standard bills (Amazon, Netflix, Internet, etc.)
+* If you do all this, then spend the rest dammit!
+* Also, don't forget cash withdraws
+
+* Timing is also important
+    * Set up direct deposit!
+    * wait a few days before taking money out of your accounts
+
+
