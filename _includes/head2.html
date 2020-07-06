@@ -44,22 +44,4 @@
     <script src="js/worldPop.js"></script>
     
 
-    <!-- dynamic page Script for random page cover-->
-    <script async>
-    function getRand(){
-        rnd = Math.random()
-        return Math.round(rnd*(css.length-1));
-    }
-    var css = [
-    '<link rel="stylesheet" type="text/css" href="css/creative_A.css">',
-    '<link rel="stylesheet" type="text/css" href="css/creative_B.css">',
-    '<link rel="stylesheet" type="text/css" href="css/creative_C.css">',
-    ];
-
-    rand = getRand();
-    //document.write( "Choosing " + rand + ", " + rnd);
-    document.write(css[rand]);
-    </script>
-    
-
 </head>

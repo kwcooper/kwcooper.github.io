@@ -4,8 +4,8 @@
 */
 function maind(){
 	startdate = new Date()
-	now(startdate.getYear(),startdate.getMonth(),startdate.getDate(),startdate.getHours(),startdate.getMinutes(),startdate.getSeconds())
-}
+	now(startdate.getYear(),startdate.getMonth(),startdate.getDate(),startdate.getHours(),startdate.getMinutes(),startdate.getSeconds())}
+
 function ChangeValue(number,pv){
 	numberstring =""
 	var j=0 
