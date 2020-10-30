@@ -1,0 +1,168 @@
+---
+layout: default
+title: Publications
+description: Let's push the bounderies of human <span>knowledge</span> to <span>discover</span> the world around us and our place in it 
+permalink: '/publications'
+---
+<!-- plumx metrics-->
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<!-- Altmetrics -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
+<!-- start: project header -->
+<section class="site-project-header">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8">
+        <div class="site-project-header-content">
+          <h1>
+            {{ page.description }}
+          </h1>
+          
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <a href="#project" class="site-project-header-action scroll-to">
+<!--          <span> My work</span>-->
+<!--          <img src="{{ 'images/arrow-down.svg' | absolute_url }}" alt="arrow-down">-->
+          <i class="fa fa-3x fa-angle-down"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end: project header -->
+
+
+<!-- start: publication section -->
+{%- if site.data.bib.enable -%}
+{%- assign pubs = site.data.bib -%}
+<section class="project" id="pub">
+  <div class="container">
+    <div class="row">
+         <div class="section-title">
+          <br>
+          <h2>
+            publications
+          </h2>
+           <p>Find the most up-to-date list at <a href="https://scholar.google.com/citations?user=nCEUdSoAAAAJ&hl=en" target="_blank">Google Scholar <i class="fa fa-graduation-cap"></i> </a> or <a href="http://orcid.org/0000-0002-0358-9645" target="_blank">ORCID <img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"></a></p>
+        </div>
+    
+    {%- for pub in pubs.pubs -%}
+    <div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-10 mx-auto text-center">
+              <div class="site-pub-item-thumb">
+                <img src="{{ pub.image }}" alt="The first page of a scientific publication">
+             </div>
+         </div>
+
+        <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="card border-0">
+                <div class="card-header" style="background-color: #fff;"> 
+                    <ul class="nav nav-tabs card-header-tabs pull-left"  id="myTab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="{{ pub.nick }}summary-tab" data-toggle="tab" href="#{{ pub.nick }}summary" role="tab" aria-controls="home" aria-selected="true">Summary</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="{{ pub.nick }}abstract-tab" data-toggle="tab" href="#{{ pub.nick }}abstract" role="tab" aria-controls="profile" aria-selected="false">Abstract</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="{{ pub.nick }}info1-tab" data-toggle="tab" href="#{{ pub.nick }}info1" role="tab" aria-controls="profile" aria-selected="false">Data, Reference, etc.</a>
+                        </li>
+
+                        {%- if pub.metrics -%}
+                        <li class="nav-item">
+                            <a class="nav-link" id="{{ pub.nick }}metrics-tab" data-toggle="tab" href="#{{ pub.nick }}metrics" role="tab" aria-controls="contact" aria-selected="false">Metrics</a>
+                        </li>
+                        {%- endif -%}
+                    </ul>
+                </div>
+
+                <div class="card-body">
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active site-pub-info" id="{{ pub.nick }}summary" role="tabpanel" aria-labelledby="{{ pub.nick }}summary-tab">
+                            <h5>{{ pub.title }}</h5>
+                            {{ pub.summary }}
+                        </div>
+                      
+                        <div class="tab-pane fade" id="{{ pub.nick }}abstract" role="tabpanel" aria-labelledby="{{ pub.nick }}abstract-tab">
+                            <h5>{{ pub.title }}</h5>
+                            {{ pub.abstract }}
+
+                        </div>
+                      
+                        <div class="tab-pane fade" id="{{ pub.nick }}info1" role="tabpanel" aria-labelledby="{{ pub.nick }}info1-tab">
+                            <h5>{{ pub.title }}</h5>
+                            <br>
+                            <ul class="site-cta-buttons">
+                              <li>
+                                <a href="{{ pub.doi }}" target="_blank" class="btn btn-secondary">
+                                  <span class="btn-area">
+                                    <span data-text="GO!">
+                                      Journal link
+                                    </span>
+                                  </span>
+                                </a>
+                              </li>
+                              <li>
+                                <a href="mailto:kwcooper@uci.edu?&subject=Paper%20Request%20&body=Hi!%20I%20would%20like%20a%20copy%20of%20{{ pub.doi }}%20please." target="_blank" class="btn btn-primary">
+                                  <span class="btn-area">
+                                    <span data-text="GO!">
+                                      Request PDF
+                                    </span>
+                                  </span>
+                                </a>
+                              </li>
+                              {%- if pub.dataLink -%}
+                               <li>
+                                <a href="{{ pub.dataLink }}" target="_blank" class="btn btn-secondary">
+                                  <span class="btn-area">
+                                    <span data-text="GO!">
+                                      <i class="fa fa-code fa-lg" ></i> Data
+                                    </span>
+                                  </span>
+                                </a>
+                              </li>
+                              {%- endif -%}
+                            </ul>
+                          <br>
+                      
+                            <br>
+                            <div style="background: $gray;">
+                              <h6> Reference: </h6>
+                              {{ pub.ref }}
+                            </div>
+                        </div>
+                                          
+                        {%- if pub.metrics -%}
+                        <div class="tab-pane fade" id="{{ pub.nick }}metrics" role="tabpanel" aria-labelledby="{{ pub.nick }}metrics-tab">
+                            <h5>{{ pub.title }}</h5>
+                          
+                            {%- if pub.metric == "plum" -%}
+                            <a href={{ pub.metricLink }} data-hide-print="true" class="plumx-details" data-site="plum" data-hide-when-empty="true">COVID-19 and the Chemical Senses: Supporting Players Take Center Stage</a>
+                            {%- endif -%}
+                          
+                            {%- if pub.metric == "alt" -%}
+                            <div data-badge-details="right" data-badge-type="medium-donut" data-doi={{ pub.metricLink }} data-hide-no-mentions="true" class="altmetric-embed"></div>
+                            {%- endif -%}
+                          
+                        </div>
+                        {%- endif -%}
+                    </div>
+                </div>
+            </div>
+<!--            <hr>-->
+         </div>
+      </div>
+      </div>
+    {%- endfor -%}
+    </div>
+  </div>
+</section>
+{%- assign clients = nill -%}
+{%- endif -%}
+<!-- end: portfolio section -->
+
+

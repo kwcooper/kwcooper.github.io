@@ -1,186 +1,223 @@
 ---
-layout: page
-title: home
+layout: default
+title: Home
+permalink: '/'
+pagination: 
+  enabled: true
 ---
 
-<!-- Use a container to prevent the hoz scroll bug 
-ie. <div class="container" id="type"> -->
 
-{% include header.html %}
+<!-- start: introduction -->
+<section class="site-hero">
+  <div class="site-hero-typingintro">
+<!-- Break formatting to keep the code in order -->
+<pre id="typewriter">
+<span class="var-highlight">def</span> hello(visitor):
+    <span class="inbuilt-highlight"> if </span>visitor.you == <span class="string-highlight">'new'</span>:
+        <span class="fcn-highlight">introduce_self</span>(
+        myName = <span class="string-highlight">'Keiland'</span>,
+        myWork = <span class="string-highlight">'Neuroscience + AI'</span>
+        myLocation = <span class="string-highlight">'UCI'</span>)
+    <span class="inbuilt-highlight"> else: </span>
+        <span class="fcn-highlight">welcome_back</span>()
+</pre>
+    
+  <div class="container">
+    <a href="#project" class="site-hero-scroll scroll-to">
+      <img src="images/arrow-down.svg" alt="arrow-down">
+    </a>
+    </div>
+    </div>
 
-<!-- About and image slider -->
-<div class="container">	
-<div class="col-sm-6"> </div>
-	<section id="about">
-		<div class="row" >
-		  <div class=" col-xs-12 col-sm-12 col-md-6 col-lg-6"> 
-		  		<h2> </h2>
-		  		<h2> </h2>
-              <br>
-				<div id="myCarousel" class="carousel slide center-block" data-ride="carousel">
-				  <!-- Wrapper for slides -->
-				  <div class="carousel-inner">
-                    <div class="item active">
-						<a href="projects.html" > 
-					  		<img src="img/natComp.jpg" >
-					  	</a>
-					</div>
-					<div class="item">
-						<a href="projects.html" > <img src="img/portfolio/miniscope.jpg" > </a>	
-					</div>
-					<div class="item">
-						<a href="projects.html" > <img src="img/portfolio/netPC.jpg" > </a>
-					</div>
-					<div class="item">
-						<a href="projects.html" > <img src="img/portfolio/myBrain.jpg" > </a>
-					</div>
-				  </div>
 
-				  <!-- Left and right controls -->
-				  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-						<span class="sr-only">Previous</span>
-				  </a>
-				  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-						<span class="sr-only">Next</span>
-				  </a>
-				</div>
-  			</div>
-            
-  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-		<div class="row">
-            <br>
-            <br>
-			<div class="col-xs-11 col-xs-offset-1 col-lg-11 col-lg-offset-0 text-xs-justify text-left">
-				<h2> <font size="4"> Welcome to my corner of the internet. In a nutshell, I plan to make the short time we currently have improve for as many people as possible; whether by research, technology, philosophy, or policy- if I have to leave this world, it's going to be a better place than when I arrived.  </font></h2>
-            </div>
-            </div>
-		</div>
-	</div>
 </section>
-</div>
+<!-- end: introduction -->
 
-<!-- Typed soundbites -->
-<section>
-<div class="container" id="type">
-<br>
-<br>
-<br>
-<br>
-<br>
-    <div class="col-lg-12 text-center">
-        <h2> But... what do I do? </h2>
-    </div>
-    <div class="col-lg-12 text-center">
-        <h1> <a href="" style="text-decoration:none" class="typewriteDel" data-period="2000" data-type='[ "I study how brains work", "I teach robots to read", "I study how systems learn", "I study how brains work", "I help build the internet", "I build smart machines", "I make businesses smart(er)" ]'> </a> </h1> 
-    </div>
-</div>
+
+
+<!-- start: big neuron section -->
+<section class="site-bigneuron" id="neuron">
+<!--  <img src="images/assets/neuron_pyd_Aright.svg" class="site-bigneuron-neuron" preserveAspectRatio="none" alt="A pyramidal neuron"  >-->
+  <img src="images/assets/CAJAL_HIPPOCAMPUS.png" class="site-bigneuron-neuron" preserveAspectRatio="none" alt="The Hippocampus as drawn by Cajal"  >
 </section>
+<!-- end: big neuron section -->
 
-<!-- NEWS -->
-<section>
-<div class="container" id="type">
-<br>
-<br>
-<br>
-    <div class="col-lg-12 text-center">
-        <h2> <a href="news.html" target="_blank">news</a></h2>
-        (click above for more items)
-        <hr>
-    </div>
-    <div class="col-lg-12 text-center">
-        
-        <p>~2020~</p>
-
-        <p> We spend way too much time in our inbox. I gave a short seminar on best emailing practices. You can find it <a href="https://www.youtube.com/watch?v=Idxxroabt9E" target="_blank"><u>here</u></a> </p>
-
-        <p> 04-12 | My new preprint on COVID-19 with some of the awesome GCCR members was just released! Check it out <a href="https://osf.io/ejv8y/" target="_blank"><u>here</u></a> </p>
-
-        <p>03-30 | <a href="https://neuromatch.io/" target="_blank"><u>Neuromatch</u></a>  conference was a blast! Glad to have presented. Big thank you to the organizers!   </p>
-
-        <p>03-28 | I'm officially a member of the Global Consortium for Chemosensory Research, working on understanding the loss of smell symptom of COVID-19. For more information, check out the website <a href="https://gcchemosensr.org/index.html" target="_blank"><u>here</u></a> </p>
-
-        <p>03-26 | Had a great time talking with great researchers for the ContinualAI neuroscience meetup. The recording can be found <a href="https://www.youtube.com/watch?v=LPYBy4VHRuk" target="_blank"><u>here</u></a> </p>
-        
-        <p>02-18 | My <a href="https://gps.bio.uci.edu/the-art-of-email/" target="_blank"><u>article</u></a> on best emailing practices is live on GPS STEM</p> 
-        
-        <p>02-14 | Lot's of love to share: Our <a href="https://doi.org/10.7554/eLife.52289" target="_blank"><u>MEC traveling wave paper</u></a> is out! Impossible without the amazing probe design by Jesus Hernández-Pérez and insights by Ehren Newman, with data freely available at:<a href="http://dx.doi.org/10.6080/K0C53J2R" target="_blank"><u>http://dx.doi.org/10.6080/K0C53J2R</u></a> </p>
-        
-        <p> 02-11 | More skype-a-neuroscientist action! </p>
-        
-        <p> 02-02 | Have a question about the brain? I want to hear it <a href="https://www.kwcooper.xyz/q4n", target="_blank"> <u>HERE</u> </a></p>
-
-        <p>01-01 | Happy New Year!!! </p>
-
-    </div>
-</div>
-</section>
-
-<br>
-<br>
-<section id="links">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-4 col-md-4 col-sm-4 text-center">
-				<div class="service-box">
-					<!--i <a href="https://www.facebook.com/K.Wade.Cooper"> class="fa fa-4x fa-facebook wow bounceIn text-primary"></i-->
-					<a href="now.html"><i class="fa fa-4x fa-newspaper-o wow fadeIn fa-lg"> </i></a>
-					<h3>Now</h3>
-					<p class="text-muted">More about me</p>
-				</div>
-			</div>
-            <div class="col-md-4 col-md-4 col-sm-4 text-center">
-				<div class="service-box">
-					<!--i class="fa fa-4x fa-google-plus wow bounceIn text-primary" data-wow-delay=".2s"></i-->
-					<a href="research.html"><i class="fa fa-4x fa-flask wow fadeIn fa-lg"></i></a>
-					<h3>Research</h3>
-					<p class="text-muted">Generating new knowledge</p>
-				</div>
-			</div>
-            <!--div class="col-md-3 col-md-3 col-sm-3 text-center">
-				<div class="service-box">
-					<a href="projects.html"><i class="fa fa-4x fa-th wow fadeIn fa-lg"></i></a>
-					<h3>Projects</h3>
-					<p class="text-muted">Selection of past and present projects</p>
-				</div>
-			</div-->
-			<div class="col-md-4 col-md-4 col-sm-4 text-center">
-				<div class="service-box">
-					<!--i class="fa fa-4x fa-linkedin wow bounceIn text-primary" data-wow-delay=".1s"></i-->
-					<a href="contact.html"><i class="fa fa-4x fa-phone wow fadeIn fa-lg"></i></a>
-					<h3>Contact</h3>
-					<p class="text-muted">and my digital footprint</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<!-- Empty section for looks -->
-<aside class="bg-light">
-    <div class="container text-center">
-        <div class="call-to-action">
-        </div>
-    </div>
-</aside>
-
-<!-- sub-footer Code -->
-<div class="container">
+<!-- start: Nutshell section -->
+<section class="site-testimonial" style="background: white;">
+  <div class="container">
     <div class="row">
-        <div class="col-lg-10 col-lg-offset-1 text-center">
-            <footer>
-            <ul class="list-inline">
-                <font face=Courier New size="2"> <i>last updated 200707</i></font>
-            </ul>
-                <!-- <font face=Courier New size="2"> Visitor number:  </font> -->
-
-
-            <ul class="list-inline">
-                <font face=Courier New size="2"> I'd love to hear your anonymous feedback on the site <a href="https://forms.gle/wpwbG33nWses3HgL6"><u>here</u></a>!</font>
-            </ul>
-            </footer>
-        </div>
+      <div class="col-12">
+        <div class="section-title">
+          <h2>
+            In a Nutshell
+          </h2>
+      <div class="col-12">
+        <p> <b>Complex systems surround us:</b> the ebbs and flows of the stock market, animals forraging for food, or our social networks. Like most scientists, I wish to define the key parts of systems, the underpinnings of their dynamism, and the outcomes of their interactions. I’m chiefly concerned with a system which is perhapse the most complex, yet personal of the lot. 
+        </p>
+        <p>Sitting on top of your shoulders is not only what allows you to read and comprehend this paragraph, but defines ‘you’ in the first place; from your favorite song, the fact you like ketchup but not tomatoes, your fear of spiders, to your hopes, dreams, and aspirations. We are defined by the patterns of activity of billions of cells in our brain. </p>
+        <p> Through the brain we percieve and interact with the cosmos, allowing some of humanity's greatest achievements: curing diseases, putting a human on the moon, the internet, to name only a recent few. Yet, we're not born with the ability to do all this, but learn over days, years, and lifetimes. <b>My work aims to understand the brain systems that allow this lifelong, continual learning and remembrance to occur.</b></p>
+      </div>
+              </div>
+      </div>
     </div>
-</div>
+  </div>
+</section>
+<!-- end: Nutshell section -->
+
+{% if site.data.news.enable %}
+<!-- start: News section -->
+<!--TODO: RENAME CSS-->
+<section class="site-testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2>
+            {{ site.data.news.title }}
+          </h2>
+        </div>
+      </div>
+      {% for newsitem in site.data.news.testimonial_item limit: 9 %}
+      <div class="col-lg-4 col-md-6">
+        <div class="site-testimonial-item">
+          <div class="site-testimonial-item-header">
+            <div class="person">
+              <h5>{{ newsitem.name }}</h5>
+              <p>{{ newsitem.date }}</p>
+            </div>
+          </div>
+          <p class="site-testimonial-item-body">
+            {{ newsitem.quote }}
+          </p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    
+    <div class="text-right">
+    <a  href="/news.html" target="_blank"> More News →</a> 
+    </div>
+  </div>
+</section>
+<!-- end: News section -->
+{% endif %}
+
+
+<!-- start: counter section -->
+<!--
+<section class="site-counter" id="counter">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2 class="text-white">The Proof is in the Pudding!</h2>
+        </div>
+      </div>
+      {% if site.data.counters.size > 0 %}
+      {% for counter in site.data.counters %}
+      <div class="col-lg-3 col-md-6">
+        <div class="site-counter-item">
+          <span class="site-counter-item-title">{{ counter.title }}</span>
+          <h3 class="site-counter-item-number">{{ counter.count }}</h3>
+        </div>
+      </div>
+      {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</section>
+-->
+<!-- end: counter section -->
+
+
+
+{% if site.data.testimonials.enable %}
+<!-- start: testimonial section -->
+<!--
+<section class="site-testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2>
+            {{ site.data.testimonials.title }}
+          </h2>
+          <p>
+            {{ site.data.testimonials.subtitle }}
+          </p>
+        </div>
+      </div>
+      {% for testimonial in site.data.testimonials.testimonial_item %}
+      <div class="col-lg-4 col-md-6">
+        <div class="site-testimonial-item">
+          <div class="site-testimonial-item-header">
+            <div class="thumb">
+              <img src="{{ testimonial.thumb | absolute_url }}" alt="user-thumb">
+            </div>
+            <div class="person">
+              <h5>{{ testimonial.name }}</h5>
+              <p>{{ testimonial.company_position }}</p>
+            </div>
+          </div>
+          <p class="site-testimonial-item-body">
+            {{ testimonial.quote }}
+          </p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+-->
+<!-- end: testimonial section -->
+{% endif %}
+
+
+
+
+<!-- start: portfolio section -->
+<!--
+<section class="site-project" id="project">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2>OUR RECENT WORKS</h2>
+          <p>Crafting experiences and seeking to make the complex clear & beautiful.</p>
+        </div>
+      </div>
+      {% assign posts = site.posts | where:'type', 'portfolio' %}
+      {%- for post in posts limit: 4 -%}
+      <div class="col-lg-6 col-md-10 mx-auto">
+        <div class="site-project-item">
+          <div class="site-project-item-thumb">
+            <img src="{{ post.image }}" alt="project-thumb-one">
+          </div>
+          <div class="site-project-item-content">
+            <span>{{ post.category[0] }}</span>
+            <h3>{{ post.title }}</h3>
+            <a href="{{ post.url | absolute_url }}" class="read-more">view project</a>
+          </div>
+        </div>
+      </div>
+      {%- endfor -%}
+      <div class="col-12 text-center text-lg-left">
+        <a href="{{ '/portfolio' | absolute_url }}" class="site-project-cta">MORE WORKS</a>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+<!-- end: portfolio section -->
 
 <!-- typing text code (breaks other js if sitewide) -->
-<script src="js/typingText.js"></script>
+<!--<script src="js/typingText.js"></script>-->
+
+<script>
+function activateFilterAnimation() {
+  $('img').toggleClass('animated');
+}
+</script>
+
+
+<script src="js/typed.js"></script>

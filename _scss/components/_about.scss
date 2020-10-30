@@ -1,0 +1,133 @@
+.site-about{
+  &-header{
+    padding-top: 160px;
+    padding-bottom: 80px;
+    background-color: $white;
+    @include mobile{
+      padding-top: 60px;
+      text-align: center;
+    }
+    h1{
+      color: $black;
+      font-weight: 200;
+      font-size: 60px;
+      line-height: 60px;
+      text-transform: uppercase;
+      letter-spacing: 10px;
+      @include mobile{
+        font-size: 20px;
+      }
+    }
+  }
+  &-wrapper{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  &-section{
+    background: $white;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 60px;
+    @include desktop{
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    @include mobile{
+      width: 100%;
+      padding-top: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-bottom: 60px;
+    }
+    @include tablet{
+      width: 100%;
+      padding-top: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-bottom: 60px;
+    }
+    h2{
+      font-weight: 300;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 15px;
+      @include desktop{
+        font-size: 40px;
+      }
+    }
+    p{
+      color: $black;
+      font-weight: 200;
+      font-size: $font-para-size;
+      line-height: 40px;
+      letter-spacing: 1px;
+      padding-botom: 40px;
+      padding-top: 40px;
+      @include desktop{
+          font-size: $font-para-size-mobile;
+      }
+      @include mobile{
+        font-size: 20px;
+      }
+    }
+    quote{
+      color: $secondary-color;
+      font-weight: 100;
+      font-size: 22px;
+      font-style: italic;
+      line-height: 40px;
+      letter-spacing: 1px;
+      @include desktop{
+          font-size: $font-para-size-mobile;
+      }
+      @include mobile{
+        font-size: 20px;
+      }
+    }
+    a{
+      color: $black;
+      text-decoration: underline;
+    }
+  }
+  &-company{
+    background: $black;
+    width: 50%;
+    padding: 70px 38px;
+    @include desktop{
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    h1{
+      color: $white;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 60px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+  }
+  &-description{
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 60px;
+    @include desktop{
+      width: 100%;
+      padding: 0 38px;
+    }
+    p{
+      color: $black;
+      font-size: 25px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+  }
+  &-bg
+  {
+    width: 100%;
+    z-index: 0;
+}
+}

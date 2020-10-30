@@ -1,0 +1,64 @@
+.site-contact{
+  padding: 100px 0 80px;
+  background: $gray;
+  @include mobile{
+    padding: 80px 0 80px;
+  }
+  &-title{
+    font-weight: 700;
+    @include tablet{
+      font-size: 40px;
+    }
+    span{
+      color: $primary-color;
+    }
+  }
+  &-form{
+    margin-top: 20px;
+    h4{
+      font-weight: 300;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+      letter-spacing: 3px;
+      @include tablet{
+        font-size: 20px;
+      }
+      @include desktop{
+        margin-bottom: 10px;
+      }
+    }
+    p{
+      color: $black;
+      font-weight: 200;
+      font-size: $font-para-size;
+      line-height: 40px;
+      letter-spacing: 1px;
+      padding-botom: 40px;
+      padding-top: 40px;
+      @include desktop{
+          font-size: $font-para-size-mobile;
+      }
+      @include mobile{
+        font-size: 20px;
+      }
+    }
+    a{
+      color: $black;
+      text-decoration: underline;
+    }
+  }
+  &-icon{
+    background: $gray;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease-in;
+    flex: 1; 
+    &.active{
+      box-shadow: 0px 30px 45px 0px rgba(0, 0, 0, 0.05);
+    }
+    &.inactive{
+      opacity: 0.4;
+    }
+  }
+}

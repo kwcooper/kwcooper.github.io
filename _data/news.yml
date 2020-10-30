@@ -1,0 +1,172 @@
+enable  : true
+title   : "Recent News"
+subtitle: "A few things I've been up to"
+testimonial_item :
+  - name  : "Paper: Smell and COVID-19"
+    date  : "201014"
+    quote : > 
+            Our new paper on modeling COVID-19 spread through smell loss was recently <a href="https://www.nature.com/articles/s41467-020-18963-y" target="_blank"> published in Nature Comms </a>
+
+  - name  : "Emailing talk"
+    date  : "200513"
+    quote : > 
+            We spend way too much time in our inbox. I gave a short seminar on best emailing practices. Find it <a href="https://www.youtube.com/watch?v=Idxxroabt9E" target="_blank"> here </a>
+            
+  - name  : "COVID-19 Preprint"
+    date  : "200412"
+    quote : > 
+            New COVID-19 preprint with some of the awesome GCCR members just released! Check it out <a href="https://osf.io/ejv8y/" target="_blank"><u>here</u></a>
+            
+  - name  : "Neuromatch Talk"
+    date  : "200330"
+    quote : > 
+            <a href="https://neuromatch.io/" target="_blank"><u>Neuromatch</u></a>  conference was a blast! Glad to have presented. Big thank you to the organizers! 
+
+  - name  : "GCCR"
+    date  : "200328"
+    quote : > 
+            I'm a member of the <a href="https://gcchemosensr.org/index.html" target="_blank"><u>Global Consortium for Chemosensory Research</u></a>, working on the loss of smell symptom of COVID-19. 
+ 
+  - name  : "CAI Talk"
+    date  : "200326"
+    quote : > 
+            Great time talking with researchers for the ContinualAI neuroscience meetup. The recording can be found <a href="https://www.youtube.com/watch?v=LPYBy4VHRuk" target="_blank"><u>here</u></a>
+            
+  - name  : "Skype-A-Neuroscientist "
+    date  : "191204"
+    quote : > 
+            Awesome time answering more student questions from IL for Skype-A-Neuroscientist 
+            
+  - name  : "SANS, and other talks"
+    date  : "191121 "
+    quote : > 
+            Grant reviews, Skype-A-Neuroscientist event all the way in the white north of AK, and my whiteboard presentation at the launch of <a href="https://brain.uci.edu/" target="_blank"><u>UCI Brain!</u></a>
+            
+  - name  : "Skype-A-Neuroscientist"
+    date  : "191025"
+    quote : > 
+             <a href="https://twitter.com/A_Witt24/status/1187787865037725696"><u>Two</u></a> <a href="https://twitter.com/aletta_sauer/status/1187513071238955013"> <u>more</u></a> awesome Skype-A-Neuroscientist events! 
+  
+  - name  : "Skype-A-Neuroscientist"
+    date  : "191017"
+    quote : > 
+            Wonderful Skype-A-Neuroscientist event today, taking questions from a California middle school! If you'd like to do one of these events, please reach out
+
+  - name  : "1.5k site visitors"
+    date  : "190915"
+    quote : > 
+            Wow, there have been 1500 visitors to this site! I don't think I know 1.5k people, but thanks for stopping by!
+            
+  - name  : "Route 66"
+    date  : "190625"
+    quote : > 
+            Taking a long road trip across the country to my new home on California's Orange Coast! 
+            
+  - name  : "Honors Thesis"
+    date  : "190504"
+    quote : > 
+            My thesis presentation on how acetylcholine and theta may modulate encoding and retrieval dynamics in the brain!
+
+  - name  : "Research Slam"
+    date  : "190401"
+    quote : > 
+            Not a April fools joke: Check out the <a href="https://iujur.iu.edu/index.html" target="_blank"><u>IU research slam and my presentation</u></a>
+            
+  - name  : "HoosierSTARS"
+    date  : "190329"
+    quote : > 
+            Hoosier stars had a wonderful time hanging out with the folks at Bloomington High
+  
+  - name  : "Gradschool Apps"
+    date  : "181215"
+    quote : > 
+            PhD applications submitted!            
+            
+  - name  : "SFN Poster"
+    date  : "181107"
+    quote : > 
+            Check out my <a href="https://www.abstractsonline.com/pp8/#!/4649/presentation/14631" target="_blank">poster</a> at SFN on the MEC Traveling wave!  
+  - name  : "GRFP"
+    date  : "181022"
+    quote : > 
+            GRFP Fellowship proposal is submitted!
+
+  - name  : "CS Indiana"
+    date  : "181006"
+    quote : > 
+             <a href="http://celebratescienceindiana.org/">Celebrate Science Indiana </a> was a blast!
+
+  - name  : "HoosierSTARS"
+    date  : "180928"
+    quote : > 
+             <a href="http://www.iu.edu/~memlab/outreach.html">Hoosier STARS </a> is visiting Crawfordsville!
+            
+  - name  : "Traveling"
+    date  : "180815"
+    quote : > 
+            Road trip to NYC, visiting friends at CMU, Princeton, and Cornell along the way!
+            
+  - name  : "MWCS Poster"
+    date  : "180420"
+    quote : > 
+            Presenting work at the <a href="http://www.indiana.edu/~pcl/mwcogsci/">Midwest Cognitive Science Conference </a> on how computers may forget semantic meaning after learning!            
+            
+  - name  : "OVPOU Pannelist"
+    date  : "180409 "
+    quote : > 
+            I'll be a panelist at OVPOU discussing the benefits of research. Come on out!
+  
+  - name  : "MUCSC18"
+    date  : "180407"
+    quote : > 
+            Come out to <a href="http://mucsc.info/"><u>MUCSC</u> </a> that I'm helping organize this Saturday!
+
+  - name  : "SFN GI"
+    date  : "180323"
+    quote : > 
+            Presenting MEC Traveling Wave poster at <a href="http://greaterindysfn.wixsite.com/mysite"><u>Greater Indiana SFN</u></a>
+            
+  - name  : "HoosierSTARS"
+    date  : "180321"
+    quote : > 
+            Science outreach with NML at Bloomington South! What a great time!
+            
+  - name  : "Carboncopies"
+    date  : "180301"
+    quote : > 
+            Joined <a href="https://www.carboncopies.org/"> <u>Carboncopies</u> </a> as a volunteer researcher!            
+            
+  - name  : "virtual brain modeling"
+    date  : "180223"
+    quote : > 
+            Panelist at  MSGC discussing virtual brain modeling
+            
+            
+            
+            
+                
+                        
+
+                
+
+        
+
+
+                
+        
+               
+
+
+
+                
+        
+
+
+
+
+                
+
+
+
+
+

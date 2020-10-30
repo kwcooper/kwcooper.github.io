@@ -1,9 +1,0 @@
-190115
-
-Some initial feelings about the R language
-
-It seems to closely resemble python
-Some differences that jump out off the bat are the use of special characters, such as -> for variable assignment, and $ for indexing. 
-
-
-

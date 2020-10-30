@@ -1,6 +1,0 @@
-init 190308
-
-#grab public ip: `curl https://ipinfo.io/ip` 
-grab internal ip: `ifconfig`
-grab network ip's: `nmap -sP 192.168.1.*` (uses nmap `sudo apt-get install nmap`)
-

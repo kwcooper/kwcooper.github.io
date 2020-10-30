@@ -1,0 +1,58 @@
+.site-bigneuron{
+  padding: 0px 0;
+  color: $white;
+  background: $secondary-color;
+  animation-name: backgroundani;
+  animation-duration: 40s;
+  animation-iteration-count: infinite;
+  -webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(247,249,255,0)));
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(247,249,255,0));
+  .section-title{
+    margin-bottom: 40px;
+  }
+  @include mobile{
+    padding: 0px 0;
+  }
+  &-neuron {
+    width: 100%;
+	height: 100%;
+    -webkit-filter: invert(1) blur(1px);
+    filter: invert(1) blur(1px);
+//    transition: all 0.3s ease-in;
+  }
+//  &-neuron:hover {
+//    cursor: crosshair;
+//    -webkit-filter: invert(1) blur(3px);
+//    filter: invert(1) blur(3px);
+//  }
+ 
+  &-item{
+    @include desktop{
+      margin-bottom: 30px;
+      text-align: center;
+    }
+    &-title{
+      font-size: 20px;
+      font-weight: 300;
+    }
+    &-number{
+      color: $white;
+      font-size: 60px;
+      margin-bottom: 0;
+      font-weight: 700;
+    }
+  }
+}
+
+@keyframes backgroundani {
+  0%   {background-color: $secondary-color;}
+  25%  {background-color: $primary-color;}
+  50%  {background-color: $tersh-color;}
+  75% {background-color: $quad-color;}
+  100% {background-color: $secondary-color;}
+}
+
+//
+//-webkit-animation:rainbow 1s infinite;
+//-ms-animation:rainbow 1s infinite;
+//-o-animation

@@ -1,83 +1,164 @@
 ---
-layout: page
-title: contact
+layout: default
+title: Contact
+permalink: '/contact'
+heading       : "Don’t be shy. Say <span>Hello.</span>"
+form_heading  : "TELL US ABOUT YOUR PROJECT"
 ---
 
-<body id="page-top">
-    
-<aside class="bg-dark" id="contact" style="
-   padding-top: 25px;
-   padding-bottom: 25px;">
-</aside>  
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7">
+        <h1 class="site-contact-title">
+          Say 
+          <span id="helloarray" class="section-heading text-uppercase text-left pt-3"></span>
+        </h1>
+      </div>
+      <div class="col-lg-5 ml-auto">
+        <div class="site-contact-form">
+        <h4> You should contact me. </h4>
+          <p>I love to hear from people and if for nothing else, the <a href="https://home.cern/science/computing/where-web-was-born#targetText=Tim%20Berners%2DLee%2C%20a%20British,and%20institutes%20around%20the%20world."> <u>internet was built for communication.</u></a> So please introduce yourself and what you're working on, or just say hi. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-<!-- Use a container to prevent the hoz scroll bug -->
-<div class="container" id="type">
-    
-<section id="contact">
-        <div class="container">
+<section class="site-contact" style="background: white;">
+  <div class="container">
+    <div class="row" style="display: flex;">
+      
+      
+      
+      <div class="col-lg-4 text-center" style="flex: 1;">
+        <div class="site-contact-icon">
+              <a href="mailto:kwcooper@uci.edu?Subject=Hello!"> <i class="fa fa-4x fa-envelope-o wow fadeIn fa-lg"> </i> </a>
+              <h3>Email</h3>
+              <p class="text-muted">Best way to reach me: kwcooper (at) uci (dot) edu </p>
+          </div>
+        </div>
+      <div class="col-lg-4  text-center">
+        <div class="site-contact-icon">
+              <img src="images/assets/smallestLogoRat_TRANS.png" href="https://fortinlab.bio.uci.edu/FortinLab/Home.html" target="_blank" width="70" height="50">
+              <h3>Fortin Lab</h3>
+              <p class="text-muted">Neuroscience of learning and memory research</p>
+          </div>
+        </div>
+      <div class="col-lg-4 text-center">
+        <div class="site-contact-icon">
+              <a href="https://www.continualai.org/" target="_blank"><i class="fa fa-4x fa-code wow fadeIn fa-lg"></i></a>
+              <h3>ContinualAI</h3>
+              <p class="text-muted">A hub for all continual learning AI research</p>
+          </div>
+        </div>
+      <div class="col-lg-4  text-center">
+        <div class="site-contact-icon">
+              <a href="https://twitter.com/kw_cooper" target="_blank"><i class="fa fa-4x fa-twitter wow fadeIn fa-lg"></i></a>
+              <h3>@kw_cooper</h3>
+              <p class="text-muted">Mostly to stay up to date and track papers...</p>
+          </div>
+        </div>
+      <div class="col-lg-4 text-center">
+        <div class="site-contact-icon">
+              <a href="https://www.linkedin.com/in/kwcooper" target="_blank"><i class="fa fa-4x fa-linkedin wow fadeIn fa-lg"></i></a>
+              <h3>LinkedIn</h3>
+              <p class="text-muted">My attempt at professional network content</p>
+          </div>
+        </div>
+      <div class="col-lg-4  text-center">
+        <div class="site-contact-icon">
+              <a href="https://github.com/kwcooper" target="_blank"><i class="fa fa-4x fa-github wow fadeIn fa-lg"></i></a>
+              <h3>@kwcooper</h3>
+              <p class="text-muted">"Hey, what are you doing on the computer?"</p>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <div class="text-center" style="opacity:0.4;">
+    <img src="images/assets/social_network_graph.png" style="max-width:100%; max-height:100%;">
+  </div>
+</div>
+
+<!-- start: contact section -->
+<!--
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ page.heading }}
+        </h1>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ page.form_heading }}</h4>
+          <form id="contact-form" action="{{ site.formspreeFormUrl }}" method="POST">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">My Networks</h2>
-                    <hr class="primary">
-                    <p> You should contact me. I love to hear from people and if for nothing else, because the <a href="https://home.cern/science/computing/where-web-was-born#targetText=Tim%20Berners%2DLee%2C%20a%20British,and%20institutes%20around%20the%20world."> <u>internet was first built for communication.</u></a> So please introduce yourself! Just say hi or let me know what you're working on. </p>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="First Name">
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Last Name">
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email">
+              </div>
+              <div class="col-lg-6">
+                <div class="select-wrapper">
+                  <select class="form-control" id="projectType" name="project-type">
+                    <option value="" selected disabled hidden>Project Type</option>
+                    <option value="gd">Graphics Design</option>
+                    <option value="wb">Web Design</option>
+                  </select>
                 </div>
+              </div>
+              <div class="col-12">
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="About the Project"></textarea>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn btn-primary" id="contact-form-button">
+                  <span class="btn-area">
+                    <span data-text="Send Message">
+                      Send Message
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <div class="col-12">
+                <p id="contact-form-status"></p>
+              </div>
             </div>
+          </form>
         </div>
-        <div class="container">
-            <div class="row">
-                
-                <div class="col-lg-3 col-md-3 col-sm-4 text-center">
-                	<div class="service-box">
-                        <!--i class="fa fa-4x fa-envelope-o wow fadeIn" data-wow-delay=".3s"></i-->
-                        <a href="mailto:kwcooper@uci.edu?Subject=Hello!"> <i class="fa fa-4x fa-envelope-o wow fadeIn fa-lg"> </i> </a>
-                        <h3>Email</h3>
-                        <p class="text-muted">kwcooper (at) uci.edu is the best way to contact me</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-4 text-center">
-                    <div class="service-box">
-                        <!--i class="fa fa-4x fa-linkedin wow bounceIn text-primary" data-wow-delay=".1s"></i-->
-                        <a href="https://www.continualai.org/" target="_blank"><i class="fa fa-4x fa-code wow fadeIn fa-lg"></i></a>
-                        <h3>continualai.org</h3>
-                        <p class="text-muted">A hub for lifelong machine learning research</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-4 text-center">
-                    <div class="service-box">
-                        <!--i class="fa fa-4x fa-linkedin wow bounceIn text-primary" data-wow-delay=".1s"></i-->
-                        <a href="https://www.linkedin.com/in/kwcooper" target="_blank"><i class="fa fa-4x fa-linkedin wow fadeIn fa-lg"></i></a>
-                        <h3>LinkedIn</h3>
-                        <p class="text-muted">My professional network and content</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-4 text-center">
-                    <div class="service-box">
-                        <!--i class="fa fa-4x fa-instagram wow bounceIn text-primary" data-wow-delay=".2s"></i-->
-                        <a href="https://github.com/kwcooper" target="_blank"><i class="fa fa-4x fa-github wow fadeIn fa-lg"></i></a>
-                        <h3>GitHub</h3>
-                        <p class="text-muted">"What are you doing on the computer?"</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-4 text-center">
-                    <div class="service-box">
-                        <!--i class="fa fa-4x fa-twitter wow bounceIn text-primary" data-wow-delay=".3s"></i-->
-                        <a href="https://twitter.com/kw_cooper" target="_blank"><i class="fa fa-4x fa-twitter wow fadeIn fa-lg"></i></a>
-                        <h3>Twitter</h3>
-                        <p class="text-muted">Mostly to track papers</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </section>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+<!-- end: contact section -->
 
-
- <aside class="bg-light">
-        <div class="container text-center">
-            <div class="call-to-action">
-            </div>
-        </div>
-    </aside>
-
-    
-
-
+<!-- Move to JS file -->
+<script>
+  var textArray = "Hello!;こんにちは;hallo!;你好;hei;السلام علیکم;Hello!;سلام;bonjour;¡Hola!;নমস্কার;ciao;xαίρε;Hello!;नमस्कार;Aloha;שלום;नमस्ते;bawo ni".split(";");
+  var index = 1;
+  document.getElementById('helloarray').innerHTML = textArray[0];
+  setInterval(function(){        
+    $("#helloarray").animate({
+      opacity:0
+    }, function() {
+      if (textArray.length > index) {
+        $(this).text(textArray[index]).animate({opacity:1});
+        index++; 
+      }
+      else {
+        $(this).text(textArray[0]).animate({opacity:1});
+        index = 1;
+      }
+    });
+  }, 1800);
+</script>

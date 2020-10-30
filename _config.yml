@@ -1,12 +1,106 @@
-# Site settings
-title: "Keiland Cooper"
-email: "kwcooper@uci.edu"
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+# Hello World!
 
-twitter_username: "@kwc_tweets"
-github_username: "kwcooper"
+title: Keiland Cooper
+email: 
+description: "The hub of Keiland's online network"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kw_cooper
+github_username:  kwcooper
+formspreeFormUrl: "https://formspree.io/myykjpje"
 
 # Build settings
-markdown: kramdown
+gems:
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 2
+  permalink: '/blog/:num/'
+  sort_field: 'date'
+  sort_reverse: true
+
+sass:
+  sass_dir: _scss/
+  style: compressed
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications
+  - title: Now
+    url: /now
+#  - title: Notes
+#    url: /notes
+  - title: Networks
+    url: /contact
+    tag: 
+
+# Call to action
+call-to-action:
+  enable                : true
+  background_image      : "images/backgrounds/cta-background.jpg"
+  title                 : "..."
+  primary_button        : "Submit Query"
+  primary_button_url    : "/contact"
+  secondary_button      : "Not Convinced"
+  secondary_button_url  : "/portfolio"
+
+# Footer
+footer:
+  contactInfo:
+    title   : "Contact Info"
+    address : "UCI"
+    phone   : "867-5309"
+    email   : "info@roxo.co"
+  sitemap:
+    title: "Sitemap"
+    link: 
+      - name  : "About Company"
+        url   : "/about"
+      - name  : "Projects"
+        url   : "/portfolio"
+      - name  : "Blog"
+        url   : "/blog"
+      - name  : "Contact"
+        url   : "/contact"
+  social:
+    title: "Social Media"
+    link: 
+      - name  : "Medium"
+        url   : "#"
+      - name  : "Behance"
+        url   : "#"
+      - name  : "Dribbble"
+        url   : "#"
+      - name  : "Instagram"
+        url   : "#"
+  service:
+    title: "We help brands:"
+    description: "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

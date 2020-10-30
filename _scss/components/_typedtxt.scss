@@ -1,0 +1,47 @@
+.var-highlight{
+    color: #7dd0b6;
+}
+.string-highlight{
+    color: $primary-color;
+}
+
+.inbuilt-highlight{
+    color: #E38690;
+}
+
+.fcn-highlight{
+    color: #3B9AB2;
+}
+
+#typewriter{
+  font-size: 3.1vw;
+  margin: 0;
+  font-family: "Courier New";
+  color: $black;
+  @include mobile{
+    font-size: 3vw;
+  }
+  @include tablet{
+    font-size: 3.5vw;
+  }
+  &:after{
+      content: "|";
+      animation: blink 500ms linear infinite alternate;
+  }
+
+ }
+
+@-webkit-keyframes blink{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+
+@-moz-keyframes blink{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+
+@keyframes blink{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
