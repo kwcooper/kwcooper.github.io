@@ -1,10 +1,10 @@
 # Hello World!
 
-title: Keiland Cooper
+title: Keiland W. Cooper
 email: 
 description: "The hub of Keiland's online network"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kwcooper.xyz"
 twitter_username: kw_cooper
 github_username:  kwcooper
 formspreeFormUrl: "https://formspree.io/myykjpje"
