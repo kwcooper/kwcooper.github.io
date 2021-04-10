@@ -18,6 +18,11 @@
           margin-bottom: 20px;
           margin-top: 10px;
         }
+        @include tablet{
+          width: 60%;
+          margin-bottom: 20px;
+          margin-top: 10px;
+        }
       }
     }
   }
