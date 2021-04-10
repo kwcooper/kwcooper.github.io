@@ -1,7 +1,7 @@
 enable  : true
 title   : publications
 pubs  :
-   - title       : "Avalanche: an End-to-End Library for Continual Learning"
+  - title       : "Avalanche: an End-to-End Library for Continual Learning"
     image       : "images/pub_img/2021-Lomonaco.png"
     name        : PABLO ESCOBAR
     summary     : "Continual learning is an attempt to create more humanlike artificial intelligence, by providing it the tools to learn without forgetting over its lifetime, and adapt to a constantly changing environment. Recently, we have witnessed a renewed and fast-growing interest in research to attempt to solve this problem, particularly with deep neural networks.  However, these algorithms are difficult to build, and sometimes struggle with reproducibility. To aid this problem, we propose Avalanche, an open-source end-to-end library for continual learning research, designed to provide a shared and collaborative environment for fast prototyping, training, and reproducible evaluation of continual learning algorithms."
@@ -15,7 +15,7 @@ pubs  :
     ref         : "Lomonaco, V., Pellegrini, L., Cossu, A., Carta, A., Graffieti, G., Hayes, T. L., Cooper, K. W., ... & Maltoni, D. (2021). Avalanche: an End-to-End Library for Continual Learning. arXiv preprint arXiv:2104.00405."
     dataLink    : "http://avalanche.continualai.org/"
     
-   - title       : "Recent Smell Loss Is the Best Predictor of COVID-19 Among Individuals With Recent Respiratory Symptoms"
+  - title       : "Recent Smell Loss Is the Best Predictor of COVID-19 Among Individuals With Recent Respiratory Symptoms"
     image       : "images/pub_img/2020-Gerkin.png"
     name        : PABLO ESCOBAR
     summary     : "The global presence of COVID-19’s strongest neurological symptom, loss of smell, we sought out to further understand if this sensory dysfunction could aid predicting a positive diagnosis. Using crowd-sourced global participant self reports of their olfactory deficits and computational modeling, we found that indeed smell loss is a strong predictor of a COVID-19 diagnosis. We found that 50% of our participants recovered within 40 days of respiratory symptom onset, and that rating smell loss on a 1-10 scale provided necessary granularity for stronger predictions. Based on these findings, and to aid clinicians and contact tracers in identifying individuals with a high likelihood of having COVID-19, we developed a novel tool to screen for olfactory loss, ODoR-19."
