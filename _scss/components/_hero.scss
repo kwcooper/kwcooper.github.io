@@ -1,35 +1,124 @@
 .site-hero{
-  position: relative;
-  height: 90vh;
+//  position: relative;
+  height: 70vh;
   background-size: cover;
   background-position: center center;
+  display: flex;
+//  display: inline-block;
+//  align-items: center;
+  justify-content: center;
+  @include desktop{
+    height: auto;
+    align-items: center;
+
+    //padding: 150px 0;
+//    padding: 0px 0;
+    height: 70vh;
+  }
+  @include mobile{
+    padding: 0px 0;
+    align-items: center;
+
+    height: 60vh;
+  }
+  @include tablet{
+    padding: 0px 0;
+    align-items: center;
+    height: 60vh;
+  }
+
+//  @include media{
+//    padding: 0px 0;
+//    align-items: center;
+//    height: 70vh;
+//  }
+  &-typingintro {
+    padding-top: relative;
+    align-items: center;
+    line-height: 1.1;
+//    position: center;
+    @include mobile{
+//      padding-top: 0%;
+        padding-top: relative;
+    }
+    @include tablet{
+//      padding-top: 10%;
+        padding-top: relative;
+    }
+  }
+  &-content{
+    h1{
+      margin-bottom: 75px;
+      @include desktop-lg{
+        font-size: 50px;
+        margin-bottom: 50px;
+      }
+      @include mobile{
+        font-size: 45px;
+      }
+      @include tablet{
+        font-size: 45px;
+      }
+    }
+    &-buttons{
+      margin: 0;
+      padding: 0;
+      li{
+        display: inline-block;
+        @include mobile{
+          display: block;
+        }
+        &:not(:last-child){
+          margin-right: 30px;
+          @include mobile{
+            margin-right: 0;
+            margin-bottom: 20px;
+          }
+        }
+        .btn{
+          font-weight: 600;
+          @include mobile{
+            width: 90%;
+            margin: 0 auto;
+            display: block;
+          }
+        }
+      }
+    }
+  }
+  &-scroll{
+    position: absolute;
+    left: 50%; bottom: 50px;
+    transform: translateX(-50%);
+  }
+}
+
+.site-bottom-arrow{
+  position: relative;
+  height: 10vh;
+//  background-size: cover;
+//  background-position: center center;
   display: flex;
 //  align-items: center;
   justify-content: center;
   @include desktop{
     //     height: auto;
-    padding: 200px 0;
+    padding: 10px 0;
   }
   @include mobile{
     padding: 0px 0;
-    height: 90vh;
+    height: 10vh;
   }
   @include tablet{
     padding: 0px 0;
     align-items: center;
-    height: 90vh;
+    height: 10vh;
   }
-  &-typingintro {
-    padding-top: 15%;
-    align-items: center;
-//    position: center;
-    @include mobile{
-      padding-top: 0%;
-    }
-    @include tablet{
-      padding-top: 10%;
-    }
-  }
+//  @include media{
+//    padding: 0px 0;
+//    align-items: center;
+//    height: 10vh;
+//  }
   &-content{
     h1{
       margin-bottom: 75px;
