@@ -1,6 +1,20 @@
 enable  : true
 title   : publications
 pubs  :
+   - title       : "Avalanche: an End-to-End Library for Continual Learning"
+    image       : "images/pub_img/2021-Lomonaco.png"
+    name        : PABLO ESCOBAR
+    summary     : "Continual learning is an attempt to create more humanlike artificial intelligence, by providing it the tools to learn without forgetting over its lifetime, and adapt to a constantly changing environment. Recently, we have witnessed a renewed and fast-growing interest in research to attempt to solve this problem, particularly with deep neural networks.  However, these algorithms are difficult to build, and sometimes struggle with reproducibility. To aid this problem, we propose Avalanche, an open-source end-to-end library for continual learning research, designed to provide a shared and collaborative environment for fast prototyping, training, and reproducible evaluation of continual learning algorithms."
+    abstract    : "Learning continually from non-stationary data streams is a long-standing goal and a challenging problem in machine learning. Recently, we have witnessed a renewed and fast-growing interest in continual learning, especially within the deep learning community. However, algorithmic solutions are often difficult to re-implement, evaluate and port across different settings, where even results on standard benchmarks are hard to reproduce. In this work, we propose Avalanche, an open-source end-to-end library for continual learning research based on PyTorch. Avalanche is designed to provide a shared and collaborative codebase for fast prototyping, training, and reproducible evaluation of continual learning algorithms."
+    date        : "2021-04-01" 
+    nick        : "108"
+    doi         : "https://arxiv.org/abs/2104.00405"
+    metrics     : False
+    metric      : "alt" 
+    metricLink  : " "
+    ref         : "Lomonaco, V., Pellegrini, L., Cossu, A., Carta, A., Graffieti, G., Hayes, T. L., Cooper, K. W., ... & Maltoni, D. (2021). Avalanche: an End-to-End Library for Continual Learning. arXiv preprint arXiv:2104.00405."
+    dataLink    : "http://avalanche.continualai.org/"
+    
    - title       : "Recent Smell Loss Is the Best Predictor of COVID-19 Among Individuals With Recent Respiratory Symptoms"
     image       : "images/pub_img/2020-Gerkin.png"
     name        : PABLO ESCOBAR
@@ -12,7 +26,7 @@ pubs  :
     metrics     : True
     metric      : "alt" 
     metricLink  : "doi.org/10.1093/chemse/bjaa081"
-    ref         : "Gerkin, R. C., Ohla, K., Veldhuizen, M. G., Joseph, P. V., Kelly, C. E., Bakke, A. J., ... & Parma, V. (2020). Recent smell loss is the best predictor of COVID-19 among individuals with recent respiratory symptoms. Chemical Senses."
+    ref         : "Gerkin, R. C., Ohla, K., Veldhuizen, M. G., Joseph, P. V., Kelly, C. E., Bakke, A. J., Cooper, K. W., ... & Parma, V. (2020). Recent smell loss is the best predictor of COVID-19 among individuals with recent respiratory symptoms. Chemical Senses."
     dataLink    : "http://github.com/GCCR/GCCR002"
     
   - title       : "Smell and taste changes are early indicators of the COVID-19 pandemic and political decision effectiveness"
