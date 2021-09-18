@@ -1,7 +1,25 @@
 enable  : true
 title   : "Recent News"
-subtitle: "A few things I've been up to"
+subtitle: "A few things I've been up to, probably out of date"
 testimonial_item :
+  
+
+             
+  - name  : "Continual Learning + Neuromatch"
+    date  : "210820"
+    quote : >
+             We are partnering with Neuromatch to bring Continual Learning lectures and intro code to the masses. Find out more <a href="https://github.com/NeuromatchAcademy/course-content-dl" target="_blank"> here! </a 
+  
+  - name  : "Paper: Avalanche: A Continual Learning Platform"
+    date  : "210619"
+    quote : >
+            Our new paper detailing <a href="https://avalanche.continualai.org/" target="_blank"> Avalanche </a was recently accepted to CVPR!  
+            
+  - name  : "NSF Fellowship"
+    date  : "210510"
+    quote : >
+             I'm quite honored to have been granted an NSF research fellowship this past cycle. 
+             
   - name  : "Paper: Smell and COVID-19"
     date  : "201014"
     quote : > 
@@ -140,6 +158,12 @@ testimonial_item :
     date  : "180223"
     quote : > 
             Panelist at  MSGC discussing virtual brain modeling
+            
+            
+#  - name  : " "
+#    date  : ""
+#    quote : >
+#             <a href=" " target="_blank">  </a 
             
             
             
