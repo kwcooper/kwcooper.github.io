@@ -2,7 +2,7 @@
 
 title: Keiland W. Cooper
 email: 
-description: "The hub of Keiland's online network"
+description: "The hub node of Keiland's online network"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: 
 twitter_username: kw_cooper
@@ -42,7 +42,7 @@ navigation:
     url: /contact
     tag: 
 
-# Call to action
+# Call to action (not used)
 call-to-action:
   enable                : true
   background_image      : "images/backgrounds/cta-background.jpg"
@@ -52,13 +52,13 @@ call-to-action:
   secondary_button      : "Not Convinced"
   secondary_button_url  : "/portfolio"
 
-# Footer
+# Footer (Mostly replaced)
 footer:
   contactInfo:
     title   : "Contact Info"
     address : "UCI"
     phone   : "867-5309"
-    email   : "info@roxo.co"
+    email   : " "
   sitemap:
     title: "Sitemap"
     link: 
