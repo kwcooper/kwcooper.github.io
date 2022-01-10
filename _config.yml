@@ -36,8 +36,8 @@ navigation:
     url: /publications
   - title: Now
     url: /now
-#  - title: Notes
-#    url: /notes
+  - title: Notes
+    url: /notes
   - title: Networks
     url: /contact
     tag: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 10 Biggest Rebrands and Logo Designs of 2019"
+title: "So you want to be a neuroscientist?"
 date: 2020-03-14 21:11:27
 type: blog
 image: images/blog/blog-post-01.jpg
