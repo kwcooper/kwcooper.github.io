@@ -38,7 +38,7 @@ If you're a bot, then well, contact me and I'll give you a Turing test or two.
 
   
   <meta charset="utf-8" />
-  <title>Notes</title>
+  <title>Keiland W. Cooper</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -48,7 +48,7 @@ If you're a bot, then well, contact me and I'll give you a Turing test or two.
   <!-- other meta -->
   <meta name="description" content="The website of Keiland W. Cooper">
   <meta name="author" content="Keiland W. Cooper">
-  <meta property="og:title" content="Keiland Cooper | Notes" />
+  <meta property="og:title" content="Keiland Cooper | " />
   <meta property="og:description" content="The central node of my online and offline world." />
   <meta property="og:image" content="/images/assets/hippocampus_histology.jpg" />
 
@@ -144,44 +144,78 @@ If you're a bot, then well, contact me and I'll give you a Turing test or two.
           -->
 
     <main>
-      <!-- start: blog header -->
-<section class="site-blog-header">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8 text-center">
-        <h1>Notes</h1>
-        <p>
-          
-        </p>
-      </div>
-    </div>
+      <style type="text/css" media="screen">
+  h1 {
+    margin: 100px 0 30px;
+    font-size: 3em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+  h2 {
+    margin: 100px 0px 100px 0px;
+    font-size: 12vw;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+
+<div class="site-about-header text-center" style="padding: 100px 200px 100px 200px;">
+  <h1>Global Alzheimer's disease patients</h1>
+<!--  <p><strong> :( </strong></p>-->
+  <h2> <span id="alzpop" style="font-weight: bold"> </span> </h2>
+  
+  <p> One new paitent will be diagnosed roughly every ~16 seconds </p>
+</div>
+
+<div class="container text-center">
+  <a class="" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    More information
+  </a>
+<div class="collapse" id="collapseExample">
+  <div class="card-body text-left">
+    <p>This figure is an underestimate. </p>
+    
+    <p>It is likely impossible to know the true burden that Alzheimer's carries on the world, but this is one estimation. </p>
+    
+    <p> 1 in 3 seniors will die from Alzheimers or another dementia. It kills more than breast cancer and prostate cancer combined </p>
+    
+    <p> And it's not just them. </p>
+    
+    <p>In America alone, more than 11 Million unpaid caregivers, usually our loved ones, will provide over 12.3 billion hours of unpaid care. This would be valued at $257 billion dollars.</p>
+    
+    <p></p>
+    
+    <p>There is currently no cure. But together, we will find one.</p>
+    
+    <p>For more information, visit the <a href="https://www.alz.org/alzheimers-dementia/facts-figures", target="_blank">Alzheimer's association</a></p>
+    
+    <p> I built this counter based on the 2050 estimates of global AD rates, from the alzheimers association and <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.176.168&rep=rep1&type=pdf" target="_blank">this paper </a></p>
+    
+    <p> my linear estimate of the non-linear 2050 model approximates global AD rates by: </p>
+    
+    <p><i>percent_AD = (1.5E-12 * global_population)-0.0048</i></p>
+    
+    <p> If you have a suggestion on how to improve it, please let me know! </p>
+    
+    
   </div>
-</section>
-<!-- end: blog header -->
+</div>
 
-<!-- start: blog section -->
-<section class="site-blog">
-  <div class="container">
-    <div class="row"><div class="col-lg-6">
-        <article class="site-blog-post">
-          <div class="site-blog-post-thumb">
-            <img src="http://localhost:4000/images/blog/blog-post-03.jpg" alt="post-thumb">
-          </div>
-          <div class="site-blog-post-content">
-            <span>3 January 2022</span>
-            <h3><a href="http://localhost:4000/GRFP-advice/">Some advice about grants like the NSF GRFP</a></h3>
-            <p>
-              I was lucky enough to win the NSF GRFP award. I found online resources to be tremendously helpful. One day...
-            </p>
-            <a href="http://localhost:4000/GRFP-advice/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div></div>
-  </div>
-</section>
-<!-- end: blog section -->
+</div>
+
+<div class="section text-center">
+  <br>
+  ...
+</div>
+
+<!--Load the AD counter-->
+<script src="http://localhost:4000/js/AlzPop.js"></script>
 
 
+
+<!--Load the population counter 3 886 009-->
+<!--<script src="http://localhost:4000/js/worldPop.js"></script>-->
     </main>
     <footer class="site-footer">
   <div class="container">

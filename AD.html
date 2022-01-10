@@ -1,0 +1,77 @@
+---
+permalink: /AD.html
+layout: default
+---
+
+<style type="text/css" media="screen">
+  h1 {
+    margin: 100px 0 30px;
+    font-size: 3em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+  h2 {
+    margin: 100px 0px 100px 0px;
+    font-size: 12vw;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+
+<div class="site-about-header text-center" style="padding: 100px 200px 100px 200px;">
+  <h1>Global Alzheimer's disease patients</h1>
+<!--  <p><strong> :( </strong></p>-->
+  <h2> <span id="alzpop" style="font-weight: bold"> </span> </h2>
+  
+  <p> One new paitent will be diagnosed roughly every ~16 seconds </p>
+</div>
+
+<div class="container text-center">
+  <a class="" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    More information
+  </a>
+<div class="collapse" id="collapseExample">
+  <div class="card-body text-left">
+    <p>This figure is an underestimate. </p>
+    
+    <p>It is likely impossible to know the true burden that Alzheimer's carries on the world, but this is one estimation. </p>
+    
+    <p> 1 in 3 seniors will die from Alzheimers or another dementia. It kills more than breast cancer and prostate cancer combined </p>
+    
+    <p> And it's not just them. </p>
+    
+    <p>In America alone, more than 11 Million unpaid caregivers, usually our loved ones, will provide over 12.3 billion hours of unpaid care. This would be valued at $257 billion dollars.</p>
+    
+    <p></p>
+    
+    <p>There is currently no cure. But together, we will find one.</p>
+    
+    <p>For more information, visit the <a href="https://www.alz.org/alzheimers-dementia/facts-figures", target="_blank">Alzheimer's association</a></p>
+    
+    <p> I built this counter based on the 2050 estimates of global AD rates, from the alzheimers association and <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.176.168&rep=rep1&type=pdf" target="_blank">this paper </a></p>
+    
+    <p> my linear estimate of the non-linear 2050 model approximates global AD rates by: </p>
+    
+    <p><i>percent_AD = (1.5E-12 * global_population)-0.0048</i></p>
+    
+    <p> If you have a suggestion on how to improve it, please let me know! </p>
+    
+    
+  </div>
+</div>
+
+</div>
+
+<div class="section text-center">
+  <br>
+  ...
+</div>
+
+<!--Load the AD counter-->
+<script src="{{ '/js/AlzPop.js' | absolute_url }}"></script>
+
+
+
+<!--Load the population counter 3 886 009-->
+<!--<script src="{{ '/js/worldPop.js' | absolute_url }}"></script>-->

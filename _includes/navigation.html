@@ -20,9 +20,16 @@
       <ul class="navbar-nav ml-auto main-nav">
         {% assign nav_list = site.navigation %}
         {% for node in nav_list %}
+        {% if node.tag == "home" %}
+            <li class="nav-item">
+              
+              <a class="nav-link" href="{{ node.url }}"><i class="fa fa-home" style="color:grey"></i></a>
+            </li>
+        {% else %}
             <li class="nav-item">
               <a class="nav-link" href="{{ node.url }}">{{ node.title }}</a>
             </li>
+        {% endif %}
         {% endfor %}
         {% assign nav_list = nill %}
       </ul>

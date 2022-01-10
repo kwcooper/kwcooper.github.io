@@ -32,6 +32,7 @@ webrick:
 navigation:
   - title: Home
     url: /
+    tag: home
   - title: Publications
     url: /publications
   - title: Now
