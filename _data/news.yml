@@ -3,7 +3,16 @@ title   : "Recent News"
 subtitle: "A few things I've been up to, probably out of date"
 testimonial_item :
   
-
+  
+  - name  : "Alzheimer's Clock"
+    date  : "220109"
+    quote : >
+             A counter of the global Alzheimer's incidence <a href="/AD/" target="_blank"> here! </a 
+  
+  - name  : "New post on GRFP advice"
+    date  : "220108"
+    quote : >
+             A new post on tips, resources, and advice on grants and the GRFP <a href="/GRFP-advice/" target="_blank"> here! </a 
              
   - name  : "Continual Learning + Neuromatch"
     date  : "210820"
