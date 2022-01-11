@@ -7,7 +7,7 @@ testimonial_item :
   - name  : "Alzheimer's Clock"
     date  : "220109"
     quote : >
-             A counter of the global Alzheimer's incidence <a href="/AD/" target="_blank"> here! </a 
+             A counter of the global Alzheimer's incidence <a href="/AD" target="_blank"> here! </a 
   
   - name  : "New post on GRFP advice"
     date  : "220108"
