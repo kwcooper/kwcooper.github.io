@@ -1,13 +1,17 @@
 enable  : true
 title   : "Recent News"
-subtitle: "A few things I've been up to, probably out of date"
+subtitle: "A few things I've been up to, probably perpetually a little bit out of date"
 testimonial_item :
   
+  - name  : "Paper: Hippocampal non-spatial sequences"
+    date  : "220208"
+    quote : >
+             Our collaborative <a href="/publications" target="_blank"> paper</a> exploring hippocampal sequence representation was recently published in Nature Communications!
   
   - name  : "Alzheimer's Clock"
     date  : "220109"
     quote : >
-             A counter of the global Alzheimer's incidence <a href="/AD" target="_blank"> here! </a 
+             A counter of the global Alzheimer's incidence <a href="/AD" target="_blank"> here! </a> 
   
   - name  : "New post on GRFP advice"
     date  : "220108"

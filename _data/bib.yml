@@ -1,6 +1,20 @@
 enable  : true
 title   : publications
 pubs  :
+  - title       : "Hippocampal ensembles represent sequential relationships among an extended sequence of nonspatial events"
+    image       : "images/pub_img/2022-Shahbaba.png"
+    name        : PABLO ESCOBAR
+    summary     : "The hippocampus is a brain region important for us to learn and remember a series of events, like the events in your day, or a story. To understand how the brain does that, scientists recorded the activity of the hippocampus as rats remembered a sequence of odors separated in time by several seconds. Then, they developed a mathematical method using machine learning to analyze the activity. The scientists discovered that the hippocampus is important for remembering the order of a sequence. Also, they found that theta oscillations help organize the sequence in the hippocampus. All together, the findings show that an important function of the hippocampal network is to learn and predict sequences of expirience. (This summary was written by artificial intelligence)"
+    abstract    : "The hippocampus is critical to the temporal organization of our experiences. Although this fundamental capacity is conserved across modalities and species, its underlying neuronal mechanisms remain unclear. Here we recorded hippocampal activity as rats remembered an extended sequence of nonspatial events unfolding over several seconds, as in daily life episodes in humans. We then developed statistical machine learning methods to analyze the ensemble activity and discovered forms of sequential organization and coding important for order memory judgments. Specifically, we found that hippocampal ensembles provide significant temporal coding throughout nonspatial event sequences, differentiate distinct types of task-critical information sequentially within events, and exhibit theta-associated reactivation of the sequential relationships among events. We also demonstrate that nonspatial event representations are sequentially organized within individual theta cycles and precess across successive cycles. These findings suggest a fundamental function of the hippocampal network is to encode, preserve, and predict the sequential order of experiences."
+    date        : "2021-02-08" 
+    nick        : "109"
+    doi         : "https://doi.org/10.1038/s41467-022-28057-6"
+    metrics     : True
+    metric      : "alt" 
+    metricLink  : "10.1038/s41467-022-28057-6"
+    ref         : "Shahbaba B., Li L., Agostinelli F., Saraf M., Cooper KW., Haghverdian D., Elias GA., Baldi P., Fortin NJ. (2022). Hippocampal ensembles represent sequential relationships among an extended sequence of nonspatial events. Nature Communications 13, 787"
+    dataLink    : "https://doi.org/10.7280/D14X30"
+    
   - title       : "Avalanche: an End-to-End Library for Continual Learning"
     image       : "images/pub_img/2021-Lomonaco.png"
     name        : PABLO ESCOBAR
@@ -106,3 +120,10 @@ pubs  :
     doi         : "https://doi.org/10.14434/iujur.v4i1.24547"
     metrics     : False
     ref         : "Cooper, K. W. (2018). Can the Machine Understand: An Evidence Based Approach to the Chinese Room. IU Journal of Undergraduate Research, 4(1), 82–85. https://doi.org/10.14434/iujur.v4i1.24547"
+
+
+
+
+
+
+

@@ -83,7 +83,7 @@ permalink: '/publications'
                 <div class="card-body">
                     <div class="tab-content" id="myTabContent">
                         <div class="tab-pane fade show active site-pub-info" id="{{ pub.nick }}summary" role="tabpanel" aria-labelledby="{{ pub.nick }}summary-tab">
-                            <h5>{{ pub.title }}</h5>
+                          <h5><a href="{{ pub.doi }}" target="_blank" style="color:#e38690">{{ pub.title }}</a></h5>
                             {{ pub.summary }}
                         </div>
                       
