@@ -26,7 +26,7 @@ pubs  :
     metrics     : False
     metric      : "alt" 
     metricLink  : " "
-    ref         : "Lomonaco, V., Pellegrini, L., Cossu, A., Carta, A., Graffieti, G., Hayes, T. L., Cooper, K. W., ... & Maltoni, D. (2021). Avalanche: an End-to-End Library for Continual Learning. arXiv preprint arXiv:2104.00405."
+    ref         : "Lomonaco, V., Pellegrini, L., Cossu, A., Carta, A., Graffieti, G., Hayes, T. L., Cooper, K. W., ... & Maltoni, D. (2021). Avalanche: an End-to-End Library for Continual Learning. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 3600-3610."
     dataLink    : "http://avalanche.continualai.org/"
     
   - title       : "Recent Smell Loss Is the Best Predictor of COVID-19 Among Individuals With Recent Respiratory Symptoms"

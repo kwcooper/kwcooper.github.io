@@ -33,8 +33,6 @@ navigation:
   - title: Home
     url: /
     tag: home
-  - title: Publications
-    url: /publications
   - title: Now
     url: /now
   - title: Notes
@@ -42,6 +40,8 @@ navigation:
   - title: Networks
     url: /contact
     tag: 
+  - title: Publications
+    url: /publications
 
 # Call to action (not used)
 call-to-action:
