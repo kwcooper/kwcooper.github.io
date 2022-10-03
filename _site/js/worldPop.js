@@ -26,7 +26,7 @@ if (pv==1) {document.getElementById("worldpop").innerHTML=numberstring }
 function now(year,month,date,hours,minutes,seconds){       
 startdatum = new Date(year,month,date,hours,minutes,seconds)
 var now = 5600000000.0
-var now2 = 5690000000.0
+var now2 = 5689000000.0
 var groeipercentage = (now2 - now) / now *100
 var groeiperseconde = (now * (groeipercentage/100))/365.0/24.0/60.0/60.0 
 nu = new Date ()                
