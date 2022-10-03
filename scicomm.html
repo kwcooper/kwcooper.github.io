@@ -1,0 +1,165 @@
+---
+layout: default
+title: Science Communication
+description: <span>Knowledge</span> not shared is <span>wasted</span>
+permalink: '/scicomm'
+---
+
+<!-- See video / audio class in _common.scss -->
+
+<!-- start: project header -->
+<section class="site-project-header">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8">
+        <div class="site-project-header-content">
+          <h1>
+            {{ page.description }}
+          </h1>
+          
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <a href="#project" class="site-project-header-action scroll-to">
+<!--          <span> My work</span>-->
+<!--          <img src="{{ 'images/arrow-down.svg' | absolute_url }}" alt="arrow-down">-->
+          <i class="fa fa-3x fa-angle-down"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end: project header -->
+
+<br>
+<br>
+{%- if site.data.clients.enable -%}
+{%- assign clients = site.data.clients -%}
+<!-- start: clients section -->
+<section class="site-client">
+  <div class="container">
+    <div class="row">
+        <div class="section-title">
+          <h2>{{ clients.title }}</h2>
+        </div>
+      <div class="col-12">
+
+        <div class="site-client-wrapper">
+          {%- for logo in clients.client_logos -%}
+            <div class="site-client-item">
+              <a href="{{ logo.url }}" target="_blank">
+                 <img src="{{ logo.logo | absolute_url }}" alt="client-logo"></a>
+            </div>
+          {%- endfor -%}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end: clients section -->
+{%- assign clients = nill -%}
+{%- endif -%}
+
+<br>
+<br>
+<!-- start: video section -->
+<section class="project" id="visual">
+  <div class="container">
+    <div class="row">
+         <div class="section-title">
+          <br>
+          <h2>Visual</h2>
+        </div>
+    
+    <div class="container">
+      <h4>Artificial Intelligence: The Good, The Bad, and The Ugly | Technically Divided</h4>
+      <div class="video-container">
+      <iframe class="video" src="https://www.youtube.com/embed/VPkV_Dtl0-s?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      
+      <br>
+      <br>
+      <h4>AI, Neuroscience and Continual Learning | Dapper Data</h4>
+      <div class="video-container">
+      <iframe class="video" src="https://www.youtube.com/embed/d_Ehc2Ocb7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      
+      <br>
+      <br>
+      <h4>AI in Neuroscience: Drawing Inspiration From the Brain | Your AI Injection</h4>
+      <div class="video-container">
+      <iframe class="video" src="https://www.youtube.com/embed/haFRKOmgOeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      
+      <br>
+      <br>
+      <h4>AI &amp; Neuroscience | Voluntary Input</h4>
+      <div class="video-container">
+      <iframe class="video" src="https://www.youtube.com/embed/H5XMrhFjHoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end: video section -->
+
+
+<!-- start: Audio section -->
+<section class="project" id="audio">
+  <div class="container">
+    <div class="row">
+         <div class="section-title">
+           <br>
+           <br>
+           <br>
+          <h2>Audio</h2>
+        </div>
+    
+    <div class="container">
+
+      <h4>Can Machines Think? | <a href="https://anchor.fm/the-high-low-podcast/episodes/Can-Machines-Think-e1me4nl" target="_blank">The High Low Podcast</a></h4>
+      <div class="audio-container">
+      <iframe class="video" src="https://anchor.fm/the-high-low-podcast/embed/episodes/Can-Machines-Think-e1me4nl/a-a8cgjeq" frameborder="0" scrolling="no"></iframe>
+      </div>
+      
+      <br>
+      <br>
+      <h4>An Interview with Some of the Authors | <a href="https://www.thesmellpodcast.com/episodes/2020/6/23/episode-64-an-interview-with-some-of-the-authors-of-coronaviruses-and-the-chemical-senses-past-present-and-future" target="_blank">The Smell Podcast</a></h4>
+      <div class="audio-container">
+      <iframe class="video" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/episode-64-an-interview-with-some-of/id1429270582?i=1000477261620"></iframe>
+      </div>
+      
+      <br>
+      <br>
+      <h4>AI | <a href="https://jbouchard.podbean.com/e/keiland-cooper-ai/" target="_blank">From Nowhere to Nothing Podcast</a></h4>
+      <div class="audio-container">
+      <iframe class="video" title="Keiland Cooper: AI" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=u5a5t-11cb1b6-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=4&size=300" allowfullscreen=""></iframe>
+      </div>
+      
+      <br>
+      <br>
+      <h4>bridge between two worlds | <a href="https://anchor.fm/beautifulbastards/episodes/77-bridge-between-two-worlds---keiland-Cooper-e1hkas7" target="_blank">Beautiful Bastards Podcast</a></h4>
+      <div class="audio-container">
+      <iframe class="video" src="https://anchor.fm/beautifulbastards/embed/episodes/77-bridge-between-two-worlds---keiland-Cooper-e1hkas7/a-a7qbmu0" frameborder="0" scrolling="no"></iframe>
+      </div>
+      
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end: video section -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "New video content!",
+  "image": [
+    "http:s//kwcooper.xyz/images/pub_img/2021-Lomonaco.png"
+   ],
+  "datePublished": "2022-10-03T08:00:00+08:00",
+  "dateModified": "2022-10-03T09:20:00+08:00"
+}
+</script>
+

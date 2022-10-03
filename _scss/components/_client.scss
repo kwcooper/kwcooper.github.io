@@ -1,24 +1,54 @@
 .site-client{
-  padding: 100px 0 50px;
+//  100px 0 50px
+  padding: 5px;  
   .section-title{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
   &-wrapper{
     display: flex;
     flex-wrap: wrap;
+//    border-collapse: collapse;
+    width: 100%;
     @include desktop{
       justify-content: center;
     }
   }
   &-item{
-    text-align: center;
-    width: 20%;
-    margin-bottom: 50px;
+
+    width: 100%;
+    flex: 1;
+    padding: 5px;
     @include desktop{
-      width: 33.33%;
+      width: 100%;
     }
     @include mobile{
-      width: 50%;
+      width: 100%;
     }
   }
 }
+
+//.site-client{
+////  100px 0 50px
+//  padding: 5px;  
+//  .section-title{
+//    margin-bottom: 100px;
+//  }
+//  &-wrapper{
+//    display: flex;
+//    flex-wrap: wrap;
+//    @include desktop{
+//      justify-content: center;
+//    }
+//  }
+//  &-item{
+//    text-align: center;
+//    width: 80%;
+//    margin-bottom: 50px;
+//    @include desktop{
+//      width: 33.33%;
+//    }
+//    @include mobile{
+//      width: 50%;
+//    }
+//  }
+//}

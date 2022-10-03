@@ -40,6 +40,8 @@ navigation:
   - title: Networks
     url: /contact
     tag: 
+  - title: SciComm
+    url: /scicomm
   - title: Publications
     url: /publications
 

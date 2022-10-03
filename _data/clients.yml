@@ -1,4 +1,22 @@
 enable        : true
-title         : "Who trust our judgment"
+title         : "Print"
 client_logos  : 
-  ["images/clients/client-logo-one.png", "images/clients/client-logo-two.png", "images/clients/client-logo-three.png", "images/clients/client-logo-four.png", "images/clients/client-logo-five.png", "images/clients/client-logo-six.png", "images/clients/client-logo-seven.png", "images/clients/client-logo-eight.png", "images/clients/client-logo-nine.png", "images/clients/client-logo-ten.png"]
+  - logo  : "images/clients/ventureBeat.png"
+    url  : "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/"
+  - logo  : "images/clients/sciAmerican.png"
+    url  : "https://www.scientificamerican.com/article/mysteries-of-covid-smell-loss-finally-yield-some-answers1/"
+  - logo  : "images/clients/usaToday.png"
+    url  : "https://www.usatoday.com/story/life/health-wellness/2021/12/22/covid-attention-span-exhaustion/8926439002/"
+  - logo  : "images/clients/al.png"
+    url  : "https://www.aljazeera.net/news/healthmedicine/2022/3/7/%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%85%d8%a7%d8%ba"
+  - logo  : "images/clients/bustle.png"
+    url  : "https://www.bustle.com/p/why-is-my-arm-asleep-6-reasons-your-limbs-go-numb-when-youre-sleeping-18552723"
+#  - logo  : "images/clients/healthline.png"
+#    url  : "https://www.healthline.com/health-news/alzheimers-risk-factors-lifestyle-changes#The-impact-of-lifestyle"
+#  - logo  : "images/clients/client-logo-one.png"
+#    url  : "220208"
+#  - logo  : "images/clients/client-logo-one.png"
+#    url  : "220208"
+#  - logo  : "images/clients/client-logo-one.png"
+#    url  : "220208"
+#  ["images/clients/client-logo-one.png", "images/clients/client-logo-two.png", "images/clients/client-logo-three.png", "images/clients/client-logo-four.png", "images/clients/client-logo-five.png", "images/clients/client-logo-six.png", "images/clients/client-logo-seven.png", "images/clients/client-logo-eight.png", "images/clients/client-logo-nine.png", "images/clients/ventureBeat.png"]
