@@ -1,4 +1,159 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-18T05:51:50-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keiland W. Cooper</title><subtitle>The hub node of Keiland's online network</subtitle><entry><title type="html">Some advice about grants like the NSF GRFP</title><link href="http://localhost:4000/GRFP-advice/" rel="alternate" type="text/html" title="Some advice about grants like the NSF GRFP" /><published>2022-01-03T13:11:27-08:00</published><updated>2022-01-03T13:11:27-08:00</updated><id>http://localhost:4000/GRFP-advice</id><content type="html" xml:base="http://localhost:4000/GRFP-advice/">&lt;p&gt;I was lucky enough to win the NSF GRFP award. I found online resources to be tremendously helpful. One day I’ll write a more thorough document about the GRFP. But honestly, many have already done a such a wonderful job that mine would only be mediocre in comparison. So I’ll point to some of the best resources and tips I know of, and then offer just a few bullets of my own.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-03T01:21:43-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keiland W. Cooper</title><subtitle>The hub node of Keiland's online network</subtitle><entry><title type="html">Personal finance notes in academia</title><link href="http://localhost:4000/Finance-for-academics/" rel="alternate" type="text/html" title="Personal finance notes in academia" /><published>2022-08-12T14:11:27-07:00</published><updated>2022-08-12T14:11:27-07:00</updated><id>http://localhost:4000/Finance-for-academics</id><content type="html" xml:base="http://localhost:4000/Finance-for-academics/">&lt;p&gt;In an ideal world, scientists wouldn’t have to worry about finances and could focus on their research. In reality, like every other sector, macro- and micro-economic trends guide the shape of science. This pinch of reality reveals the complex systems that pervade all levels of academia: funding agencies, state legislation, donors, graduate stipends, or undergraduate tuition. Similar to other academic topics, I found this complex area difficult to navigate as an early scientist. Particularly as a first generation student, who once didn’t know the difference between bursar and provost, despite its importance, it’s rarely explicitly taught. Since then, I’ve spent years in academia, learning about through osmosis, and even did an MBA to help wrap my head around it all. What follows is a collection of some of my notes on the topic.&lt;/p&gt;
+
+&lt;h3 id=&quot;finance-for-graduate-researchers&quot;&gt;Finance for graduate researchers&lt;/h3&gt;
+
+&lt;p&gt;While finances may not dictate the type of research you dream of doing, it may help with your decision of where you will accomplish it. Finance in graduate school starts with thinking about your current financial situation and your goals. Later, as the offer letters come, sitting down, and factoring the details of them into your decision.&lt;/p&gt;
+
+&lt;p&gt;Finding metrics of comparison for your potential stipend can be tremendously useful towards better understanding your offer letter. &lt;a href=&quot;https://www.phdstipends.com/&quot;&gt;&lt;em&gt;phdstipends.com&lt;/em&gt;&lt;/a&gt; has collected an open list of PhD stipends from around the country.&lt;/p&gt;
+
+&lt;p&gt;That said, comparing stipends between two universities depends on more than just the dollar amount. Each location’s cost of living varies, and thus should be taken into account. One method to do so is the &lt;a href=&quot;https://livingwage.mit.edu/&quot;&gt;living wage calculator&lt;/a&gt;, that does many of the calculations for you.&lt;/p&gt;
+
+&lt;p&gt;For myself, it was important to set myself up psychologically for the extra task of managing finances as an early scientist. Articles like this one help with that mindset shift: “&lt;a href=&quot;https://www.washingtonpost.com/express/wp/2017/04/11/managing-finances-might-be-graduate-students-toughest-test/&quot;&gt;&lt;em&gt;Managing finances might be graduate students’ toughest test&lt;/em&gt;&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;As well as blog articles that offer advice, such as “&lt;a href=&quot;https://blog.r3ciprocity.com/how-to-survive-financially-as-a-graduate-or-doctoral-student/?nab=0&quot;&gt;&lt;em&gt;How to Survive Financially as a Graduate or Doctoral Student&lt;/em&gt;&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Or wonderful resources that offer an in-depth guide to navigating finances, such as &lt;a href=&quot;http://pfforphds.com/&quot;&gt;Personal Finance for PhD’s&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A common misconception is that graduate students in the US do not need to pay taxes on their graduate stipends or &lt;a href=&quot;https://www.irs.gov/taxtopics/tc421&quot;&gt;fellowships&lt;/a&gt;. Unfortunately, &lt;a href=&quot;https://grad.uci.edu/funding/tax-information/&quot;&gt;this is not the case&lt;/a&gt;. The &lt;a href=&quot;https://www.irs.gov/pub/irs-pdf/p970.pdf&quot;&gt;tax code&lt;/a&gt; does distinguish between the money paid by a graduate program for tuition and other education related expenses, which are often untaxed, and the stipend, money from the program for room, board, and other living expenses, which are often taxed. Same too for state taxes in many states. If money is not withdrawn automatically from your paycheck by your program, then you’ll likely need to make &lt;a href=&quot;https://www.irs.gov/help/ita/am-i-required-to-make-estimated-tax-payments&quot;&gt;quarterly estimated tax payments&lt;/a&gt;, four times per tax year to make up the difference. Rules will likely differ for &lt;a href=&quot;https://www.irs.gov/pub/irs-pdf/p519.pdf&quot;&gt;international students&lt;/a&gt; by specific circumstances. I really recommend &lt;a href=&quot;http://pfforphds.com/taxes/&quot;&gt;this site&lt;/a&gt; to help you start navigating graduate school taxes. UCSD also has a &lt;a href=&quot;https://grad.ucsd.edu/_files/financial-support/taxes/CITGenTaxInfo.pdf&quot;&gt;great guide&lt;/a&gt; for their students. As does the APA, though a &lt;a href=&quot;https://www.apa.org/gradpsych/features/2011/tax-tips&quot;&gt;bit old&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are few other opportunities in your life where you can get a no-strings-attached sum of money as with scholarships and fellowships. Apply! There are lots of great intra and inter-university resources floating around. I wrote a bit about the large academic fellowships, such as the GRFP,  &lt;a href=&quot;https://www.kwcooper.xyz/GRFP-advice/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-brief-overview-of-personal-finance&quot;&gt;A brief overview of personal finance&lt;/h3&gt;
+
+&lt;p&gt;I’ll come out of the gate and qualify this by saying that there is not one strategy to build wealth. Rather, everyone’s own circumstances will alter what might work best, and the types of strategies that they’ll need to employ. From a bit of trial and error however, here’s one approach that has worked well for me.&lt;/p&gt;
+
+&lt;p&gt;I tend to opt for a somewhat conservative saving approach, that attempts to meet goals that are staged one after the other. For me, the most important aspect to mitigate risk is to build towards a financial “safty net” of emergancy savings, and then building out from there.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;First and foremost, pay off debts ASAP (Excluding mortgage)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Save at least 6 months of your current salary in cash accounts for emergencies&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If your employer offers a 401k, max out yearly contributions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open a Roth IRA, and max out yearly contributions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Save at least 12 months current salary in cash accounts for emergencies&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Only then, if you have excess income:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Increase emergancy cash reserves&lt;/li&gt;
+      &lt;li&gt;Start saving for bigger goals&lt;/li&gt;
+      &lt;li&gt;Investments outside of retirement (stocks, bonds, alternatives)&lt;/li&gt;
+      &lt;li&gt;Increase donations&lt;/li&gt;
+      &lt;li&gt;Increase lifestyle costs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Of course, getting there isn’t easy, but here’s what has worked for me:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Live below your means as much as possible
+    &lt;ul&gt;
+      &lt;li&gt;Don’t inflate your lifestyle costs at the same rate as your income increases&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open a savings account and work towards building your first $1,000 in emergency savings&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start working on paying off your debts&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once all debt is paid off, start growing emergency savings account to 3-6 months in savings&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Start saving for retirement, start slow, but try to build up to 15-20% of your monthly salary
+    &lt;ul&gt;
+      &lt;li&gt;Start with 401k if your employer has one&lt;/li&gt;
+      &lt;li&gt;Or / in addition to, open a Roth IRA&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then start targeting big financial goals: Save for your kids college, pay off a home, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reassess your goals at each step
+    &lt;ul&gt;
+      &lt;li&gt;Change jobs? Add income source? Other investments?&lt;/li&gt;
+      &lt;li&gt;Assess your risk levels&lt;/li&gt;
+      &lt;li&gt;Assess your economic environment&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you’ve never made a budget before, that’s always the first step to quantify your financial situation. At a high level, it all comes down to input vs output: how much are you earning vs how much are you spending? If the later exceeds the former, you either need to cut costs or find ways to increase your income. Otherwise, you can consider paying off debts or saving more.&lt;/p&gt;
+
+&lt;p&gt;For me, I like to think about the biggest expenditures the most. How much am I paying for rent? What are my largest bills? What expenditures surprise me the most? &lt;a href=&quot;https://medium.com/@kwcooper/save-money-close-deals-clip-coupons-the-science-of-decision-making-1ba38181fb71&quot;&gt;Economic psychology teaches us&lt;/a&gt; that we’re likely to spend more time saving $1 on a cheeseburger, than on a car, despite the fact the amount is the same. Everyone harks on young folks for spending their money on “Avocados and Starbucks” but saving just $100 a month on rent or car payments can quickly absorb many of those types of discretionary costs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://imgs.xkcd.com/comics/investing.png&quot; alt=&quot;XKCD-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-few-notes-on-investing&quot;&gt;A few notes on investing&lt;/h3&gt;
+
+&lt;p&gt;If you find yourself having saved enough money to pay off bills, create an emergency fund, and pay off debts, you might consider investing to increase your rate of return outside of bank cash accounts that provide minimal interest.&lt;/p&gt;
+
+&lt;p&gt;A full treatment of investing is so far beyond the scope of these notes, but a few bits of info may be useful. For instance, the first lesson finance courses will teach is that of the &lt;a href=&quot;https://www.investopedia.com/terms/t/timevalueofmoney.asp&quot;&gt;time value of money&lt;/a&gt;. This core principle of finance states that a given sum of money is worth more now than the same amount will be at a future date. This is due to money’s earnings potential in the interim, primarily through investing. Thus, a delayed investment is a lost opportunity. Colloquially, this means that the best time to start investing was yesterday.&lt;/p&gt;
+
+&lt;p&gt;With all investments, you must first and foremost consider the amount of risk you’re comfortable taking on. While they’re are &lt;a href=&quot;https://www.investopedia.com/ask/answers/041415/what-are-some-common-measures-risk-used-risk-management.asp&quot;&gt;multiple ways to quantify risk&lt;/a&gt;, generally, the higher an investments potential returns, the more risk you might take on. When thinking about risk, it is often worthwhile to consider your time horizon, that is, the amount of time until the money is needed. The greater the time horizon, the more risky an investment is allowed to be. It is far more ideal to take on more risk as a younger investor, with time to re-strategize, than an older one who may need that money soon to pay for retirement costs.&lt;/p&gt;
+
+&lt;p&gt;After considering your risk, there are four main types of investments:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Cash&lt;/li&gt;
+  &lt;li&gt;Stocks&lt;/li&gt;
+  &lt;li&gt;Bonds&lt;/li&gt;
+  &lt;li&gt;Alternatives&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We’re likely most familiar with cash investments, where your money goes into a bank. Interests rates, or the amount of money the bank pays you for the privilege of keeping your money, are small, often less than a percent, but these accounts have the least amount of risk.&lt;/p&gt;
+
+&lt;p&gt;The second type are &lt;a href=&quot;https://www.investopedia.com/terms/c/commonstock.asp&quot;&gt;stocks&lt;/a&gt;, which often means ownership in a publicly traded company. Say &lt;em&gt;Keiland’s Cupcakes&lt;/em&gt;, the number one cupcake company in the world, goes public. If you by 100 shares of the company at $10 one day, you will own a small percentage of &lt;em&gt;Keiland’s Cupcakes&lt;/em&gt;. Say in the future, the share price rises to $25 per share. If you sell your shares, then you’ll have $2500, a profit of $1500 (before taxes). However, stocks are risky, and there’s no guarantee the price will rise.  If &lt;em&gt;Keiland’s Cupcakes&lt;/em&gt; share price dips to $5, then you will have lost $500. Beyond the buy / sell price, you can also sometimes make money through dividends, or money paid regularly by a company to its shareholders from its profits.&lt;/p&gt;
+
+&lt;p&gt;While stocks are ownership in a company, &lt;a href=&quot;https://www.investopedia.com/financial-edge/0312/the-basics-of-bonds.aspx&quot;&gt;bonds&lt;/a&gt; are loans of the company’s debt. For instance, &lt;em&gt;Keiland’s Cupcakes&lt;/em&gt; also can raise money by issuing bonds and agreeing to pay you, the bond holder, interest payments on your loan to them. These payments will last until the bond reaches its maturity date, and the company repays you the price of the bond. While bonds typically are less risky than stocks, bonds can also change in value, based on market conditions. So if the price of the bond increases, you could also sell the bond to make a profit, or cut potential losses.&lt;/p&gt;
+
+&lt;p&gt;The last class of investments are alternatives. These include everything else, from investing in land to investing in renewables. While it ranges, alternatives often incur the largest amount of risk.&lt;/p&gt;
+
+&lt;p&gt;While over recent years many investment companies have offered 0% commissions, allowing an individual to trade stocks or bonds ultimately for free, in other cases you may find yourself needing a financial advisor to help you navigate. You want to assure they are a fiduciary, a recent legal requirement, and that they have no conflicts of interest. You also want to assure that they are &lt;a href=&quot;https://money.usnews.com/investing/articles/2017-05-17/what-is-a-registered-investment-advisor&quot;&gt;registered&lt;/a&gt; with the SEC. If you are paying commissions, this is generally fine, as long as you keep your commissions under 1%. Be on the lookout for hidden fees, and if you’re really worried, you can ask for a copy of their Form ADV, required by the SEC. You can look them up on &lt;a href=&quot;Brokercheck.finra.org&quot;&gt;databases&lt;/a&gt; for “background checking”. You can also ask to see a sample portfolio.&lt;/p&gt;
+
+&lt;h3 id=&quot;retirement-accounts&quot;&gt;Retirement accounts&lt;/h3&gt;
+
+&lt;p&gt;Many workplaces offer retirement plans, managed accounts where a percentage of your paycheck is paid into an account designed to save money for retirement. The most common of which is a &lt;a href=&quot;https://www.investopedia.com/terms/1/401kplan.asp&quot;&gt;401(k)&lt;/a&gt;. In some cases, each contribution to this account may be matched by your employer. Traditional 401(k) contributions are pre-tax, which means that while contributions are not taxed, withdrawals are. However, this also reduces your total taxable income for that year, with contributions deducted. Given that these accounts are designed as retirement savings, you must meet &lt;a href=&quot;https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-iras-distributions-withdrawals&quot;&gt;age or other requirements&lt;/a&gt; to avoid penetalies.&lt;/p&gt;
+
+&lt;p&gt;Another popular retirement account is a  &lt;a href=&quot;https://www.investopedia.com/terms/r/rothira.asp&quot;&gt;Roth IRA&lt;/a&gt;, which is funded by post-tax income. This means you pay taxes on your contributions, but not when you withdraw the funds during retirement. For example, say you, as a 20-year-old, put $5,000 a year into a Roth IRA for 10 years, and then stop contributing. The 10 years of Roth contributions and growth—let’s assume at 8% interest a year to age 65—could total upwards of $1,070,944 of tax-free dollars. Given how advantageous these accounts can be to building wealth, there are some &lt;a href=&quot;https://www.irs.gov/retirement-plans/roth-iras&quot;&gt;rules&lt;/a&gt; about how much and when you can contribute.&lt;/p&gt;
+
+&lt;h3 id=&quot;lastly-some-ad-hoc-advice&quot;&gt;Lastly, some &lt;em&gt;ad hoc&lt;/em&gt; advice&lt;/h3&gt;
+
+&lt;p&gt;Disassociate your self-worth from your net-worth. You’re doing amazing things, pushing humanity forward. &lt;em&gt;You&lt;/em&gt; are more valuable than any number.&lt;/p&gt;
+
+&lt;p&gt;I recommend setting up alerts on your most often used bank accounts, whether text, email, or both. Not only will it help you keep a running sense for how much you’re spending, it can also help with detecting fraud in real time.&lt;/p&gt;
+
+&lt;p&gt;If you find yourself having a difficult time saving each month, many accounts can be set up to make automatic contributions to cash and retirement accounts.&lt;/p&gt;
+
+&lt;p&gt;Did you know you can &lt;a href=&quot;https://www.profellow.com/tips/how-to-negotiate-your-funding-offer-for-graduate-school-an-email-template/&quot;&gt;negotiate&lt;/a&gt; your stipend?&lt;/p&gt;
+
+&lt;p&gt;Some of my favorite advice was to think of a research lab as a start-up company. There really are a lot of parallels.&lt;/p&gt;
+
+&lt;p&gt;There are now great tools to see &lt;a href=&quot;https://www.ogrants.org/&quot;&gt;open grants&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Or tools to &lt;a href=&quot;https://experiment.com/&quot;&gt;crowdsource science funding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A little saved is better than nothing at all.&lt;/p&gt;
+
+&lt;p&gt;I like looking at national averages to put things into perspective. Average salary or &lt;a href=&quot;https://www.marketwatch.com/picks/heres-exactly-how-much-americans-have-in-savings-at-every-age-and-yikes-heres-what-they-should-have-01659384531#&quot;&gt;average savings&lt;/a&gt; (The &lt;a href=&quot;https://www.federalreserve.gov/econres/scfindex.htm&quot;&gt;average savings&lt;/a&gt; of Americans under 35 in 2019 was $3,240)&lt;/p&gt;
+
+&lt;p&gt;This stuff is complex, almost by design. Don’t ever be afraid to ask for help. Oh boy did I have to!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;faq&quot;&gt;FAQ&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Comming soon!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Have a question? Think I got an important topic wrong? Please let me know &lt;a href=&quot;https://www.kwcooper.xyz/contact&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>Keiland Cooper</name></author><summary type="html">In an ideal world, scientists wouldn’t have to worry about finances and could focus on their research. In reality, like every other sector, macro- and micro-economic trends guide the shape of science. This pinch of reality reveals the complex systems that pervade all levels of academia: funding agencies, state legislation, donors, graduate stipends, or undergraduate tuition. Similar to other academic topics, I found this complex area difficult to navigate as an early scientist. Particularly as a first generation student, who once didn’t know the difference between bursar and provost, despite its importance, it’s rarely explicitly taught. Since then, I’ve spent years in academia, learning about through osmosis, and even did an MBA to help wrap my head around it all. What follows is a collection of some of my notes on the topic.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/blog/blog-post-05.jpg" /><media:content medium="image" url="http://localhost:4000/images/blog/blog-post-05.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Some advice about grants like the NSF GRFP</title><link href="http://localhost:4000/GRFP-advice/" rel="alternate" type="text/html" title="Some advice about grants like the NSF GRFP" /><published>2022-01-03T13:11:27-08:00</published><updated>2022-01-03T13:11:27-08:00</updated><id>http://localhost:4000/GRFP-advice</id><content type="html" xml:base="http://localhost:4000/GRFP-advice/">&lt;p&gt;I was lucky enough to win the NSF GRFP award. I found online resources to be tremendously helpful. One day I’ll write a more thorough document about the GRFP. But honestly, many have already done a such a wonderful job that mine would only be mediocre in comparison. So I’ll point to some of the best resources and tips I know of, and then offer just a few bullets of my own.&lt;/p&gt;
 
 &lt;p&gt;I’m guessing you already know what &lt;a href=&quot;https://www.nsfgrfp.org/&quot;&gt;the GRFP&lt;/a&gt; is, but if not, here is what the NSF says about it:&lt;/p&gt;
 
@@ -136,7 +291,7 @@
 
 &lt;p&gt;&lt;em&gt;Can I see a copy of your application?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Yes! I’ll upload it here soon, but for now, head &lt;a href=&quot;https://www.kwcooper.xyz/contact&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>Keiland Cooper</name></author><summary type="html">I was lucky enough to win the NSF GRFP award. I found online resources to be tremendously helpful. One day I’ll write a more thorough document about the GRFP. But honestly, many have already done a such a wonderful job that mine would only be mediocre in comparison. So I’ll point to some of the best resources and tips I know of, and then offer just a few bullets of my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/blog/blog-post-03.jpg" /><media:content medium="image" url="http://localhost:4000/images/blog/blog-post-03.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">KIO-TAPE BRAND</title><link href="http://localhost:4000/product%20label/2020/03/10/kio-tape-2.html" rel="alternate" type="text/html" title="KIO-TAPE BRAND" /><published>2020-03-10T14:11:27-07:00</published><updated>2020-03-10T14:11:27-07:00</updated><id>http://localhost:4000/product%20label/2020/03/10/kio-tape-2</id><content type="html" xml:base="http://localhost:4000/product%20label/2020/03/10/kio-tape-2.html">&lt;p&gt;The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.&lt;/p&gt;
+&lt;p&gt;Yes! I’ll upload it here soon, but for now, head &lt;a href=&quot;https://www.kwcooper.xyz/contact&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>Keiland Cooper</name></author><summary type="html">I was lucky enough to win the NSF GRFP award. I found online resources to be tremendously helpful. One day I’ll write a more thorough document about the GRFP. But honestly, many have already done a such a wonderful job that mine would only be mediocre in comparison. So I’ll point to some of the best resources and tips I know of, and then offer just a few bullets of my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/blog/blog-post-02.jpg" /><media:content medium="image" url="http://localhost:4000/images/blog/blog-post-02.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">KIO-TAPE BRAND</title><link href="http://localhost:4000/product%20label/2020/03/10/kio-tape-2.html" rel="alternate" type="text/html" title="KIO-TAPE BRAND" /><published>2020-03-10T14:11:27-07:00</published><updated>2020-03-10T14:11:27-07:00</updated><id>http://localhost:4000/product%20label/2020/03/10/kio-tape-2</id><content type="html" xml:base="http://localhost:4000/product%20label/2020/03/10/kio-tape-2.html">&lt;p&gt;The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.&lt;/p&gt;
 
 &lt;p&gt;The watch has the following features:&lt;/p&gt;
 

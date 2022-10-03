@@ -4,7 +4,7 @@ title: "Some advice about grants like the NSF GRFP"
 date: 2022-01-03 21:11:27
 permalink: /:title/
 type: blog
-image: images/blog/blog-post-03.jpg
+image: images/blog/blog-post-02.jpg
 feature_image: images/blog/blog-details-image.jpg
 author: Keiland Cooper
 ---
