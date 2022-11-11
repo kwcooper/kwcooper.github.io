@@ -1,3 +1,7 @@
+
+https://github.com/StaticMania/roxo-jekyll/blob/master/index.html
+https://roxo.staticmania.com/index.html
+
 <h1>Roxo Jekyll</h1>
 <img src="https://user-images.githubusercontent.com/16266381/76162082-10850b80-6164-11ea-8b20-f30b2611f92c.png" alt="screenshot" width="100%">
 
