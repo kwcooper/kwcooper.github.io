@@ -2,6 +2,11 @@ enable  : true
 title   : "Recent News"
 subtitle: "A few things I've been up to, probably perpetually a little bit out of date"
 testimonial_item :
+
+  - name  : "AAAI-23 Continual Causality Bridge"
+    date  : "230206"
+    quote : >
+            I'm co-organizing a program bridging AI causal models with continual learning. Head <a href="https://www.continualcausality.org/" target="_blank"> here </a>  for more info and come join us in DC!
   
   - name  : "Paper: Hippocampal non-spatial sequences"
     date  : "220208"
