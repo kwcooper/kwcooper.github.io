@@ -9,16 +9,16 @@ feature_image: images/blog/blog-details-image2.jpg
 author: Keiland Cooper
 ---
 
-In an ideal world, scientists wouldn’t have to worry about finances and could focus on their research. In reality, like every other sector, macro- and micro-economic trends guide the shape of science. This pinch of reality reveals the complex systems that pervade all levels of academia: funding agencies, state legislation, donors, graduate stipends, or undergraduate tuition. Similar to other academic topics, I found this complex area difficult to navigate as an early scientist. Particularly as a first generation student, who once didn’t know the difference between bursar and provost, despite its importance, it’s rarely explicitly taught. Since then, I’ve spent years in academia, learning about through osmosis, and even did an MBA to help wrap my head around it all. What follows is a collection of some of my notes on the topic. 
+In an ideal world, scientists wouldn’t have to worry about finances and could focus on their research. In reality, like every other sector, macro- and micro-economic trends guide the shape of science. This pinch of reality reveals the complex systems that pervade all levels of academia: funding agencies, state legislation, donors, graduate stipends, or undergraduate tuition. Similar to other academic topics, I found this complex area difficult to navigate as an early scientist; particularly as a first generation student, who once didn’t know the difference between _bursar_ and _provost_. Despite its importance, personal finance is rarely explicitly taught. Since, I’ve spent a few years in academia, learning through osmosis as well as even doing an MBA to help wrap my head around it all. What follows is a short collection of some of my notes on the topic. I really hope they help point someone in the right direction. 
 
 ### Finance for graduate researchers
 
-While finances may not dictate the type of research you dream of doing, it may help with your decision of where you will accomplish it. Finance in graduate school starts with thinking about your current financial situation and your goals. Later, as the offer letters come, sitting down, and factoring the details of them into your decision. 
+Finance for PhD scholars starts even before you apply to graduate schools. While finances may not dictate the type of research you dream of doing, it may help with your decision of where you will accomplish it. Start with thinking about your current financial situation and your goals. Later, as the offer letters come, sitting down, and factoring the details of them into your decision. (And if you need them, ask for fee waivers for the exuberant application fee's). 
 
 Finding metrics of comparison for your potential stipend can be tremendously useful towards better understanding your offer letter. [_phdstipends.com_](https://www.phdstipends.com/){:target="_blank"} has collected an open list of PhD stipends from around the country. 
 
 
-That said, comparing stipends between two universities depends on more than just the dollar amount. Each location’s cost of living varies, and thus should be taken into account. One method to do so is the [living wage calculator](https://livingwage.mit.edu/){:target="_blank"}, that does many of the calculations for you. 
+That said, comparing stipends between two universities depends on more than just the dollar amount. Each location’s cost of living varies, and thus should be taken into account for your decision. One method to do so is the [living wage calculator](https://livingwage.mit.edu/){:target="_blank"}, which does many of the calculations for you. 
 
 For myself, it was important to set myself up psychologically for the extra task of managing finances as an early scientist. Articles like this one help with that mindset shift: “[_Managing finances might be graduate students’ toughest test_](https://www.washingtonpost.com/express/wp/2017/04/11/managing-finances-might-be-graduate-students-toughest-test/){:target="_blank"}”
 
@@ -28,7 +28,7 @@ Or wonderful resources that offer an in-depth guide to navigating finances, such
 
 A common misconception is that graduate students in the US do not need to pay taxes on their graduate stipends or [fellowships](https://www.irs.gov/taxtopics/tc421). Unfortunately, [this is not the case](https://grad.uci.edu/funding/tax-information/){:target="_blank"}. The [tax code](https://www.irs.gov/pub/irs-pdf/p970.pdf){:target="_blank"} does distinguish between the money paid by a graduate program for tuition and other education related expenses, which are often untaxed, and the stipend, money from the program for room, board, and other living expenses, which are often taxed. Same too for state taxes in many states. If money is not withdrawn automatically from your paycheck by your program, then you’ll likely need to make [quarterly estimated tax payments](https://www.irs.gov/help/ita/am-i-required-to-make-estimated-tax-payments){:target="_blank"}, four times per tax year to make up the difference. Rules will likely differ for [international students](https://www.irs.gov/pub/irs-pdf/p519.pdf){:target="_blank"} by specific circumstances. I really recommend [this site](http://pfforphds.com/taxes/) to help you start navigating graduate school taxes. UCSD also has a [great guide](https://grad.ucsd.edu/_files/financial-support/taxes/CITGenTaxInfo.pdf){:target="_blank"} for their students. As does the APA, though a [bit old](https://www.apa.org/gradpsych/features/2011/tax-tips){:target="_blank"}
 
-There are few other opportunities in your life where you can get a no-strings-attached sum of money as with scholarships and fellowships. Apply! There are lots of great intra and inter-university resources floating around. I wrote a bit about the large academic fellowships, such as the GRFP,  [here](https://www.kwcooper.xyz/GRFP-advice/). 
+There are few other opportunities in your life where you can get a no-strings-attached sum of money as with scholarships and fellowships. Apply! There are lots of great intra and inter-university resources floating around. I wrote a bit about the large academic fellowships, such as the GRFP,  [here](https://www.kwcooper.xyz/GRFP-advice/). In retrospect, I regret not applying for more. It's quite unfortunate how much money is offered specifically for students that isn't applied for. 
 
 
 ### A brief overview of personal finance
@@ -36,7 +36,7 @@ There are few other opportunities in your life where you can get a no-strings-at
 
 I’ll come out of the gate and qualify this by saying that there is not one strategy to build wealth. Rather, everyone's own circumstances will alter what might work best, and the types of strategies that they’ll need to employ. From a bit of trial and error however, here’s one approach that has worked well for me. 
 
-I tend to opt for a somewhat conservative saving approach, that attempts to meet goals that are staged one after the other. For me, the most important aspect to mitigate risk is to build towards a financial "safty net" of emergancy savings, and then building out from there. 
+I tend to opt for a somewhat conservative saving approach, that attempts to meet goals that are staged one after the other. For me, the most important aspect to mitigate risk is to build towards a financial "safety net" of emergency savings, and then building out from there. 
 
 1. First and foremost, pay off debts ASAP (Excluding mortgage)
 
@@ -49,7 +49,7 @@ I tend to opt for a somewhat conservative saving approach, that attempts to meet
 5. Save at least 12 months current salary in cash accounts for emergencies
 
 6. Only then, if you have excess income:
-- Increase emergancy cash reserves
+- Increase emergency cash reserves
 - Start saving for bigger goals
 - Investments outside of retirement (stocks, bonds, alternatives)
 - Increase donations
@@ -80,7 +80,7 @@ Of course, getting there isn’t easy, but here’s what has worked for me:
 
 If you’ve never made a budget before, that’s always the first step to quantify your financial situation. At a high level, it all comes down to input vs output: how much are you earning vs how much are you spending? If the later exceeds the former, you either need to cut costs or find ways to increase your income. Otherwise, you can consider paying off debts or saving more. 
 
-For me, I like to think about the biggest expenditures the most. How much am I paying for rent? What are my largest bills? What expenditures surprise me the most? [Economic psychology teaches us](https://medium.com/@kwcooper/save-money-close-deals-clip-coupons-the-science-of-decision-making-1ba38181fb71){:target="_blank"} that we’re likely to spend more time saving $1 on a cheeseburger, than on a car, despite the fact the amount is the same. Everyone harks on young folks for spending their money on “Avocados and Starbucks” but saving just $100 a month on rent or car payments can quickly absorb many of those types of discretionary costs. 
+For me, I like to think about the biggest expenditures the most. How much am I paying for rent? What are my largest bills? What expenditures surprise me the most? [Economic psychology teaches us](https://medium.com/@kwcooper/save-money-close-deals-clip-coupons-the-science-of-decision-making-1ba38181fb71){:target="_blank"} that we’re likely to spend more time saving $1 on a cheeseburger, than $1 on a car, despite the fact the amount is the same. Everyone harks on young folks for spending their money on “Avocados and Starbucks” but saving just $100 a month on rent or car payments can quickly absorb many of those types of small discretionary costs.
 
 ![XKCD-image](https://imgs.xkcd.com/comics/investing.png)
 
@@ -88,9 +88,9 @@ For me, I like to think about the biggest expenditures the most. How much am I p
 
 If you find yourself having saved enough money to pay off bills, create an emergency fund, and pay off debts, you might consider investing to increase your rate of return outside of bank cash accounts that provide minimal interest. 
 
- A full treatment of investing is so far beyond the scope of these notes, but a few bits of info may be useful. For instance, the first lesson finance courses will teach is that of the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp){:target="_blank"}. This core principle of finance states that a given sum of money is worth more now than the same amount will be at a future date. This is due to money’s earnings potential in the interim, primarily through investing. Thus, a delayed investment is a lost opportunity. Colloquially, this means that the best time to start investing was yesterday. 
+ A full treatment of investing is far beyond the scope of these notes, but a few bits of info may be useful. For instance, the first lesson finance courses will teach is that of the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp){:target="_blank"}. This core principle of finance states that (on average) **a given sum of money is worth more now than the same amount will be at a future date**. This is due to money’s earnings potential in the interim, primarily through investing. Thus, a delayed investment is a lost opportunity. Colloquially, this means that the best time to start investing was yesterday. 
 
-With all investments, you must first and foremost consider the amount of risk you’re comfortable taking on. While they’re are [multiple ways to quantify risk](https://www.investopedia.com/ask/answers/041415/what-are-some-common-measures-risk-used-risk-management.asp){:target="_blank"}, generally, the higher an investments potential returns, the more risk you might take on. When thinking about risk, it is often worthwhile to consider your time horizon, that is, the amount of time until the money is needed. The greater the time horizon, the more risky an investment is allowed to be. It is far more ideal to take on more risk as a younger investor, with time to re-strategize, than an older one who may need that money soon to pay for retirement costs. 
+With all investments, you must first and foremost consider the amount of risk you’re comfortable taking on. While there are [multiple ways to quantify risk](https://www.investopedia.com/ask/answers/041415/what-are-some-common-measures-risk-used-risk-management.asp){:target="_blank"}, generally, the higher an investments potential returns, the more risk you might take on. When thinking about risk, it is often worthwhile to consider your time horizon, that is, the amount of time until the money is needed. The greater the time horizon, the more risky an investment is allowed to be. It is far more ideal to take on more risk as a younger investor, with time to re-strategize, than an older one who may need that money soon to pay for retirement costs. 
 
 After considering your risk, there are four main types of investments:
 1. Cash
