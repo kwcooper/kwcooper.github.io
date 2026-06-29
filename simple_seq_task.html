@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Letter Sequence Experiment</title>
+  <script src="https://unpkg.com/jspsych@7.3.4"></script>
+  <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.3"></script>
+  <link href="https://unpkg.com/jspsych@7.3.4/css/jspsych.css" rel="stylesheet" type="text/css">
+  <style>
+    .jspsych-display-element {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    .sequence-stimulus {
+      font-size: 60px;
+      font-weight: bold;
+    }
+    .sequence-prompt {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body></body>
+<script>
+
+  // Initialize jsPsych
+  const jsPsych = initJsPsych({
+    on_finish: function() {
+      jsPsych.data.displayData('csv');
+    }
+  });
+
+  // --- Static Experiment Variables ---
+  const fullSequence = ['A', 'B', 'C', 'D'];
+  const responseKeys = ['f', 'j'];
+
+  // --- Dynamic State Variable ---
+  const sequenceState = {
+    currentIndex: 0
+  };
+
+  // --- Experiment Timeline ---
+  const timeline = [];
+
+  // --- Instructions ---
+  // This uses the correct plugin variable: jsPsychHtmlKeyboardResponse
+  const instructions = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <div style="max-width: 600px; text-align: left;">
+        <p>Welcome to the letter sequence experiment.</p>
+        <p>On each trial, you will see a single letter.</p>
+        <p>Your task is to decide if the letter is "in sequence" or "out of sequence."</p>
+        <p>The correct alphabetical sequence is A, then B, then C, then D.</p>
+        <p>Press the <strong>F</strong> key if the letter is IN SEQUENCE.</p>
+        <p>Press the <strong>J</strong> key if the letter is OUT OF SEQUENCE.</p>
+        <p>The sequence will reset if you make a mistake, or if you correctly identify an "out of sequence" letter.</p>
+        <p>The letter will be on screen for a maximum of 2 seconds. Please respond as quickly and accurately as you can.</p>
+        <p>Press any key to begin.</p>
+      </div>
+    `
+  };
+  timeline.push(instructions);
+
+  // --- Trial Logic ---
+  const trial = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: function() {
+      // Choose a random letter. 
+      // 50% chance of it being the correct next letter in the sequence.
+      // 50% chance of it being a random incorrect letter.
+      let letter_to_show;
+      const letters = ['A', 'B', 'C', 'D'];
+      const correct_letter = fullSequence[sequenceState.currentIndex];
+      
+      if(Math.random() > 0.5){
+        letter_to_show = correct_letter;
+      } else {
+        const other_letters = letters.filter(l => l !== correct_letter);
+        letter_to_show = jsPsych.randomization.sampleWithoutReplacement(other_letters, 1)[0];
+      }
+      
+      return `<div class="sequence-stimulus">${letter_to_show}</div>
+              <div class="sequence-prompt">In Sequence (F) or Out of Sequence (J)?</div>`;
+    },
+    choices: responseKeys,
+    trial_duration: 2000,
+    data: {
+      task: 'response'
+    },
+    on_finish: function(data) {
+      const stimulusLetter = data.stimulus.match(/<div class="sequence-stimulus">(.)<\/div>/)[1];
+      const expectedLetter = fullSequence[sequenceState.currentIndex];
+      const is_in_sequence = (stimulusLetter === expectedLetter);
+      const correct_key = is_in_sequence ? 'f' : 'j';
+      
+      data.correct = jsPsych.pluginAPI.compareKeys(data.response, correct_key);
+      
+      if (data.correct && is_in_sequence) {
+        sequenceState.currentIndex++;
+        if (sequenceState.currentIndex >= fullSequence.length) {
+          sequenceState.currentIndex = 0; // Loop sequence
+        }
+      } else {
+        // Any incorrect response, or a correct "out of sequence" response, resets the sequence.
+        sequenceState.currentIndex = 0;
+      }
+      
+      data.stimulus_letter = stimulusLetter;
+      data.expected_letter = expectedLetter;
+      data.is_in_sequence = is_in_sequence;
+      data.correct_response = correct_key;
+    }
+  };
+
+  // --- Inter-Trial Interval (ITI) ---
+  const iti = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: '<div style="font-size: 60px;">+</div>',
+    choices: "NO_KEYS",
+    trial_duration: 5000,
+  };
+
+  // --- Trial Structure ---
+  const trial_loop = {
+    timeline: [trial, iti],
+    repetitions: 20
+  };
+  timeline.push(trial_loop);
+  
+  // --- Debrief ---
+  const debrief_block = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: function() {
+      const trials = jsPsych.data.get().filter({task: 'response'});
+      const correct_trials = trials.filter({correct: true});
+      const accuracy = Math.round((correct_trials.count() / trials.count()) * 100);
+      const rt = Math.round(correct_trials.select('rt').mean());
+
+      return `<p>You responded correctly on ${accuracy}% of the trials.</p>
+              <p>Your average response time on correct trials was ${rt}ms.</p>
+              <p>Press any key to complete the experiment. The data will be displayed on the next screen.</p>`;
+    }
+  };
+  timeline.push(debrief_block);
+
+  // --- Run Experiment ---
+  jsPsych.run(timeline);
+
+</script>
+</html>
