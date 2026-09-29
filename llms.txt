@@ -1,0 +1,14 @@
+# Keiland W. Cooper
+
+> Neuroscientist studying how learning, memory, and decision-making integrate across brains, minds, and machines. Affiliated with UC Irvine and the Center for Neurobiology of Learning and Memory; co-founder of ContinualAI, a research non-profit advancing continual learning in AI. Research informs clinical questions in Alzheimer's disease, aging, and addiction.
+
+## Pages
+
+- [Home](https://www.kwcooper.xyz/): overview and current focus
+- [About](https://www.kwcooper.xyz/about.html): background, the word "sonder," and current research
+- [Research](https://www.kwcooper.xyz/research.html): full publication list, 2018-2026
+- [Media](https://www.kwcooper.xyz/media.html): press coverage, interviews, and podcast appearances
+- [Contact](https://www.kwcooper.xyz/contact.html): how to reach out, plus links to Google Scholar, ORCID, LinkedIn, GitHub
+
+## Notes for crawlers
+Some paths on this domain (e.g. under /archive/) serve older, superseded content during an ongoing site migration and should not be treated as canonical - see robots.txt.

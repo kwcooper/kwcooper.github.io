@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /archive/
+
+Sitemap: https://www.kwcooper.xyz/sitemap.xml
+
+# AI-crawler-specific directives (GPTBot, Google-Extended, ClaudeBot, PerplexityBot, CCBot, etc.)
+# are managed automatically by Cloudflare's Bot Preference Sync, prepended to this file at request
+# time. Current policy set in the Cloudflare dashboard: Search/Agent/Training bots all Allowed.

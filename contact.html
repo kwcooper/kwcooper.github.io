@@ -1,232 +1,109 @@
----
-layout: default
-title: Contact
-permalink: '/contact'
-heading       : "Don’t be shy. Say <span>Hello.</span>"
-form_heading  : "TELL US ABOUT YOUR PROJECT"
----
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<section class="site-contact">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-7">
-        <h1 class="site-contact-title">
-          Say 
-          <span id="helloarray" class="section-heading text-uppercase text-left pt-3"></span>
-        </h1>
-      </div>
-      <div class="col-lg-5 ml-auto">
-        <div class="site-contact-form">
-        <h4> You should contact me. </h4>
-          <p>I love to hear from people and if for nothing else, the <a href="https://home.cern/science/computing/where-web-was-born#targetText=Tim%20Berners%2DLee%2C%20a%20British,and%20institutes%20around%20the%20world."> <u>internet was built for communication.</u></a> So please introduce yourself and what you're working on, or just say hi. </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="site-contact" style="background: white;">
-  <div class="container">
-    <div class="row" style="display: flex;">
-      
-      
-      
-      <div class="col-lg-4 text-center" style="flex: 1;">
-        <div class="site-contact-icon">
-              <a href="mailto:kwcooper@uci.edu?Subject=Hello!"> <i class="fa fa-4x fa-envelope-o wow fadeIn fa-lg"> </i> </a>
-              <h3>Email</h3>
-              <p class="text-muted">Best way to reach me: kwcooper (at) uci (dot) edu </p>
-          </div>
-        </div>
-      <div class="col-lg-4  text-center">
-        <div class="site-contact-icon">
-              <img src="images/assets/fortin_lab_rat.png" href="https://fortinlab.bio.uci.edu/FortinLab/Home.html" target="_blank" width="70" height="50">
-              <h3>Fortin Lab</h3>
-              <p class="text-muted">Neuroscience of learning and memory research</p>
-          </div>
-        </div>
-      <div class="col-lg-4 text-center">
-        <div class="site-contact-icon">
-              <img src="images/assets/continualAI_logo.png" href="https://www.continualai.org/" target="_blank" width="50" height="50">
-              <h3>ContinualAI</h3>
-              <p class="text-muted">A hub for all continual learning AI research</p>
-          </div>
-        </div>
-      <div class="col-lg-4  text-center">
-        <div class="site-contact-icon">
-              <a href="https://twitter.com/kw_cooper" target="_blank"><i class="fa fa-4x fa-twitter wow fadeIn fa-lg"></i></a>
-              <h3>@kw_cooper</h3>
-              <p class="text-muted">Mostly to stay up to date and track papers...</p>
-          </div>
-        </div>
-      <div class="col-lg-4 text-center">
-        <div class="site-contact-icon">
-              <a href="https://www.linkedin.com/in/kwcooper" target="_blank"><i class="fa fa-4x fa-linkedin wow fadeIn fa-lg"></i></a>
-              <h3>LinkedIn</h3>
-              <p class="text-muted">My attempt at professional network content</p>
-          </div>
-        </div>
-      <div class="col-lg-4  text-center">
-        <div class="site-contact-icon">
-              <a href="https://github.com/kwcooper" target="_blank"><i class="fa fa-4x fa-github wow fadeIn fa-lg"></i></a>
-              <h3>@kwcooper</h3>
-              <p class="text-muted">"Hey, what are you doing on the computer?"</p>
-          </div>
-        </div>
-      <div class="col-lg-4  text-center">
-        <div class="site-contact-icon">
-              <img src="images/assets/GCCR_logo.jpg" href="https://gcchemosensr.org/" target="_blank" width="100" height="60">
-              <h3>GCCR</h3>
-              <p class="text-muted">Taste and smell research</p>
-          </div>
-        </div>
-      <div class="col-lg-4  text-center">
-        <div class="site-contact-icon">
-              <img src="images/assets/CNLM_LOGO.jpeg" href="https://cnlm.uci.edu/" target="_blank" width="50" height="50">
-              <h3>CNLM</h3>
-              <p class="text-muted">Center for the Neurobiology of Learning &amp; Memory</p>
-          </div>
-        </div>
-      <div class="col-lg-4  text-center">
-        <div class="site-contact-icon">
-              <img src="images/assets/BLM.png" href="https://sites.uci.edu/endracism/anti-racism-resources/" target="_blank" width="100" height="70">
-              <h3>DEI Resources</h3>
-              <p class="text-muted">Anti-Racism Initiative</p>
-          </div>
-        </div>
-      
-    </div>
-  </div>
-</section>
-
-<div class="container">
-  <div class="text-center" style="opacity:0.4;">
-    <img src="images/assets/social_network_graph.png" style="max-width:100%; max-height:100%;">
-  </div>
-</div>
-
-<!-- start: contact section -->
-<!--
-<section class="site-contact">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-5">
-        <h1 class="site-contact-title">
-          {{ page.heading }}
-        </h1>
-      </div>
-      <div class="col-lg-6 ml-auto">
-        <div class="site-contact-form">
-          <h4>{{ page.form_heading }}</h4>
-          <form id="contact-form" action="{{ site.formspreeFormUrl }}" method="POST">
-            <div class="row">
-              <div class="col-lg-6">
-                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="First Name">
-              </div>
-              <div class="col-lg-6">
-                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Last Name">
-              </div>
-              <div class="col-lg-6">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Email">
-              </div>
-              <div class="col-lg-6">
-                <div class="select-wrapper">
-                  <select class="form-control" id="projectType" name="project-type">
-                    <option value="" selected disabled hidden>Project Type</option>
-                    <option value="gd">Graphics Design</option>
-                    <option value="wb">Web Design</option>
-                  </select>
-                </div>
-              </div>
-              <div class="col-12">
-                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="About the Project"></textarea>
-              </div>
-              <div class="col-12">
-                <button type="submit" class="btn btn-primary" id="contact-form-button">
-                  <span class="btn-area">
-                    <span data-text="Send Message">
-                      Send Message
-                    </span>
-                  </span>
-                </button>
-              </div>
-              <div class="col-12">
-                <p id="contact-form-status"></p>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
--->
-<!-- end: contact section -->
-
-<!-- Move to JS file -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q55HEG6297"></script>
 <script>
-  var textArray = "Hello!;こんにちは;hallo!;你好;hei;السلام علیکم;Hello!;سلام;bonjour;¡Hola!;নমস্কার;ciao;xαίρε;Hello!;नमस्कार;Aloha;שלום;नमस्ते;bawo ni".split(";");
-  var index = 1;
-  document.getElementById('helloarray').innerHTML = textArray[0];
-  setInterval(function(){        
-    $("#helloarray").animate({
-      opacity:0
-    }, function() {
-      if (textArray.length > index) {
-        $(this).text(textArray[index]).animate({opacity:1});
-        index++; 
-      }
-      else {
-        $(this).text(textArray[0]).animate({opacity:1});
-        index = 1;
-      }
-    });
-  }, 1800);
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-Q55HEG6297');
 </script>
 
-<!-- Add Schema markup -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Consortium",
-  "name": "ContinualAI",
-  "alternateName": "Continual AI",
-  "url": "https://www.continualai.org/",
-  "logo": "https://www.continualai.org/images/logo.png"
-}
-</script>
+<!-- SEO -->
+<title>Contact — Keiland W. Cooper</title>
+<meta name="description" content="Get in touch with Keiland W. Cooper — neuroscientist, researcher, and co-founder of ContinualAI — for collaborations, questions, or speaking invitations." />
+<link rel="canonical" href="https://www.kwcooper.xyz/contact.html" />
+<meta name="robots" content="index,follow" />
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Consortium",
-  "name": "Global Consortium for Chemosensory Research",
-  "alternateName": "GCCR",
-  "url": "https://gcchemosensr.org/",
-  "logo": "https://gcchemosensr.org/assets/img/logo_draft_white.jpg"
-}
-</script>
+<!-- Favicon -->
+<link rel="icon" href="./assets/img/global/favicon.ico" sizes="any" />
 
+<!-- Socials -->
+<meta property="og:title" content="Contact — Keiland W. Cooper" />
+<meta property="og:description" content="Get in touch with Keiland W. Cooper — neuroscientist, researcher, and co-founder of ContinualAI — for collaborations, questions, or speaking invitations." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.kwcooper.xyz/contact.html" />
+<meta property="og:image" content="./assets/img/global/og-image.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Person",
-  "name": "Keiland W Cooper",
-  "url": "http://kwcooper.xyz",
-  "image": "https://pbs.twimg.com/profile_images/1278284452062359552/-WnnFP5Q_400x400.jpg",
-  "sameAs": [
-    "https://twitter.com/kw_cooper",
-    "https://www.linkedin.com/in/keilandwcooper/",
-    "https://github.com/kwcooper",
-    "http://kwcooper.xyz"
-  ],
-  "jobTitle": "Neuroscientist",
-  "worksFor": {
-    "@type": "Organization",
-    "name": ["University of California, Irvine", 
-    		"ContinualAI", 
-            "Global Consortium for Chemosensory Research"]
-  }  
-}
-</script>
+<!-- Styles + JS -->
+<link rel="preload" href="./assets/css/styles.css?v=0.8" as="style" />
+<link rel="stylesheet" href="./assets/css/colors.css?v=0.8" />
+<link rel="stylesheet" href="./assets/css/styles.css?v=0.8" />
+
+</head>
+<body class="scheme-midnight">
+
+<header class="top">
+  <div class="top__left">
+    <a href="./index.html" class="top__brand">[ KWC ]</a>
+  </div>
+  <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+  <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation menu">
+    <span></span>
+  </label>
+
+  <nav class="top__right">
+  	<div class="links">
+	    <a href="./about.html" class="top__link">[ About ]</a>
+      <a href="./research.html" class="top__link">[ Research ]</a>
+      <a href="./media.html" class="top__link">[ Media ]</a>
+      <a href="./contact.html" class="top__link">[ Contact ]</a>
+    </div>
+  </nav>
+</header>
+
+<section>
+  <div class="contact-hero">
+    <span class="eyebrow">[ Contact ]</span>
+    <h1 class="contact-heading">
+      <span class="sr-only">Let's talk.</span>
+      <span class="talk-cycle" aria-hidden="true">
+        <span class="talk-phrase">Let's talk.</span>
+        <span class="talk-phrase">Say hello.</span>
+        <span class="talk-phrase">Let's connect.</span>
+        <span class="talk-phrase">Reach out.</span>
+        <span class="talk-phrase">Drop me a line.</span>
+        <span class="talk-phrase">Let's chat.</span>
+        <span class="talk-phrase">Hablemos.</span>
+        <span class="talk-phrase">I'm listening.</span>
+        <span class="talk-phrase">Get in touch.</span>
+        <span class="talk-phrase">Let's collaborate.</span>
+        <span class="talk-phrase">Parlons-en.</span>
+        <span class="talk-phrase">Start a conversation.</span>
+        <span class="talk-phrase">Come say hi.</span>
+        <span class="talk-phrase">Lass uns reden.</span>
+        <span class="talk-phrase">Ask me anything.</span>
+        <span class="talk-phrase">Let's build something.</span>
+        <span class="talk-phrase">Parliamone.</span>
+        <span class="talk-phrase">Open to a chat.</span>
+        <span class="talk-phrase">話しましょう。</span>
+        <span class="talk-phrase">Just an email away.</span>
+        <span class="talk-phrase">一起聊聊吧。</span>
+      </span>
+    </h1>
+    <p class="contact-intro">Whether it's a research collaboration, a question about a paper, a speaking invite, or you're a prospective student — I read every email.</p>
+    <a class="top__cta contact-cta" href="mailto:kwcooper@uci.edu?subject=Hello!">kwcooper@uci.edu</a>
+  </div>
+
+  <div class="contact-links">
+    <a href="https://scholar.google.com/citations?user=nCEUdSoAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    <a href="https://orcid.org/0000-0002-0358-9645" target="_blank" rel="noopener">ORCID</a>
+    <a href="https://www.linkedin.com/in/kwcooper" target="_blank" rel="noopener">LinkedIn</a>
+    <a href="https://github.com/kwcooper" target="_blank" rel="noopener">GitHub</a>
+    <a href="https://twitter.com/kw_cooper" target="_blank" rel="noopener">Twitter / X</a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <p class="footer-left">© 2026+ Keiland W. Cooper</p>
+  <p class="footer-right">
+    <a href="mailto:kwcooper@uci.edu">kwcooper@uci.edu</a>
+  </p>
+</footer>
+</body>
+</html>
