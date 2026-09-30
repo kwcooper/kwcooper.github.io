@@ -978,13 +978,16 @@ div.boxed .media-intro {
   padding: 20px 0;
   border-top: 1px solid color-mix(in srgb, currentColor 18%, transparent);
   border-bottom: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 16%, #000 84%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 16%, #000 84%, transparent);
 }
 .press-marquee__track {
   display: flex;
   align-items: center;
   gap: 40px;
   width: max-content;
-  animation: press-scroll 26s linear infinite;
+  padding-right: 40px;
+  animation: press-scroll 144s linear infinite;
 }
 .press-marquee__track a {
   font-size: 1.15rem;
